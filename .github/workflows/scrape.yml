@@ -1,0 +1,34 @@
+name: scrape
+
+on:
+  #schedule:
+  #  - cron: "0 * * * *"
+
+  workflow_dispatch:
+
+jobs:
+  scrape-latest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        
+      - name: Set up python
+        uses: actions/setup-python@v3.1.1
+        with:
+          python-version: '3.10'
+      
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+        
+      - name: Run scraper script
+        run: python script.py
+      
+      #- name: Set ENV var
+      #  run: |
+      #    echo "DATE=$(python -c 'import datetime as dt; print(dt.datetime.now().date())')" >> $GITHUB_ENV
+      
+      - name: Notify me
+        run: |
+          curl -d "repo scraper ran" ntfy.sh/car-repo-scraper
+          
