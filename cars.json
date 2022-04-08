@@ -1,1 +1,66 @@
-{"last_updated": "2022-04-07 23:54:44 MDT", "repo_sources": [{"credit_union": "America First Credit Union", "cars": [{"title": "2020 Chevrolet Equinox LT", "details": "8,544 Miles Automatic 4X4 2.0L I-4", "bid_price": "$31,000", "bin_price": "$34,000", "bid_end_date": "4/13/22 9:00 AM"}, {"title": "2014 Dodge Charger SRT8 Super Bee", "details": "72,387 Miles Automatic RWD 6.4L V-8", "bid_price": "$24,126", "bin_price": "", "bid_end_date": "4/13/22 9:00 AM"}, {"title": "2018 Ford Escape FRONT WHEEL DRIVE S", "details": "52,787 Miles Automatic FWD 2.5L I-4", "bid_price": "$17,151", "bin_price": "$19,950", "bid_end_date": "4/13/22 9:00 AM"}, {"title": "2014 Hyundai ELANTRA SE", "details": "120,766 Miles Automatic FWD 1.8L I-4", "bid_price": "$6,600", "bin_price": "", "bid_end_date": "4/13/22 9:00 AM"}, {"title": "2015 Hyundai Sonata Limited", "details": "141,141 Miles Automatic FWD 2.4L I-4", "bid_price": "$9,975", "bin_price": "$12,725", "bid_end_date": "4/13/22 9:00 AM"}, {"title": "2017 Nissan Pathfinder FRONT WHEEL DRIVE SV", "details": "84,155 Miles CVT FWD 3.5L V-6", "bid_price": "$14,555", "bin_price": "$17,125", "bid_end_date": "4/13/22 9:00 AM"}, {"title": "2018 Nissan Sentra SV", "details": "71,135 Miles CVT FWD 1.8L I-4", "bid_price": "$14,000", "bin_price": "$16,815", "bid_end_date": "4/13/22 9:00 AM"}, {"title": "2016 Ram Ram Pickup 3500 Tradesman", "details": "98,809 Miles Automatic 4X4 6.7L I-6", "bid_price": "$40,000", "bin_price": "$41,500", "bid_end_date": "4/13/22 9:00 AM"}, {"title": "2018 ROCKWOOD ULTRA LITE M-2604WS", "details": "", "bid_price": "$28,100", "bin_price": "$31,700", "bid_end_date": "4/13/22 9:00 AM"}]}]}
+{
+    "last_updated": "2022-04-08 12:56:51 MDT",
+    "repo_sources": [
+        {
+            "credit_union": "America First Credit Union",
+            "cars": [
+                {
+                    "title": "2020 Chevrolet Equinox LT",
+                    "details": "8,544 Miles Automatic 4X4 2.0L I-4",
+                    "bid_price": "$31,000",
+                    "bin_price": "$34,000",
+                    "bid_end_date": "4/13/22 9:00 AM"
+                },
+                {
+                    "title": "2018 Ford Escape FRONT WHEEL DRIVE S",
+                    "details": "52,787 Miles Automatic FWD 2.5L I-4",
+                    "bid_price": "$17,151",
+                    "bin_price": "$19,950",
+                    "bid_end_date": "4/13/22 9:00 AM"
+                },
+                {
+                    "title": "2014 Hyundai ELANTRA MANUAL TRANSMISSION SE",
+                    "details": "120,766 Miles Automatic FWD 1.8L I-4",
+                    "bid_price": "$6,600",
+                    "bin_price": "",
+                    "bid_end_date": "4/13/22 9:00 AM"
+                },
+                {
+                    "title": "2015 Hyundai Sonata Limited",
+                    "details": "141,141 Miles Automatic FWD 2.4L I-4",
+                    "bid_price": "$10,000",
+                    "bin_price": "$12,725",
+                    "bid_end_date": "4/13/22 9:00 AM"
+                },
+                {
+                    "title": "2017 Nissan Pathfinder FRONT WHEEL DRIVE SV",
+                    "details": "84,155 Miles CVT FWD 3.5L V-6",
+                    "bid_price": "$14,555",
+                    "bin_price": "$17,125",
+                    "bid_end_date": "4/13/22 9:00 AM"
+                },
+                {
+                    "title": "2018 Nissan Sentra SV",
+                    "details": "71,135 Miles CVT FWD 1.8L I-4",
+                    "bid_price": "$14,002",
+                    "bin_price": "$16,815",
+                    "bid_end_date": "4/13/22 9:00 AM"
+                },
+                {
+                    "title": "2016 Ram Ram Pickup 3500 Tradesman",
+                    "details": "98,809 Miles Automatic 4X4 6.7L I-6",
+                    "bid_price": "$40,000",
+                    "bin_price": "$41,500",
+                    "bid_end_date": "4/13/22 9:00 AM"
+                },
+                {
+                    "title": "2018 ROCKWOOD ULTRA LITE M-2604WS",
+                    "details": "",
+                    "bid_price": "$28,100",
+                    "bin_price": "$31,700",
+                    "bid_end_date": "4/13/22 9:00 AM"
+                }
+            ]
+        }
+    ]
+}

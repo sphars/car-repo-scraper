@@ -42,9 +42,9 @@ repo_sources = []
 repo_sources.append({"credit_union": "America First Credit Union", "cars": car_cards})
 
 current_datetime = datetime.now().astimezone().strftime("%Y-%m-%d %H:%M:%S %Z")
-final_json = {
+results = {
     "last_updated": current_datetime,
     "repo_sources":repo_sources
 }
 with open('cars.json', 'w') as f:
-    json.dump(final_json, f)
+    json.dump(results, f, indent=4)
