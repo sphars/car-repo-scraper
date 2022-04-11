@@ -1,6 +1,9 @@
 name: scrape
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 3 * * *"
 
@@ -30,7 +33,7 @@ jobs:
       
       - name: Notify me
         run: |
-          curl -d "repo scraper ran" ntfy.sh/car-repo-scraper
+          curl -d "Car Repo Scraper updated" ntfy.sh/car-repo-scraper
           
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v9.0.0
