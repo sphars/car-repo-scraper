@@ -1,5 +1,5 @@
 {
-    "last_updated": "2022-04-08 13:21:13 MDT",
+    "last_updated": "2022-04-11 04:21:11 UTC",
     "repo_sources": [
         {
             "credit_union": "America First Credit Union",
@@ -21,17 +21,9 @@
                     "image": "https://repos.americafirst.com/storage/images/unit-pictures/622f69543cf05.jpeg"
                 },
                 {
-                    "title": "2014 Hyundai ELANTRA MANUAL TRANSMISSION SE",
-                    "details": "120,766 Miles Manual FWD 1.8L I-4",
-                    "bid_price": "$6,600",
-                    "bin_price": "",
-                    "bid_end_date": "4/13/22 9:00 AM",
-                    "image": "https://repos.americafirst.com/storage/images/unit-pictures/622bb9974ea99.jpeg"
-                },
-                {
                     "title": "2015 Hyundai Sonata Limited",
                     "details": "141,141 Miles Automatic FWD 2.4L I-4",
-                    "bid_price": "$10,000",
+                    "bid_price": "$10,701",
                     "bin_price": "$12,725",
                     "bid_end_date": "4/13/22 9:00 AM",
                     "image": "https://repos.americafirst.com/storage/images/unit-pictures/622f7319a46ee.jpeg"
@@ -39,7 +31,7 @@
                 {
                     "title": "2017 Nissan Pathfinder FRONT WHEEL DRIVE SV",
                     "details": "84,155 Miles CVT FWD 3.5L V-6",
-                    "bid_price": "$14,575",
+                    "bid_price": "$14,600",
                     "bin_price": "$17,125",
                     "bid_end_date": "4/13/22 9:00 AM",
                     "image": "https://repos.americafirst.com/storage/images/unit-pictures/622146a7219ad.jpeg"
@@ -47,7 +39,7 @@
                 {
                     "title": "2018 Nissan Sentra SV",
                     "details": "71,135 Miles CVT FWD 1.8L I-4",
-                    "bid_price": "$14,002",
+                    "bid_price": "$14,169",
                     "bin_price": "$16,815",
                     "bid_end_date": "4/13/22 9:00 AM",
                     "image": "https://repos.americafirst.com/storage/images/unit-pictures/62438208c285d.jpeg"
