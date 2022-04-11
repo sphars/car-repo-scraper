@@ -32,3 +32,9 @@ jobs:
         run: |
           curl -d "repo scraper ran" ntfy.sh/car-repo-scraper
           
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v9.0.0
+        with:
+          message: Update cars data
+          default_author: github_actions
+      
