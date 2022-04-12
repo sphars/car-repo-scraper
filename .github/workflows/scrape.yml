@@ -29,6 +29,7 @@ jobs:
         run: python script.py
 
       - name: Commit and push changes
+        id: commit_and_push
         uses: EndBug/add-and-commit@v9.0.0
         with:
           message: Update cars data
@@ -36,10 +37,9 @@ jobs:
       
       - name: Get sha of latest commit and send notification
         run: >
-          commit=$(git rev-list -1 HEAD cars.json);
           curl 
           -H "Title: Car Repo Scraper" 
           -H "Tags: car" 
-          -H "Click: https://github.com/sphars/car-repo-scraper/commit/${commit}" 
+          -H "Click: https://github.com/sphars/car-repo-scraper/commit/${{ steps.commit_and_push.outputs.commit_sha }}/" 
           -d "Data updated" 
           ntfy.sh/car-repo-scraper
