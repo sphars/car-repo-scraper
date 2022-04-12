@@ -3,6 +3,7 @@ import json
 import re
 from bs4 import BeautifulSoup
 from datetime import datetime
+from zoneinfo import ZoneInfo
 
 afcu_url = 'https://repos.americafirst.com'
 
@@ -46,10 +47,10 @@ for element in soup.find_all('div', class_='card mb-3'):
 repo_sources = []
 repo_sources.append({"credit_union": "America First Credit Union", "cars": car_cards})
 
-current_datetime = datetime.now().astimezone().strftime("%Y-%m-%d %H:%M:%S %Z")
+current_datetime = datetime.now(ZoneInfo("US/Mountain")).strftime("%Y-%m-%d %H:%M:%S %Z")
 results = {
     "last_updated": current_datetime,
-    "repo_sources":repo_sources
+    "repo_sources": repo_sources
 }
 with open('cars.json', 'w') as f:
     json.dump(results, f, indent=4)
