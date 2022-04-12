@@ -3,9 +3,10 @@ name: scrape
 on:
   push:
     branches:
-      - main
+    - main
+      
   schedule:
-    - cron: "0 3 * * *"
+    - cron: '5 12 * * *'
 
   workflow_dispatch:
 
