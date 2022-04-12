@@ -1,5 +1,5 @@
 {
-    "last_updated": "2022-04-11 04:32:48 UTC",
+    "last_updated": "2022-04-12 02:43:10 UTC",
     "repo_sources": [
         {
             "credit_union": "America First Credit Union",
@@ -23,7 +23,7 @@
                 {
                     "title": "2015 Hyundai Sonata Limited",
                     "details": "141,141 Miles Automatic FWD 2.4L I-4",
-                    "bid_price": "$10,701",
+                    "bid_price": "$11,000",
                     "bin_price": "$12,725",
                     "bid_end_date": "4/13/22 9:00 AM",
                     "image": "https://repos.americafirst.com/storage/images/unit-pictures/622f7319a46ee.jpeg"
@@ -31,7 +31,7 @@
                 {
                     "title": "2017 Nissan Pathfinder FRONT WHEEL DRIVE SV",
                     "details": "84,155 Miles CVT FWD 3.5L V-6",
-                    "bid_price": "$14,600",
+                    "bid_price": "$15,000",
                     "bin_price": "$17,125",
                     "bid_end_date": "4/13/22 9:00 AM",
                     "image": "https://repos.americafirst.com/storage/images/unit-pictures/622146a7219ad.jpeg"
@@ -39,7 +39,7 @@
                 {
                     "title": "2018 Nissan Sentra SV",
                     "details": "71,135 Miles CVT FWD 1.8L I-4",
-                    "bid_price": "$14,169",
+                    "bid_price": "$14,200",
                     "bin_price": "$16,815",
                     "bid_end_date": "4/13/22 9:00 AM",
                     "image": "https://repos.americafirst.com/storage/images/unit-pictures/62438208c285d.jpeg"
