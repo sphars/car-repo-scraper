@@ -1,5 +1,5 @@
 {
-    "last_updated": "2022-04-12 06:45:47 MDT",
+    "last_updated": "2022-04-13 06:44:51 MDT",
     "repo_sources": [
         {
             "credit_union": "America First Credit Union",
@@ -7,7 +7,7 @@
                 {
                     "title": "2020 Chevrolet Equinox LT",
                     "details": "8,544 Miles Automatic 4X4 2.0L I-4",
-                    "bid_price": "$31,000",
+                    "bid_price": "$31,100",
                     "bin_price": "$34,000",
                     "bid_end_date": "4/13/22 9:00 AM",
                     "image": "https://repos.americafirst.com/storage/images/unit-pictures/622bd36282952.jpeg"
@@ -23,7 +23,7 @@
                 {
                     "title": "2015 Hyundai Sonata Limited",
                     "details": "141,141 Miles Automatic FWD 2.4L I-4",
-                    "bid_price": "$11,000",
+                    "bid_price": "$11,351",
                     "bin_price": "$12,725",
                     "bid_end_date": "4/13/22 9:00 AM",
                     "image": "https://repos.americafirst.com/storage/images/unit-pictures/622f7319a46ee.jpeg"
@@ -31,7 +31,7 @@
                 {
                     "title": "2017 Nissan Pathfinder FRONT WHEEL DRIVE SV",
                     "details": "84,155 Miles CVT FWD 3.5L V-6",
-                    "bid_price": "$15,000",
+                    "bid_price": "$15,005",
                     "bin_price": "$17,125",
                     "bid_end_date": "4/13/22 9:00 AM",
                     "image": "https://repos.americafirst.com/storage/images/unit-pictures/622146a7219ad.jpeg"
@@ -48,7 +48,7 @@
                     "title": "2016 Ram Ram Pickup 3500 Tradesman",
                     "details": "98,809 Miles Automatic 4X4 6.7L I-6",
                     "bid_price": "$40,000",
-                    "bin_price": "$41,500",
+                    "bin_price": "",
                     "bid_end_date": "4/13/22 9:00 AM",
                     "image": "https://repos.americafirst.com/storage/images/unit-pictures/622a8756a184e.jpeg"
                 },
@@ -56,7 +56,7 @@
                     "title": "2018 ROCKWOOD ULTRA LITE M-2604WS",
                     "details": "",
                     "bid_price": "$28,100",
-                    "bin_price": "",
+                    "bin_price": "$31,700",
                     "bid_end_date": "4/13/22 9:00 AM",
                     "image": "https://repos.americafirst.com/storage/images/unit-pictures/6206a2a71633a.jpeg"
                 }
