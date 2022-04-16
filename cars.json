@@ -1,17 +1,9 @@
 {
-    "last_updated": "2022-04-15 06:43:37 MDT",
+    "last_updated": "2022-04-16 06:41:42 MDT",
     "repo_sources": [
         {
             "credit_union": "America First Credit Union",
             "cars": [
-                {
-                    "title": "2013 Cadillac SRX Performance Collection",
-                    "details": "124,535 Miles Automatic FWD 3.6L V-6",
-                    "bid_price": "$14,001",
-                    "bin_price": "",
-                    "bid_end_date": "4/20/22 9:00 AM",
-                    "image": "https://repos.americafirst.com/storage/images/unit-pictures/624c7fa819864.jpeg"
-                },
                 {
                     "title": "2014 Chevrolet Impala LTZ",
                     "details": "103,377 Miles Automatic FWD 3.6L V-6",
@@ -31,7 +23,7 @@
                 {
                     "title": "2014 Ford F-150 Lariat",
                     "details": "135,051 Miles Automatic 4X4 3.5L V-6",
-                    "bid_price": "$20,000",
+                    "bid_price": "$20,301",
                     "bin_price": "$23,280",
                     "bid_end_date": "4/20/22 9:00 AM",
                     "image": "https://repos.americafirst.com/storage/images/unit-pictures/620ff2a1c21ec.jpeg"
@@ -47,7 +39,7 @@
                 {
                     "title": "2016 Forest River/Palomino Real-Lite 18X",
                     "details": "",
-                    "bid_price": "$15,655",
+                    "bid_price": "$15,700",
                     "bin_price": "$19,200",
                     "bid_end_date": "4/20/22 9:00 AM",
                     "image": "https://repos.americafirst.com/storage/images/unit-pictures/624c86c70b239.jpeg"
@@ -55,7 +47,7 @@
                 {
                     "title": "2018 Harley-Davidson Softail Fat Boy 114",
                     "details": "8,071 Miles 1,753cc",
-                    "bid_price": "$15,500",
+                    "bid_price": "$16,000",
                     "bin_price": "$18,400",
                     "bid_end_date": "4/20/22 9:00 AM",
                     "image": "https://repos.americafirst.com/storage/images/unit-pictures/624c853bc0e5e.jpeg"
@@ -63,8 +55,8 @@
                 {
                     "title": "2006 Honda VTX 1300 C",
                     "details": "30,063 Miles 1,312cc",
-                    "bid_price": "$2,900",
-                    "bin_price": "",
+                    "bid_price": "$2,910",
+                    "bin_price": "$3,500",
                     "bid_end_date": "4/20/22 9:00 AM",
                     "image": "https://repos.americafirst.com/storage/images/unit-pictures/624c846300ee3.jpeg"
                 },
@@ -79,7 +71,7 @@
                 {
                     "title": "2016 Nissan Rogue SV",
                     "details": "92,500 Miles CVT AWD 2.5L I-4",
-                    "bid_price": "$13,510",
+                    "bid_price": "$13,550",
                     "bin_price": "$16,995",
                     "bid_end_date": "4/20/22 9:00 AM",
                     "image": "https://repos.americafirst.com/storage/images/unit-pictures/624c823bdaba6.jpeg"
