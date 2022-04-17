@@ -1,3 +1,4 @@
+from types import new_class
 import requests as r
 import json
 import re
@@ -51,15 +52,44 @@ def getAFCUCars():
         results.append(car_info)
     return results
 
-def writeData(listOfCars):    
+def getNewCars(current_cars):
+    previous_cars = []
+    with open('cars.json', 'r') as f:
+        previous_cars = json.load(f)
+
+    # get the set of unique urls in list of previous cars
+    previous_cars_bucket = set(car["url"] for car in previous_cars)
+    
+    # get the list of cars from current cars by set of urls
+    new_cars = []
+    new_cars.extend(car for car in current_cars if car['url'] not in previous_cars_bucket)
+
+    return new_cars
+
+def sendNotifications(new_cars):
+    for car in new_cars:
+        r.post("https://ntfy.sh/car-repo-scraper",
+            data=f"{car['title']} - {car['details']} - {car['bin_price']}",
+            headers={
+                "Title": "New Car Posted",
+                "Tags": "car",
+                "Click": car['url'],
+                "Attach": car['image']
+            })
+
+
+def writeData(list_of_cars):    
     #current_datetime = datetime.now(ZoneInfo("US/Mountain")).strftime("%Y-%m-%d %H:%M:%S %Z")
     with open('cars.json', 'w') as f:
-        json.dump(listOfCars, f, indent=4)
+        json.dump(list_of_cars, f, indent=4)
 
 def main():
-    cars = []
-    cars += getAFCUCars()
-    writeData(cars)
+    current_cars = []
+    current_cars += getAFCUCars()
+
+    new_cars = getNewCars(current_cars)
+    sendNotifications(new_cars)
+    writeData(current_cars)
 
 
 if __name__ == '__main__':
