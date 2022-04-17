@@ -14,20 +14,20 @@ def getAFCUCars():
     results = []
 
     for element in soup.find_all('div', class_='card mb-3'):
-        car_title = element.select(selector='.card-title')[0].text.strip()
+        car_title = element.select_one(selector='.card-title').text.strip()
         car_details = []
         for li in element.select('ul.text-secondary li'):
             car_details.append(li.text)
 
         car_bid = element.find(string=re.compile('Current High Bid'))
         if car_bid:
-            car_bid_price = car_bid.parent.select('span')[0].text.strip()
+            car_bid_price = car_bid.parent.select_one('span').text.strip()
         else:
             car_bid_price = ''
 
         car_bin = element.find(string=re.compile('Buy it Now'))
         if car_bin:
-            car_bin_price = car_bin.parent.select('span')[0].text.strip()
+            car_bin_price = car_bin.parent.select_one('span').text.strip()
         else:
             car_bin_price = ''
 
