@@ -66,7 +66,7 @@ def getNewCars(current_cars):
 def sendNotifications(new_cars):
     for car in new_cars:
         data = "{0} | {1}\n{2}".format(car['title'], car['bin_price'] or car['bid_price'], car['details'])
-        r.post("https://ntfy.sh/car-repo-scraper",
+        r.post("https://ntfy.sh/utah-car-repos",
             data=data,
             headers={
                 "Title": "New Car Posted",

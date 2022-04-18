@@ -42,4 +42,4 @@ jobs:
       #     -H "Tags: car" 
       #     -H "Click: https://github.com/sphars/car-repo-scraper/commit/${{ steps.commit_and_push.outputs.commit_sha }}/" 
       #     -d "Data updated" 
-      #     ntfy.sh/car-repo-scraper
+      #     ntfy.sh/utah-car-repos
