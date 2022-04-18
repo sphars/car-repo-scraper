@@ -1,11 +1,8 @@
-from types import new_class
 import requests as r
-import json
-import re
+import json, re
 from bs4 import BeautifulSoup
 from datetime import datetime
 from zoneinfo import ZoneInfo
-
 
 def getAFCUCars():
     afcu_url = 'https://repos.americafirst.com'
@@ -58,7 +55,7 @@ def getNewCars(current_cars):
         previous_cars = json.load(f)
 
     # get the set of unique urls in list of previous cars
-    previous_cars_bucket = set(car["url"] for car in previous_cars)
+    previous_cars_bucket = set(car["url"] for car in previous_cars['cars'])
     
     # get the list of cars from current cars by set of urls
     new_cars = []
@@ -68,8 +65,9 @@ def getNewCars(current_cars):
 
 def sendNotifications(new_cars):
     for car in new_cars:
+        data = "{0} | {1}\n{2}".format(car['title'], car['bin_price'] or car['bid_price'], car['details'])
         r.post("https://ntfy.sh/car-repo-scraper",
-            data=f"{car['title']} - {car['details']} - {car['bin_price']}",
+            data=data,
             headers={
                 "Title": "New Car Posted",
                 "Tags": "car",
@@ -79,16 +77,21 @@ def sendNotifications(new_cars):
 
 
 def writeData(list_of_cars):    
-    #current_datetime = datetime.now(ZoneInfo("US/Mountain")).strftime("%Y-%m-%d %H:%M:%S %Z")
+    current_datetime = datetime.now(ZoneInfo("US/Mountain")).strftime("%Y-%m-%d %H:%M:%S %Z")
+    final_data = {
+        "last_updated": current_datetime,
+        "cars": list_of_cars
+    }
     with open('cars.json', 'w') as f:
-        json.dump(list_of_cars, f, indent=4)
+        json.dump(final_data, f, indent=4)
 
 def main():
     current_cars = []
     current_cars += getAFCUCars()
 
     new_cars = getNewCars(current_cars)
-    sendNotifications(new_cars)
+    if(new_cars):
+        sendNotifications(new_cars)
     writeData(current_cars)
 
 

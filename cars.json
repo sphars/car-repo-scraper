@@ -1,92 +1,95 @@
-[
-    {
-        "title": "2014 Chevrolet Impala LTZ",
-        "details": "103,377 Miles Automatic FWD 3.6L V-6",
-        "bid_price": "$14,601",
-        "bin_price": "$16,800",
-        "bid_end_date": "4/20/22 9:00 AM",
-        "image": "https://repos.americafirst.com/storage/images/unit-pictures/623ce41559303.jpeg",
-        "url": "https://repos.americafirst.com/units/1562",
-        "source": "AFCU"
-    },
-    {
-        "title": "2019 Dodge Grand Caravan GT",
-        "details": "72,047 Miles Automatic FWD 3.6L V-6",
-        "bid_price": "$22,379",
-        "bin_price": "$25,650",
-        "bid_end_date": "4/20/22 9:00 AM",
-        "image": "https://repos.americafirst.com/storage/images/unit-pictures/624c7e1ce1e66.jpeg",
-        "url": "https://repos.americafirst.com/units/1573",
-        "source": "AFCU"
-    },
-    {
-        "title": "2014 Ford F-150 Lariat",
-        "details": "135,051 Miles Automatic 4X4 3.5L V-6",
-        "bid_price": "$20,301",
-        "bin_price": "$23,280",
-        "bid_end_date": "4/20/22 9:00 AM",
-        "image": "https://repos.americafirst.com/storage/images/unit-pictures/620ff2a1c21ec.jpeg",
-        "url": "https://repos.americafirst.com/units/1528",
-        "source": "AFCU"
-    },
-    {
-        "title": "2021 FOREST RIVER V-TEC VTV1",
-        "details": "",
-        "bid_price": "$14,075",
-        "bin_price": "$16,300",
-        "bid_end_date": "4/20/22 9:00 AM",
-        "image": "https://repos.americafirst.com/storage/images/unit-pictures/621011d09ee55.jpeg",
-        "url": "https://repos.americafirst.com/units/1529",
-        "source": "AFCU"
-    },
-    {
-        "title": "2016 Forest River/Palomino Real-Lite 18X",
-        "details": "",
-        "bid_price": "$15,705",
-        "bin_price": "$19,200",
-        "bid_end_date": "4/20/22 9:00 AM",
-        "image": "https://repos.americafirst.com/storage/images/unit-pictures/624c86c70b239.jpeg",
-        "url": "https://repos.americafirst.com/units/1578",
-        "source": "AFCU"
-    },
-    {
-        "title": "2018 Harley-Davidson Softail Fat Boy 114",
-        "details": "8,071 Miles 1,753cc",
-        "bid_price": "$16,000",
-        "bin_price": "$18,400",
-        "bid_end_date": "4/20/22 9:00 AM",
-        "image": "https://repos.americafirst.com/storage/images/unit-pictures/624c853bc0e5e.jpeg",
-        "url": "https://repos.americafirst.com/units/1577",
-        "source": "AFCU"
-    },
-    {
-        "title": "2006 Honda VTX 1300 C",
-        "details": "30,063 Miles 1,312cc",
-        "bid_price": "$3,000",
-        "bin_price": "$3,500",
-        "bid_end_date": "4/20/22 9:00 AM",
-        "image": "https://repos.americafirst.com/storage/images/unit-pictures/624c846300ee3.jpeg",
-        "url": "https://repos.americafirst.com/units/1576",
-        "source": "AFCU"
-    },
-    {
-        "title": "2018 INFINITI Q60 3.0T Sport",
-        "details": "50,763 Miles Automatic AWD 3.0L V-6",
-        "bid_price": "$34,500",
-        "bin_price": "$38,400",
-        "bid_end_date": "4/20/22 9:00 AM",
-        "image": "https://repos.americafirst.com/storage/images/unit-pictures/624c7c5fb2bc3.jpeg",
-        "url": "https://repos.americafirst.com/units/1572",
-        "source": "AFCU"
-    },
-    {
-        "title": "2016 Nissan Rogue SV",
-        "details": "92,500 Miles CVT AWD 2.5L I-4",
-        "bid_price": "$13,650",
-        "bin_price": "$16,995",
-        "bid_end_date": "4/20/22 9:00 AM",
-        "image": "https://repos.americafirst.com/storage/images/unit-pictures/624c823bdaba6.jpeg",
-        "url": "https://repos.americafirst.com/units/1575",
-        "source": "AFCU"
-    }
-]
+{
+    "last_updated": "2022-04-17 21:53:36 MDT",
+    "cars": [
+        {
+            "title": "2014 Chevrolet Impala LTZ",
+            "details": "103,377 Miles Automatic FWD 3.6L V-6",
+            "bid_price": "$14,601",
+            "bin_price": "$16,800",
+            "bid_end_date": "4/20/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/623ce41559303.jpeg",
+            "url": "https://repos.americafirst.com/units/1562",
+            "source": "AFCU"
+        },
+        {
+            "title": "2019 Dodge Grand Caravan GT",
+            "details": "72,047 Miles Automatic FWD 3.6L V-6",
+            "bid_price": "$22,379",
+            "bin_price": "$25,650",
+            "bid_end_date": "4/20/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/624c7e1ce1e66.jpeg",
+            "url": "https://repos.americafirst.com/units/1573",
+            "source": "AFCU"
+        },
+        {
+            "title": "2014 Ford F-150 Lariat",
+            "details": "135,051 Miles Automatic 4X4 3.5L V-6",
+            "bid_price": "$20,301",
+            "bin_price": "$23,280",
+            "bid_end_date": "4/20/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/620ff2a1c21ec.jpeg",
+            "url": "https://repos.americafirst.com/units/1528",
+            "source": "AFCU"
+        },
+        {
+            "title": "2021 FOREST RIVER V-TEC VTV1",
+            "details": "",
+            "bid_price": "$14,075",
+            "bin_price": "$16,300",
+            "bid_end_date": "4/20/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/621011d09ee55.jpeg",
+            "url": "https://repos.americafirst.com/units/1529",
+            "source": "AFCU"
+        },
+        {
+            "title": "2016 Forest River/Palomino Real-Lite 18X",
+            "details": "",
+            "bid_price": "$15,705",
+            "bin_price": "$19,200",
+            "bid_end_date": "4/20/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/624c86c70b239.jpeg",
+            "url": "https://repos.americafirst.com/units/1578",
+            "source": "AFCU"
+        },
+        {
+            "title": "2018 Harley-Davidson Softail Fat Boy 114",
+            "details": "8,071 Miles 1,753cc",
+            "bid_price": "$16,000",
+            "bin_price": "$18,400",
+            "bid_end_date": "4/20/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/624c853bc0e5e.jpeg",
+            "url": "https://repos.americafirst.com/units/1577",
+            "source": "AFCU"
+        },
+        {
+            "title": "2006 Honda VTX 1300 C",
+            "details": "30,063 Miles 1,312cc",
+            "bid_price": "$3,100",
+            "bin_price": "",
+            "bid_end_date": "4/20/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/624c846300ee3.jpeg",
+            "url": "https://repos.americafirst.com/units/1576",
+            "source": "AFCU"
+        },
+        {
+            "title": "2018 INFINITI Q60 3.0T Sport",
+            "details": "50,763 Miles Automatic AWD 3.0L V-6",
+            "bid_price": "$34,500",
+            "bin_price": "$38,400",
+            "bid_end_date": "4/20/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/624c7c5fb2bc3.jpeg",
+            "url": "https://repos.americafirst.com/units/1572",
+            "source": "AFCU"
+        },
+        {
+            "title": "2016 Nissan Rogue SV",
+            "details": "92,500 Miles CVT AWD 2.5L I-4",
+            "bid_price": "$14,000",
+            "bin_price": "$16,995",
+            "bid_end_date": "4/20/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/624c823bdaba6.jpeg",
+            "url": "https://repos.americafirst.com/units/1575",
+            "source": "AFCU"
+        }
+    ]
+}
