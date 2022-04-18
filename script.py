@@ -92,7 +92,7 @@ def main():
     new_cars = getNewCars(current_cars)
     if(new_cars):
         sendNotifications(new_cars)
-    writeData(current_cars)
+        writeData(current_cars)
 
 
 if __name__ == '__main__':
