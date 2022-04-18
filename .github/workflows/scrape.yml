@@ -6,7 +6,7 @@ on:
     - main
       
   schedule:
-    - cron: '5 12 * * *'
+    - cron: '0 * * * *'
 
   workflow_dispatch:
 
@@ -35,11 +35,11 @@ jobs:
           message: "action: update car data"
           default_author: github_actions
       
-      - name: Get sha of latest commit and send notification
-        run: >
-          curl 
-          -H "Title: Car Repo Scraper" 
-          -H "Tags: car" 
-          -H "Click: https://github.com/sphars/car-repo-scraper/commit/${{ steps.commit_and_push.outputs.commit_sha }}/" 
-          -d "Data updated" 
-          ntfy.sh/car-repo-scraper
+      # - name: Get sha of latest commit and send notification
+      #   run: >
+      #     curl 
+      #     -H "Title: Car Repo Scraper" 
+      #     -H "Tags: car" 
+      #     -H "Click: https://github.com/sphars/car-repo-scraper/commit/${{ steps.commit_and_push.outputs.commit_sha }}/" 
+      #     -d "Data updated" 
+      #     ntfy.sh/car-repo-scraper
