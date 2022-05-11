@@ -1,84 +1,164 @@
 {
-    "last_updated": "2022-05-04 09:23:18 MDT",
+    "last_updated": "2022-05-11 09:23:04 MDT",
     "cars": [
         {
-            "title": "2016 Dodge Dart SXT",
-            "details": "41,156 Miles Automatic FWD 2.4L I-4",
-            "bid_price": "",
-            "bin_price": "$14,425",
-            "bid_end_date": "5/11/22 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/626b20bb4b884.jpeg",
-            "url": "https://repos.americafirst.com/units/1596",
-            "source": "AFCU"
-        },
-        {
-            "title": "2018 KEYSTONE COUGAR 29RLDWE",
+            "title": "2020 COLEMAN by Dutchman Light Series M-2955RL",
             "details": "",
             "bid_price": "",
-            "bin_price": "$39,400",
-            "bid_end_date": "5/11/22 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/626b172e072df.jpeg",
-            "url": "https://repos.americafirst.com/units/1594",
+            "bin_price": "$43,125",
+            "bid_end_date": "5/18/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/6262e200c16b8.jpeg",
+            "url": "https://repos.americafirst.com/units/1592",
             "source": "AFCU"
         },
         {
-            "title": "2018 Nissan Sentra SV",
-            "details": "71,135 Miles CVT FWD 1.8L I-4",
+            "title": "2019 Dodge Grand Caravan GT",
+            "details": "72,047 Miles Automatic FWD 3.6L V-6",
             "bid_price": "",
-            "bin_price": "$16,815",
-            "bid_end_date": "5/11/22 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/62438208c285d.jpeg",
-            "url": "https://repos.americafirst.com/units/1571",
+            "bin_price": "$23,125",
+            "bid_end_date": "5/18/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/624c7e1ce1e66.jpeg",
+            "url": "https://repos.americafirst.com/units/1573",
             "source": "AFCU"
         },
         {
-            "title": "2018 Nissan Sentra",
-            "details": "40,027 Miles CVT FWD 1.8L I-4",
+            "title": "2007 Ford Edge SE",
+            "details": "153,169 Miles Automatic AWD 3.5L V-6",
             "bid_price": "",
-            "bin_price": "",
-            "bid_end_date": "5/11/22 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/625867b2beb7e.jpeg",
-            "url": "https://repos.americafirst.com/units/1584",
+            "bin_price": "$5,995",
+            "bid_end_date": "5/18/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/6272e355d20a9.jpeg",
+            "url": "https://repos.americafirst.com/units/1598",
             "source": "AFCU"
         },
         {
-            "title": "2007 Subaru B9 Tribeca Ltd. 7-Pass.",
-            "details": "173,670 Miles Automatic AWD 3.0L H-6",
-            "bid_price": "$3,502",
-            "bin_price": "",
-            "bid_end_date": "5/11/22 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/626c1297283db.jpeg",
-            "url": "https://repos.americafirst.com/units/1597",
-            "source": "AFCU"
-        },
-        {
-            "title": "2017 Toyota Corolla iM Base",
-            "details": "39,390 Miles CVT FWD 1.8L I-4",
-            "bid_price": "",
-            "bin_price": "$20,100",
-            "bid_end_date": "5/11/22 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/626b1b2eec53f.jpeg",
-            "url": "https://repos.americafirst.com/units/1595",
-            "source": "AFCU"
-        },
-        {
-            "title": "2016 Toyota Tundra TRD Pro",
-            "details": "75,312 Miles Automatic 4X4 5.7L V-8",
-            "bid_price": "",
-            "bin_price": "$36,325",
-            "bid_end_date": "5/11/22 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/62573fa4c35fa.jpeg",
-            "url": "https://repos.americafirst.com/units/1583",
-            "source": "AFCU"
-        },
-        {
-            "title": "2018 TRAVEL LITE FALCON F-21 RB-21'",
+            "title": "2016 Forest River/Palomino Real-Lite 18X",
             "details": "",
             "bid_price": "",
-            "bin_price": "$19,025",
-            "bid_end_date": "5/11/22 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/61bbcc3f6214f.jpeg",
-            "url": "https://repos.americafirst.com/units/1453",
+            "bin_price": "$19,200",
+            "bid_end_date": "5/18/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/624c86c70b239.jpeg",
+            "url": "https://repos.americafirst.com/units/1578",
+            "source": "AFCU"
+        },
+        {
+            "title": "2019 GRAND DESIGN RV Momentum Toy Hauler M-398M",
+            "details": "",
+            "bid_price": "",
+            "bin_price": "$72,500",
+            "bid_end_date": "5/18/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/62793ec159436.jpeg",
+            "url": "https://repos.americafirst.com/units/1608",
+            "source": "AFCU"
+        },
+        {
+            "title": "2017 Honda Pilot Touring",
+            "details": "93,793 Miles Automatic AWD 3.5L V-6",
+            "bid_price": "",
+            "bin_price": "$28,775",
+            "bid_end_date": "5/18/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/6261900ece34f.jpeg",
+            "url": "https://repos.americafirst.com/units/1591",
+            "source": "AFCU"
+        },
+        {
+            "title": "2018 INFINITI Q60 3.0T Sport",
+            "details": "50,763 Miles Automatic AWD 3.0L V-6",
+            "bid_price": "",
+            "bin_price": "$38,400",
+            "bid_end_date": "5/18/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/624c7c5fe9dd6.jpeg",
+            "url": "https://repos.americafirst.com/units/1572",
+            "source": "AFCU"
+        },
+        {
+            "title": "2016 JAYCO JAYFLIGHT ELITE 28BHBE",
+            "details": "",
+            "bid_price": "$16,552",
+            "bin_price": "",
+            "bid_end_date": "5/18/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/627441cd162ab.jpeg",
+            "url": "https://repos.americafirst.com/units/1607",
+            "source": "AFCU"
+        },
+        {
+            "title": "2020 Jeep Wrangler Unlimited Rubicon",
+            "details": "30,827 Miles Automatic 4X4 3.6L V-6",
+            "bid_price": "",
+            "bin_price": "$54,400",
+            "bid_end_date": "5/18/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/6272f714dfd3b.jpeg",
+            "url": "https://repos.americafirst.com/units/1601",
+            "source": "AFCU"
+        },
+        {
+            "title": "2017 Kawasaki Vulcan 900 Classic",
+            "details": "1,249 Miles 903cc",
+            "bid_price": "$4,601",
+            "bin_price": "",
+            "bid_end_date": "5/18/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/627415beb4068.jpeg",
+            "url": "https://repos.americafirst.com/units/1606",
+            "source": "AFCU"
+        },
+        {
+            "title": "2013 Kia Optima LX",
+            "details": "81,763 Miles Automatic FWD 2.4L I-4",
+            "bid_price": "$9,625",
+            "bin_price": "$12,700",
+            "bid_end_date": "5/18/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/6272f23903dac.jpeg",
+            "url": "https://repos.americafirst.com/units/1600",
+            "source": "AFCU"
+        },
+        {
+            "title": "2015 Nissan Titan SL",
+            "details": "115,836 Miles Automatic 4X4 5.6L V-8",
+            "bid_price": "",
+            "bin_price": "$29,750",
+            "bid_end_date": "5/18/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/6272e85a53105.jpeg",
+            "url": "https://repos.americafirst.com/units/1599",
+            "source": "AFCU"
+        },
+        {
+            "title": "2014 Subaru Forester 2.5i Touring",
+            "details": "90,546 Miles CVT AWD 2.5L H-4",
+            "bid_price": "",
+            "bin_price": "$18,125",
+            "bid_end_date": "5/18/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/627402ddd385e.jpeg",
+            "url": "https://repos.americafirst.com/units/1603",
+            "source": "AFCU"
+        },
+        {
+            "title": "2019 Subaru Impreza 2.0i",
+            "details": "39,557 Miles CVT AWD 2.0L H-4",
+            "bid_price": "",
+            "bin_price": "$23,100",
+            "bid_end_date": "5/18/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/627406c6782fc.jpeg",
+            "url": "https://repos.americafirst.com/units/1604",
+            "source": "AFCU"
+        },
+        {
+            "title": "2013 Toyota Camry LE",
+            "details": "81,915 Miles Automatic FWD 2.5L I-4",
+            "bid_price": "",
+            "bin_price": "$15,520",
+            "bid_end_date": "5/18/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/62740ccc8bd92.jpeg",
+            "url": "https://repos.americafirst.com/units/1605",
+            "source": "AFCU"
+        },
+        {
+            "title": "2017 Toyota Corolla SE",
+            "details": "94,236 Miles CVT FWD 1.8L I-4",
+            "bid_price": "",
+            "bin_price": "$17,800",
+            "bid_end_date": "5/18/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/6273fe1573c13.jpeg",
+            "url": "https://repos.americafirst.com/units/1602",
             "source": "AFCU"
         }
     ]
