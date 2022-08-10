@@ -1,5 +1,5 @@
 # Car Repo Scraper
-A scraper to find and notify when new cars are posted on repossession websites, using GitHub Actions and [ntfy.sh](https://ntfy.sh). The script is ran once every hour.
+A scraper to find and notify when new cars are posted on repossession websites, using GitHub Actions and [ntfy.sh](https://ntfy.sh). The script is ran once a day.
 
 ## Get Notified
 If you want to get notified when a car is posted, you can download the [ntfy.sh mobile app](https://ntfy.sh/docs/subscribe/phone/) (Android only, iOS coming one day) or use the [web app](https://ntfy.sh/app) and subscribe to **utah-car-repos** as the topic.
