@@ -1,34 +1,44 @@
 {
-    "last_updated": "2022-08-31 19:52:56 MDT",
+    "last_updated": "2022-09-07 20:01:33 MDT",
     "cars": [
         {
-            "title": "2020 Chevrolet Colorado Z71",
-            "details": "22,602 Miles Automatic 4X4 3.6L V-6",
-            "bid_price": "$37,175",
-            "bin_price": "$41,100",
-            "bid_end_date": "9/7/22 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/63055d5d5fe9b.jpeg",
-            "url": "https://repos.americafirst.com/units/1707",
+            "title": "2016 Chevrolet Impala Limited LTZ Fleet",
+            "details": "96,530 Miles Automatic FWD 3.6L V-6",
+            "bid_price": "",
+            "bin_price": "$13,200",
+            "bid_end_date": "9/14/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/62fea2fcd7477.jpeg",
+            "url": "https://repos.americafirst.com/units/1697",
             "source": "AFCU"
         },
         {
-            "title": "2019 JAYCO EAGLE 347BHOK",
+            "title": "2019 Honda Civic Sport",
+            "details": "68,949 Miles CVT FWD 2.0L I-4",
+            "bid_price": "",
+            "bin_price": "$24,370",
+            "bid_end_date": "9/14/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/630e758df187d.jpeg",
+            "url": "https://repos.americafirst.com/units/1709",
+            "source": "AFCU"
+        },
+        {
+            "title": "2014 VOLTAGE TOYHAULER M-3800-42'",
             "details": "",
-            "bid_price": "$41,860",
-            "bin_price": "$48,990",
-            "bid_end_date": "9/7/22 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/630636134d9a1.jpeg",
-            "url": "https://repos.americafirst.com/units/1708",
+            "bid_price": "",
+            "bin_price": "$50,990",
+            "bid_end_date": "9/14/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/630e7c9432390.jpeg",
+            "url": "https://repos.americafirst.com/units/1710",
             "source": "AFCU"
         },
         {
-            "title": "2013 Toyota RAV4 ** AFCU Company Car LE",
-            "details": "92,015 Miles Automatic AWD 2.5L I-4",
-            "bid_price": "$14,251",
-            "bin_price": "",
-            "bid_end_date": "9/7/22 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/62fe8734bf277.jpeg",
-            "url": "https://repos.americafirst.com/units/1696",
+            "title": "2019 Volvo S60 T6 Momentum",
+            "details": "43,094 Miles Automatic AWD 2.0L I-4",
+            "bid_price": "",
+            "bin_price": "$33,299",
+            "bid_end_date": "9/14/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/62ec26588ccbb.jpeg",
+            "url": "https://repos.americafirst.com/units/1688",
             "source": "AFCU"
         }
     ]
