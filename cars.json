@@ -1,94 +1,94 @@
 {
-    "last_updated": "2022-10-05 19:49:42 MDT",
+    "last_updated": "2022-10-12 20:02:38 MDT",
     "cars": [
         {
-            "title": "2018 Ford Escape SEL",
-            "details": "84,497 Miles Automatic AWD 1.5L I-4",
-            "bid_price": "",
-            "bin_price": "$19,295",
-            "bid_end_date": "10/12/22 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/632355755e5fc.jpeg",
-            "url": "https://repos.americafirst.com/units/1720",
+            "title": "2013 Acura ILX 2.0L",
+            "details": "90,290 Miles Automatic FWD 2.0L I-4",
+            "bid_price": "$12,251",
+            "bin_price": "$15,600",
+            "bid_end_date": "10/19/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/634050f5d6091.jpeg",
+            "url": "https://repos.americafirst.com/units/1742",
             "source": "AFCU"
         },
         {
-            "title": "2018 GMC Canyon SLT",
-            "details": "68,895 Miles Automatic 4X4 3.6L V-6",
-            "bid_price": "",
-            "bin_price": "$35,100",
-            "bid_end_date": "10/12/22 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/6334af54597d2.jpeg",
-            "url": "https://repos.americafirst.com/units/1736",
-            "source": "AFCU"
-        },
-        {
-            "title": "2012 Harley-Davidson Street Glide Base",
-            "details": "37,324 Miles 1,687cc",
-            "bid_price": "$12,300",
-            "bin_price": "$17,455",
-            "bid_end_date": "10/12/22 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/62ffbf63ba537.jpeg",
-            "url": "https://repos.americafirst.com/units/1705",
-            "source": "AFCU"
-        },
-        {
-            "title": "2018 Jeep Compass Limited",
-            "details": "47,201 Miles Automatic 4X4 2.4L I-4",
-            "bid_price": "$22,230",
-            "bin_price": "$25,920",
-            "bid_end_date": "10/12/22 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/633381b1354e0.jpeg",
-            "url": "https://repos.americafirst.com/units/1734",
-            "source": "AFCU"
-        },
-        {
-            "title": "2017 Jeep Grand Cherokee Summit",
-            "details": "73,630 Miles Automatic 4X4 3.6L V-6",
-            "bid_price": "$29,925",
-            "bin_price": "$33,770",
-            "bid_end_date": "10/12/22 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/6334b4bcd3103.jpeg",
-            "url": "https://repos.americafirst.com/units/1737",
-            "source": "AFCU"
-        },
-        {
-            "title": "2014 Jeep Wrangler Unlimited Altitude Edition",
-            "details": "104,082 Miles Automatic 4X4 3.6L V-6",
-            "bid_price": "$23,500",
-            "bin_price": "$26,990",
-            "bid_end_date": "10/12/22 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/6335b8e814e1b.jpeg",
-            "url": "https://repos.americafirst.com/units/1738",
-            "source": "AFCU"
-        },
-        {
-            "title": "2017 Nissan Altima 2.5 S",
-            "details": "111,798 Miles CVT FWD 2.5L I-4",
-            "bid_price": "$14,001",
-            "bin_price": "$16,175",
-            "bid_end_date": "10/12/22 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/6318dd393778b.jpeg",
-            "url": "https://repos.americafirst.com/units/1711",
-            "source": "AFCU"
-        },
-        {
-            "title": "2022 Nissan Rogue SV",
-            "details": "3,746 Miles CVT AWD 1.5L I-3",
-            "bid_price": "",
-            "bin_price": "$38,499",
-            "bid_end_date": "10/12/22 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/633385ca35555.jpeg",
-            "url": "https://repos.americafirst.com/units/1735",
-            "source": "AFCU"
-        },
-        {
-            "title": "2014 VOLTAGE TOYHAULER M-3800-42'",
+            "title": "2021 CHEROKEE by FOREST RIVER LIMITED M-30BH-37'",
             "details": "",
-            "bid_price": "$38,910",
-            "bin_price": "$50,990",
-            "bid_end_date": "10/12/22 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/630e7c9432390.jpeg",
-            "url": "https://repos.americafirst.com/units/1710",
+            "bid_price": "$32,950",
+            "bin_price": "$40,879",
+            "bid_end_date": "10/19/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/633ccbe1875de.jpeg",
+            "url": "https://repos.americafirst.com/units/1739",
+            "source": "AFCU"
+        },
+        {
+            "title": "2015 Chrysler 200 C",
+            "details": "101,802 Miles Automatic FWD 2.4L I-4",
+            "bid_price": "",
+            "bin_price": "$13,280",
+            "bid_end_date": "10/19/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/63406af9b83b7.jpeg",
+            "url": "https://repos.americafirst.com/units/1744",
+            "source": "AFCU"
+        },
+        {
+            "title": "2017 Ford Explorer Limited",
+            "details": "101,263 Miles Automatic AWD 3.5L V-6",
+            "bid_price": "$20,200",
+            "bin_price": "",
+            "bid_end_date": "10/19/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/6340594702d9e.jpeg",
+            "url": "https://repos.americafirst.com/units/1743",
+            "source": "AFCU"
+        },
+        {
+            "title": "2019 Ford F-150 XLT",
+            "details": "70,269 Miles Automatic 4X4 3.5L V-6",
+            "bid_price": "",
+            "bin_price": "$36,400",
+            "bid_end_date": "10/19/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/632247cac9cd7.jpeg",
+            "url": "https://repos.americafirst.com/units/1716",
+            "source": "AFCU"
+        },
+        {
+            "title": "2016 Ford F-150 Lariat",
+            "details": "103,746 Miles Automatic 4X4 3.5L V-6",
+            "bid_price": "$30,325",
+            "bin_price": "$35,475",
+            "bid_end_date": "10/19/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/63404a8de5307.jpeg",
+            "url": "https://repos.americafirst.com/units/1741",
+            "source": "AFCU"
+        },
+        {
+            "title": "2019 Hyundai SONATA Sport",
+            "details": "31,997 Miles Automatic FWD 2.4L I-4",
+            "bid_price": "",
+            "bin_price": "$25,800",
+            "bid_end_date": "10/19/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/63222045b61dd.jpeg",
+            "url": "https://repos.americafirst.com/units/1715",
+            "source": "AFCU"
+        },
+        {
+            "title": "2020 Nissan Rogue FRONT WHEEL DRIVE SV",
+            "details": "65,345 Miles CVT FWD 2.5L I-4",
+            "bid_price": "",
+            "bin_price": "$19,675",
+            "bid_end_date": "10/19/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/632b64aa9fd41.jpeg",
+            "url": "https://repos.americafirst.com/units/1729",
+            "source": "AFCU"
+        },
+        {
+            "title": "2015 ROCKWOOD by FOREST RIVER FREEDOM SERIES M-2318G-24'",
+            "details": "",
+            "bid_price": "",
+            "bin_price": "$11,300",
+            "bid_end_date": "10/19/22 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/633cd3bbcf95e.jpeg",
+            "url": "https://repos.americafirst.com/units/1740",
             "source": "AFCU"
         }
     ]
