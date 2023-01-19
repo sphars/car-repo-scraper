@@ -1,64 +1,104 @@
 {
-    "last_updated": "2023-01-11 18:17:04 MST",
+    "last_updated": "2023-01-18 18:18:17 MST",
     "cars": [
         {
-            "title": "2017 Chevrolet Cruze LS Auto",
-            "details": "51,251 Miles Automatic FWD 1.4L I-4",
-            "bid_price": "$10,303",
-            "bin_price": "$13,615",
-            "bid_end_date": "1/18/23 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/63b72d781b56e.jpeg",
-            "url": "https://repos.americafirst.com/units/1812",
-            "source": "AFCU"
-        },
-        {
-            "title": "2018 Dodge Charger GT",
-            "details": "45,243 Miles Automatic AWD 3.6L V-6",
+            "title": "2020 Dodge Journey FRONT WHEEL DRIVE SE Value",
+            "details": "27,260 Miles Automatic FWD 2.4L I-4",
             "bid_price": "",
-            "bin_price": "$25,500",
-            "bid_end_date": "1/18/23 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/6376c35679df3.jpeg",
-            "url": "https://repos.americafirst.com/units/1774",
+            "bin_price": "$21,689",
+            "bid_end_date": "1/25/23 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/639d0583ddbdc.jpeg",
+            "url": "https://repos.americafirst.com/units/1800",
             "source": "AFCU"
         },
         {
-            "title": "2015 Ford F-150 XLT",
-            "details": "91,824 Miles Automatic 4X4 3.5L V-6",
-            "bid_price": "$23,001",
-            "bin_price": "$26,050",
-            "bid_end_date": "1/18/23 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/6359a97a5bdf1.jpeg",
-            "url": "https://repos.americafirst.com/units/1756",
-            "source": "AFCU"
-        },
-        {
-            "title": "2013 Lincoln MKZ All Wheel Drive Base",
-            "details": "56,556 Miles Automatic AWD 2.0L I-4",
-            "bid_price": "$12,863",
-            "bin_price": "$16,900",
-            "bid_end_date": "1/18/23 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/63b722ddea866.jpeg",
-            "url": "https://repos.americafirst.com/units/1810",
-            "source": "AFCU"
-        },
-        {
-            "title": "2013 Ram 1500 2X4 Express",
-            "details": "138,901 Miles Automatic 4X2 5.7L V-8",
+            "title": "2020 Dodge Journey FRONT WHEEL DRIVE SE Value",
+            "details": "28,054 Miles Automatic FWD 2.4L I-4",
             "bid_price": "",
-            "bin_price": "$13,900",
-            "bid_end_date": "1/18/23 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/63b767b393773.jpeg",
-            "url": "https://repos.americafirst.com/units/1813",
+            "bin_price": "$21,800",
+            "bid_end_date": "1/25/23 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/63bf21e697cc6.jpeg",
+            "url": "https://repos.americafirst.com/units/1819",
             "source": "AFCU"
         },
         {
-            "title": "2021 Volkswagen Tiguan SE 4Motion",
-            "details": "19,020 Miles Automatic AWD 2.0L I-4",
+            "title": "2016 Harley-Davidson Street Glide CVO Street Glide",
+            "details": "15,046 Miles 1,803cc",
             "bid_price": "",
-            "bin_price": "$28,900",
-            "bid_end_date": "1/18/23 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/63b72a32ea22c.jpeg",
-            "url": "https://repos.americafirst.com/units/1811",
+            "bin_price": "$27,499",
+            "bid_end_date": "1/25/23 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/63a4ae139c045.jpeg",
+            "url": "https://repos.americafirst.com/units/1805",
+            "source": "AFCU"
+        },
+        {
+            "title": "2019 Jeep Compass FRONT WHEEL DRIVE Latitude",
+            "details": "52,453 Miles Automatic FWD 2.4L I-4",
+            "bid_price": "",
+            "bin_price": "$20,489",
+            "bid_end_date": "1/25/23 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/63bf1c5d42544.jpeg",
+            "url": "https://repos.americafirst.com/units/1818",
+            "source": "AFCU"
+        },
+        {
+            "title": "2018 Nissan Pathfinder SV",
+            "details": "90,812 Miles CVT 4X4 3.5L V-6",
+            "bid_price": "",
+            "bin_price": "$17,800",
+            "bid_end_date": "1/25/23 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/63c067c0e41a3.jpeg",
+            "url": "https://repos.americafirst.com/units/1821",
+            "source": "AFCU"
+        },
+        {
+            "title": "2020 Nissan Rogue Sport SV",
+            "details": "8,497 Miles CVT AWD 2.0L I-4",
+            "bid_price": "$21,725",
+            "bin_price": "$24,715",
+            "bid_end_date": "1/25/23 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/63bf149286a97.jpeg",
+            "url": "https://repos.americafirst.com/units/1817",
+            "source": "AFCU"
+        },
+        {
+            "title": "2018 Polaris RZR XP 4 Turbo EPS",
+            "details": "3,754 Miles 925cc",
+            "bid_price": "$19,752",
+            "bin_price": "$20,800",
+            "bid_end_date": "1/25/23 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/63bf02b2ef707.jpeg",
+            "url": "https://repos.americafirst.com/units/1814",
+            "source": "AFCU"
+        },
+        {
+            "title": "2018 Ram 2500 Laramie",
+            "details": "63,017 Miles Automatic 4X4 6.7L I-6",
+            "bid_price": "$46,151",
+            "bin_price": "$50,670",
+            "bid_end_date": "1/25/23 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/63bf34e164942.jpeg",
+            "url": "https://repos.americafirst.com/units/1820",
+            "source": "AFCU"
+        },
+        {
+            "title": "2018 Suzuki RM-Z 450",
+            "details": "0 Miles 449cc",
+            "bid_price": "$4,600",
+            "bin_price": "$6,200",
+            "bid_end_date": "1/25/23 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/63bf07c022353.jpeg",
+            "url": "https://repos.americafirst.com/units/1815",
+            "source": "AFCU"
+        },
+        {
+            "title": "2013 Victory Hard-Ball Base",
+            "details": "37,265 Miles 1,731cc",
+            "bid_price": "$4,100",
+            "bin_price": "",
+            "bid_end_date": "1/25/23 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/63bf0e9e48152.jpeg",
+            "url": "https://repos.americafirst.com/units/1816",
             "source": "AFCU"
         }
     ]
