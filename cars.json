@@ -1,64 +1,54 @@
 {
-    "last_updated": "2023-05-03 19:09:58 MDT",
+    "last_updated": "2023-05-10 19:11:01 MDT",
     "cars": [
         {
-            "title": "2019 Ford EcoSport Titanium",
-            "details": "47,106 Miles Automatic AWD 2.0L I-4",
-            "bid_price": "$18,000",
-            "bin_price": "$20,250",
-            "bid_end_date": "5/10/23 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/644988573ce90.jpeg",
-            "url": "https://repos.americafirst.com/units/1919",
-            "source": "AFCU"
-        },
-        {
-            "title": "2018 GMC Sierra 1500 SLT",
-            "details": "101,354 Miles Automatic 4X4 6.2L V-8",
-            "bid_price": "$33,102",
-            "bin_price": "$35,100",
-            "bid_end_date": "5/10/23 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/640a7482d50a7.jpeg",
-            "url": "https://repos.americafirst.com/units/1869",
-            "source": "AFCU"
-        },
-        {
-            "title": "2018 Jeep Compass Latitude",
-            "details": "54,448 Miles Automatic 4X4 2.4L I-4",
-            "bid_price": "",
-            "bin_price": "$21,200",
-            "bid_end_date": "5/10/23 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/645191a20808e.jpeg",
-            "url": "https://repos.americafirst.com/units/1922",
-            "source": "AFCU"
-        },
-        {
-            "title": "2020 Jeep Wrangler Unlimited Sahara",
-            "details": "65,977 Miles Automatic 4X4 2.0L I-4",
-            "bid_price": "",
-            "bin_price": "$41,300",
-            "bid_end_date": "5/10/23 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/64382b9be8f92.jpeg",
-            "url": "https://repos.americafirst.com/units/1900",
-            "source": "AFCU"
-        },
-        {
-            "title": "2018 Nissan Sentra",
-            "details": "71,141 Miles CVT FWD 1.8L I-4",
-            "bid_price": "$9,100",
-            "bin_price": "$11,299",
-            "bid_end_date": "5/10/23 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/64519118b23b6.jpeg",
-            "url": "https://repos.americafirst.com/units/1923",
-            "source": "AFCU"
-        },
-        {
-            "title": "2014 Polaris RZR 800 EPS Blue Fire LE",
-            "details": "3,412 Miles 760cc",
-            "bid_price": "$7,819",
+            "title": "2011 Hyundai ELANTRA Limited **See Photos**",
+            "details": "107,835 Miles Automatic FWD 1.8L I-4",
+            "bid_price": "$5,000",
             "bin_price": "",
-            "bid_end_date": "5/10/23 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/644fe37ced06d.jpeg",
-            "url": "https://repos.americafirst.com/units/1921",
+            "bid_end_date": "5/17/23 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/64556b74f32bf.jpeg",
+            "url": "https://repos.americafirst.com/units/1925",
+            "source": "AFCU"
+        },
+        {
+            "title": "2020 JAYCO JAY FEATHER M-18 RBM-24'",
+            "details": "",
+            "bid_price": "$20,550",
+            "bin_price": "$24,270",
+            "bid_end_date": "5/17/23 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/64594503875ac.jpeg",
+            "url": "https://repos.americafirst.com/units/1927",
+            "source": "AFCU"
+        },
+        {
+            "title": "2017 Kia Forte LX",
+            "details": "54,448 Miles Automatic FWD 2.0L I-4",
+            "bid_price": "",
+            "bin_price": "",
+            "bid_end_date": "5/17/23 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/64593d424b9cc.jpeg",
+            "url": "https://repos.americafirst.com/units/1926",
+            "source": "AFCU"
+        },
+        {
+            "title": "2013 Mazda CX-9 Grand Touring",
+            "details": "103,546 Miles Automatic AWD 3.7L V-6",
+            "bid_price": "$9,702",
+            "bin_price": "$12,120",
+            "bid_end_date": "5/17/23 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/64382f7183554.jpeg",
+            "url": "https://repos.americafirst.com/units/1901",
+            "source": "AFCU"
+        },
+        {
+            "title": "2021 Volkswagen Tiguan SEL 4Motion",
+            "details": "22,290 Miles Automatic AWD 2.0L I-4",
+            "bid_price": "",
+            "bin_price": "$31,400",
+            "bid_end_date": "5/17/23 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/64542e2166d24.jpeg",
+            "url": "https://repos.americafirst.com/units/1924",
             "source": "AFCU"
         }
     ]
