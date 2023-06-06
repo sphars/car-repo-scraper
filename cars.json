@@ -1,14 +1,24 @@
 {
-    "last_updated": "2023-05-31 19:48:34 MDT",
+    "last_updated": "2023-06-05 19:24:10 MDT",
     "cars": [
         {
             "title": "2018 Audi Q3 2.0T quattro Premium Plus",
             "details": "55,165 Miles Automatic AWD 2.0L I-4",
-            "bid_price": "$24,950",
+            "bid_price": "$24,956",
             "bin_price": "$29,500",
             "bid_end_date": "6/7/23 9:00 AM",
             "image": "https://repos.americafirst.com/storage/images/unit-pictures/646f8fe609619.jpeg",
             "url": "https://repos.americafirst.com/units/1941",
+            "source": "AFCU"
+        },
+        {
+            "title": "2016 Chevrolet Malibu Limited LT",
+            "details": "157,554 Miles Automatic FWD 2.5L I-4",
+            "bid_price": "$7,000",
+            "bin_price": "$7,995",
+            "bid_end_date": "6/7/23 9:00 AM",
+            "image": "https://repos.americafirst.com/storage/images/unit-pictures/646fe184289fd.jpeg",
+            "url": "https://repos.americafirst.com/units/1950",
             "source": "AFCU"
         },
         {
@@ -24,8 +34,8 @@
         {
             "title": "2012 GMC Terrain SLT-2",
             "details": "133,876 Miles Automatic AWD 3.0L V-6",
-            "bid_price": "$7,051",
-            "bin_price": "$9,980",
+            "bid_price": "$9,250",
+            "bin_price": "",
             "bid_end_date": "6/7/23 9:00 AM",
             "image": "https://repos.americafirst.com/storage/images/unit-pictures/646facec9e700.jpeg",
             "url": "https://repos.americafirst.com/units/1945",
@@ -34,7 +44,7 @@
         {
             "title": "2017 Hyundai SANTA FE Sport front wheel drive 2.0T Ultimate",
             "details": "62,495 Miles Automatic FWD 2.0L I-4",
-            "bid_price": "$18,200",
+            "bid_price": "$18,203",
             "bin_price": "$21,300",
             "bid_end_date": "6/7/23 9:00 AM",
             "image": "https://repos.americafirst.com/storage/images/unit-pictures/646fa61bcda54.jpeg",
@@ -44,7 +54,7 @@
         {
             "title": "2021 JAYCO WHITE HAWK M-27 RB-33'",
             "details": "",
-            "bid_price": "$27,150",
+            "bid_price": "$27,501",
             "bin_price": "$33,190",
             "bid_end_date": "6/7/23 9:00 AM",
             "image": "https://repos.americafirst.com/storage/images/unit-pictures/6441b3b115229.jpeg",
@@ -52,19 +62,9 @@
             "source": "AFCU"
         },
         {
-            "title": "2016 Jeep Cherokee Trailhawk",
-            "details": "90,436 Miles Automatic 4X4 3.2L V-6",
-            "bid_price": "$18,200",
-            "bin_price": "$20,400",
-            "bid_end_date": "6/7/23 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/646fceff66df1.jpeg",
-            "url": "https://repos.americafirst.com/units/1947",
-            "source": "AFCU"
-        },
-        {
             "title": "2019 Jeep Cherokee Latitude Plus",
             "details": "102,137 Miles Automatic 4X4 2.4L I-4",
-            "bid_price": "",
+            "bid_price": "$15,901",
             "bin_price": "$18,975",
             "bid_end_date": "6/7/23 9:00 AM",
             "image": "https://repos.americafirst.com/storage/images/unit-pictures/646fd5ca4c36a.jpeg",
@@ -74,8 +74,8 @@
         {
             "title": "2018 Kia Optima LX",
             "details": "67,024 Miles Automatic FWD 2.4L I-4",
-            "bid_price": "$15,001",
-            "bin_price": "$16,320",
+            "bid_price": "$15,201",
+            "bin_price": "",
             "bid_end_date": "6/7/23 9:00 AM",
             "image": "https://repos.americafirst.com/storage/images/unit-pictures/646fa15e1b832.jpeg",
             "url": "https://repos.americafirst.com/units/1943",
@@ -84,7 +84,7 @@
         {
             "title": "2017 Kia Sorento FRONT WHEEL DRIVE LX V6",
             "details": "69,442 Miles Automatic FWD 3.3L V-6",
-            "bid_price": "$14,441",
+            "bid_price": "$14,442",
             "bin_price": "$16,025",
             "bid_end_date": "6/7/23 9:00 AM",
             "image": "https://repos.americafirst.com/storage/images/unit-pictures/646f86cd32638.jpeg",
@@ -94,7 +94,7 @@
         {
             "title": "2021 Ram 1500 Limited",
             "details": "18,195 Miles Automatic 4X4 5.7L V-8",
-            "bid_price": "$57,675",
+            "bid_price": "$59,000",
             "bin_price": "$63,500",
             "bid_end_date": "6/7/23 9:00 AM",
             "image": "https://repos.americafirst.com/storage/images/unit-pictures/646f967c880cc.jpeg",
@@ -104,7 +104,7 @@
         {
             "title": "2017 Volkswagen Jetta 1.4T SE",
             "details": "97,889 Miles Automatic FWD 1.4L I-4",
-            "bid_price": "$9,700",
+            "bid_price": "$10,200",
             "bin_price": "$12,880",
             "bid_end_date": "6/7/23 9:00 AM",
             "image": "https://repos.americafirst.com/storage/images/unit-pictures/64399ed402670.jpeg",
@@ -114,7 +114,7 @@
         {
             "title": "2014 Volkswagen Passat 1.8T SE PZEV",
             "details": "91,984 Miles Automatic FWD 1.8L I-4",
-            "bid_price": "$8,900",
+            "bid_price": "$9,500",
             "bin_price": "$11,270",
             "bid_end_date": "6/7/23 9:00 AM",
             "image": "https://repos.americafirst.com/storage/images/unit-pictures/646fdbde6606f.jpeg",
