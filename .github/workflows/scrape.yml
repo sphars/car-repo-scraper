@@ -22,11 +22,18 @@ jobs:
         with:
           python-version: '3.10'
       
+      - name: Install Chrome
+        run: |
+          sudo wget http://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+          sudo dpkg -i google-chrome-stable_current_amd64.deb
+
       - name: Install dependencies
         run: pip install -r requirements.txt
         
       - name: Run scraper script
-        run: python script.py
+        run: |
+          CHROME_VERSION=$(google-chrome --product-version) && echo $CHROME_VERSION
+          python script.py
 
       - name: Commit and push changes
         id: commit_and_push
