@@ -34,7 +34,7 @@ jobs:
           sudo apt install unzip
           mkdir chromedriver
           unzip -q "chromedriver-linux64.zip" -d "chromedriver"
-          echo 'export PATH=$PATH:$(pwd)/chromedriver' >> ~/.bash_profile
+          echo 'export PATH=$(pwd)/chromedriver:$PATH' >> ~/.bash_profile
           source ~/.bash_profile
 
       - name: Install dependencies
