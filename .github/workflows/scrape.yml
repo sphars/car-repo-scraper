@@ -34,8 +34,8 @@ jobs:
           sudo apt install unzip
           mkdir chromedriver
           unzip -q "chromedriver-linux64.zip" -d "chromedriver"
-          echo 'export PATH=$(pwd)/chromedriver:$PATH' >> ~/.bash_profile
-          source ~/.bash_profile
+          chromedriver --version
+          
 
       - name: Install dependencies
         run: pip install -r requirements.txt
@@ -43,6 +43,9 @@ jobs:
       - name: Run scraper script
         run: |
           CHROME_VERSION=$(google-chrome --product-version) && echo $CHROME_VERSION
+          echo 'export PATH=$(pwd)/chromedriver:$PATH' >> ~/.bash_profile
+          source ~/.bash_profile
+          env
           python script.py
 
       - name: Commit and push changes
