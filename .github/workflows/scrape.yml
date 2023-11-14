@@ -26,7 +26,16 @@ jobs:
         run: |
           sudo wget http://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
           sudo dpkg -i google-chrome-stable_current_amd64.deb
-          sudo apt update && sudo apt upgrade -y
+
+      - name: Install chromedriver
+        run: |
+          CHROME_VERSION=$(curl "https://googlechromelabs.github.io/chrome-for-testing/LATEST_RELEASE_STABLE")
+          curl -Lo chromedriver-linux64.zip "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/${CHROME_VERSION}/linux64/chromedriver-linux64.zip"
+          sudo apt install unzip
+          mkdir chromedriver
+          unzip -q "chromedriver-linux64.zip" -d "chromedriver"
+          echo 'export PATH=$PATH:$(pwd)/chromedriver' >> ~/.bash_profile
+          source ~/.bash_profile
 
       - name: Install dependencies
         run: pip install -r requirements.txt
