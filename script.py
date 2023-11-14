@@ -10,16 +10,21 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 # setup chrome
-user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.123 Safari/537.36"
 chrome_options = Options()
-chrome_options.add_argument("--headless")
-chrome_options.add_argument("--no-sandbox")
-chrome_options.add_argument(f"--user-agent={user_agent}")
+user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.123 Safari/537.36"
+options = [
+    "--headless",
+    "--disable-gpu",
+    "--window-size=1920,1080",
+    "--disable-extensions",
+    "--no-sandbox",
+    f"--user-agent={user_agent}"
+]
+for option in options:
+    chrome_options.add_argument(option)
 
-homedir = os.path.expanduser("~")
-webdriver_service = Service(f"{homedir}/chromedriver/stable/chromedriver-linux64/chromedriver", log_output=1)
-
-driver = webdriver.Chrome(service=webdriver_service, options=chrome_options)
+service = Service(log_output=1)
+driver = webdriver.Chrome(options=chrome_options, service=service)
 
 def get_afcu_cars():
     afcu_url = 'https://repos.americafirst.com'
@@ -33,52 +38,54 @@ def get_afcu_cars():
     print(f"Found {len(cards)} vehicles from AFCU")
 
     results = []
-    for card in cards:
-        # get car title
-        car_title = card.find_element(By.CLASS_NAME, "card-title").text
-        print(car_title)
+    if len(cards) > 0:
+            
+        for card in cards:
+            # get car title
+            car_title = card.find_element(By.CLASS_NAME, "card-title").text
+            print(car_title)
 
-        # get car details
-        details_elements = card.find_elements(By.CLASS_NAME, "list-inline-item")
-        car_details = []
-        for item in details_elements:
-            car_details.append(item.text)
+            # get car details
+            details_elements = card.find_elements(By.CLASS_NAME, "list-inline-item")
+            car_details = []
+            for item in details_elements:
+                car_details.append(item.text)
 
-        # get current bid and buy now prices
-        car_prices = card.find_elements(By.CSS_SELECTOR, ".h4.text-primary strong")
-        car_bid_price = ""
-        car_buy_now = ""
-        if car_prices:
-            car_bid_price = car_prices[0].text.strip()
-            if len(car_prices) > 1:
-                car_buy_now = car_prices[1].text.strip()
+            # get current bid and buy now prices
+            car_prices = card.find_elements(By.CSS_SELECTOR, ".h4.text-primary strong")
+            car_bid_price = ""
+            car_buy_now = ""
+            if car_prices:
+                car_bid_price = car_prices[0].text.strip()
+                if len(car_prices) > 1:
+                    car_buy_now = car_prices[1].text.strip()
 
 
-        # get car bid end date
-        car_bid_end_date = card.find_element(By.CSS_SELECTOR, ".card-text.small.mt-3").text[14:]
+            # get car bid end date
+            car_bid_end_date = card.find_element(By.CSS_SELECTOR, ".card-text.small.mt-3").text[14:]
 
-        # get the link to the image
-        car_image_src = card.find_element(By.TAG_NAME, "img").get_attribute("src")
-        car_image_url = f"{car_image_src}"
+            # get the link to the image
+            car_image_src = card.find_element(By.TAG_NAME, "img").get_attribute("src")
+            car_image_url = f"{car_image_src}"
 
-        # get the link to the details page
-        car_details_url_value = card.find_element(By.CSS_SELECTOR, ".card-footer a.btn.btn-primary").get_attribute("href")
-        car_details_url = f"{car_details_url_value}"
+            # get the link to the details page
+            car_details_url_value = card.find_element(By.CSS_SELECTOR, ".card-footer a.btn.btn-primary").get_attribute("href")
+            car_details_url = f"{car_details_url_value}"
 
-        # assemble data
-        car_info = {
-            'title': car_title,
-            'details': ' '.join(car_details),
-            'bid_price': car_bid_price,
-            'bin_price': car_buy_now,
-            'bid_end_date': car_bid_end_date,
-            'image': car_image_url,
-            'url': car_details_url,
-            'source': "AFCU"
-        }
+            # assemble data
+            car_info = {
+                'title': car_title,
+                'details': ' '.join(car_details),
+                'bid_price': car_bid_price,
+                'bin_price': car_buy_now,
+                'bid_end_date': car_bid_end_date,
+                'image': car_image_url,
+                'url': car_details_url,
+                'source': "AFCU"
+            }
 
-        results.append(car_info)
-        
+            results.append(car_info)
+            
     return results
 
 def get_new_cars(current_cars):
