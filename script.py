@@ -1,55 +1,87 @@
 import requests as r
-import json, re
-from bs4 import BeautifulSoup
+import json, os
+
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
+
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
-def getAFCUCars():
+# setup chrome
+user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.123 Safari/537.36"
+chrome_options = Options()
+chrome_options.add_argument("--headless")
+chrome_options.add_argument("--no-sandbox")
+chrome_options.add_argument(f"--user-agent={user_agent}")
+
+homedir = os.path.expanduser("~")
+webdriver_service = Service(f"{homedir}/chromedriver/stable/chromedriver-linux64/chromedriver", log_output=1)
+
+driver = webdriver.Chrome(service=webdriver_service, options=chrome_options)
+
+def get_afcu_cars():
     afcu_url = 'https://repos.americafirst.com'
 
-    page = r.get(afcu_url)
-    soup = BeautifulSoup(page.content, 'html.parser')
+    # load the webpage
+    driver.get(afcu_url)
+    driver.implicitly_wait(1)
+
+    # get the cards
+    cards = driver.find_elements(By.CSS_SELECTOR, "div[class = 'card mb-3']")
+    print(f"Found {len(cards)} vehicles from AFCU")
+
     results = []
+    for card in cards:
+        # get car title
+        car_title = card.find_element(By.CLASS_NAME, "card-title").text
+        print(car_title)
 
-    for element in soup.find_all('div', class_='card mb-3'):
-        car_title = element.select_one(selector='.card-title').text.strip()
+        # get car details
+        details_elements = card.find_elements(By.CLASS_NAME, "list-inline-item")
         car_details = []
-        for li in element.select('ul.text-secondary li'):
-            car_details.append(li.text)
+        for item in details_elements:
+            car_details.append(item.text)
 
-        car_bid = element.find(string=re.compile('Current High Bid'))
-        if car_bid:
-            car_bid_price = car_bid.parent.select_one('span').text.strip()
-        else:
-            car_bid_price = ''
+        # get current bid and buy now prices
+        car_prices = card.find_elements(By.CSS_SELECTOR, ".h4.text-primary strong")
+        car_bid_price = ""
+        car_buy_now = ""
+        if car_prices:
+            car_bid_price = car_prices[0].text.strip()
+            if len(car_prices) > 1:
+                car_buy_now = car_prices[1].text.strip()
 
-        car_bin = element.find(string=re.compile('Buy it Now'))
-        if car_bin:
-            car_bin_price = car_bin.parent.select_one('span').text.strip()
-        else:
-            car_bin_price = ''
 
-        car_bid_end_date = element.find(string=re.compile('Bidding Ends'))[14:]
+        # get car bid end date
+        car_bid_end_date = card.find_element(By.CSS_SELECTOR, ".card-text.small.mt-3").text[14:]
 
-        car_image_src = '{}{}'.format(afcu_url, element.select_one(selector='img').attrs['src'])
+        # get the link to the image
+        car_image_src = card.find_element(By.TAG_NAME, "img").get_attribute("src")
+        car_image_url = f"{car_image_src}"
 
-        car_details_url = '{}{}'.format(afcu_url, element.select_one(selector='.card-footer a.btn.btn-primary').attrs['href'])
+        # get the link to the details page
+        car_details_url_value = card.find_element(By.CSS_SELECTOR, ".card-footer a.btn.btn-primary").get_attribute("href")
+        car_details_url = f"{car_details_url_value}"
 
+        # assemble data
         car_info = {
             'title': car_title,
             'details': ' '.join(car_details),
             'bid_price': car_bid_price,
-            'bin_price': car_bin_price,
+            'bin_price': car_buy_now,
             'bid_end_date': car_bid_end_date,
-            'image': car_image_src,
+            'image': car_image_url,
             'url': car_details_url,
             'source': "AFCU"
         }
 
         results.append(car_info)
+        
     return results
 
-def getNewCars(current_cars):
+def get_new_cars(current_cars):
     previous_cars = []
     with open('cars.json', 'r') as f:
         previous_cars = json.load(f)
@@ -63,9 +95,9 @@ def getNewCars(current_cars):
 
     return new_cars
 
-def sendNotifications(new_cars):
+def send_notifications(new_cars):
     for car in new_cars:
-        data = "{0} | {1}\n{2}".format(car['title'], car['bin_price'] or car['bid_price'], car['details'])
+        data = f"{car['title']} | {car['bid_price'] or car['bin_price']}\n{car['details']}"
         r.post("https://ntfy.sh/utah-car-repos",
             data=data,
             headers={
@@ -76,23 +108,26 @@ def sendNotifications(new_cars):
             })
 
 
-def writeData(list_of_cars):    
+def write_data(list_of_cars):    
     current_datetime = datetime.now(ZoneInfo("US/Mountain")).strftime("%Y-%m-%d %H:%M:%S %Z")
     final_data = {
         "last_updated": current_datetime,
         "cars": list_of_cars
     }
     with open('cars.json', 'w') as f:
-        json.dump(final_data, f, indent=4)
+        json.dump(final_data, f, indent=2)
 
 def main():
     current_cars = []
-    current_cars += getAFCUCars()
+    current_cars += get_afcu_cars()
 
-    new_cars = getNewCars(current_cars)
+    # close browser when all done
+    driver.quit()
+
+    new_cars = get_new_cars(current_cars)
     if(new_cars):
-        sendNotifications(new_cars)
-        writeData(current_cars)
+        send_notifications(new_cars)
+        write_data(current_cars)
 
 
 if __name__ == '__main__':
