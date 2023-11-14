@@ -10,8 +10,9 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 # setup chrome
+chrome_version = os.getenv("CHROME_VERSION", "119.0.6045.123")
 chrome_options = Options()
-user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.123 Safari/537.36"
+user_agent = f"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{chrome_version} Safari/537.36"
 options = [
     "--headless",
     "--disable-gpu",
@@ -133,6 +134,7 @@ def main():
 
     new_cars = get_new_cars(current_cars)
     if(new_cars):
+        print(f"Found a total of {len(new_cars)} new cars")
         send_notifications(new_cars)
         write_data(current_cars)
 
