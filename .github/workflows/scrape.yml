@@ -24,6 +24,8 @@ jobs:
       
       - name: Install Chrome
         run: |
+          echo google-chrome-stable --product-version
+          echo chromedriver --version
           sudo wget http://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
           sudo dpkg -i google-chrome-stable_current_amd64.deb
 
@@ -46,7 +48,7 @@ jobs:
           echo 'export PATH=$(pwd)/chromedriver:$PATH' >> ~/.bash_profile
           source ~/.bash_profile
           env
-          python script.py
+          CHROMEWEBDRIVER=$(pwd)/chromedriver python script.py
 
       - name: Commit and push changes
         id: commit_and_push
