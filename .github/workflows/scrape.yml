@@ -15,14 +15,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         
       - name: Set up python
-        uses: actions/setup-python@v3.1.1
+        uses: actions/setup-python@v4
         with:
           python-version: '3.10'
       
-      - name: Install Chrome and Chromedriver
+      - name: Check Chrome and Chromedriver versions
         run: |
           google-chrome-stable --product-version
           chromedriver --version
@@ -37,7 +37,7 @@ jobs:
 
       - name: Commit and push changes
         id: commit_and_push
-        uses: EndBug/add-and-commit@v9.0.0
+        uses: EndBug/add-and-commit@v9
         with:
           message: "action: update car data"
           default_author: github_actions

@@ -11,6 +11,7 @@ from zoneinfo import ZoneInfo
 
 # setup chrome
 chrome_version = os.getenv("CHROME_VERSION", "119.0.6045.123")
+print(f"Using Chrome {chrome_version}")
 chrome_options = Options()
 user_agent = f"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/{chrome_version} Safari/537.36"
 options = [
