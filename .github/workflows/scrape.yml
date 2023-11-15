@@ -32,8 +32,7 @@ jobs:
         
       - name: Run scraper script
         run: |
-          CHROME_VERSION=$(google-chrome --product-version) && echo $CHROME_VERSION
-          python script.py
+          CHROME_VERSION=$(google-chrome --product-version) python script.py
 
       - name: Commit and push changes
         id: commit_and_push
