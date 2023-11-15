@@ -1,125 +1,85 @@
 {
-    "last_updated": "2023-09-06 18:58:50 MDT",
-    "cars": [
-        {
-            "title": "2011 Chevrolet Camaro SS",
-            "details": "134,261 Miles Automatic RWD 6.2L V-8",
-            "bid_price": "",
-            "bin_price": "$13,800",
-            "bid_end_date": "9/13/23 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/64f10b9966e97.jpeg",
-            "url": "https://repos.americafirst.com/units/2060",
-            "source": "AFCU"
-        },
-        {
-            "title": "2022 Dodge Charger SXT",
-            "details": "14,884 Miles Automatic AWD 3.6L V-6",
-            "bid_price": "",
-            "bin_price": "$33,900",
-            "bid_end_date": "9/13/23 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/64d2ae0fe5701.jpeg",
-            "url": "https://repos.americafirst.com/units/2026",
-            "source": "AFCU"
-        },
-        {
-            "title": "2018 Ford Escape SEL",
-            "details": "77,560 Miles Automatic AWD 1.5L I-4",
-            "bid_price": "",
-            "bin_price": "$16,990",
-            "bid_end_date": "9/13/23 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/64f2532cd3172.jpeg",
-            "url": "https://repos.americafirst.com/units/2065",
-            "source": "AFCU"
-        },
-        {
-            "title": "2016 Ford F-150 XLT",
-            "details": "118,653 Miles Automatic 4X4 5.0L V-8",
-            "bid_price": "",
-            "bin_price": "$24,895",
-            "bid_end_date": "9/13/23 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/64d550c3a7240.jpeg",
-            "url": "https://repos.americafirst.com/units/2032",
-            "source": "AFCU"
-        },
-        {
-            "title": "2015 Ford F-150 XLT",
-            "details": "146,133 Miles Automatic 4X4 5.0L V-8",
-            "bid_price": "",
-            "bin_price": "$18,400",
-            "bid_end_date": "9/13/23 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/64ecbe683458a.jpeg",
-            "url": "https://repos.americafirst.com/units/2058",
-            "source": "AFCU"
-        },
-        {
-            "title": "2015 Honda Fit EX",
-            "details": "134,036 Miles Manual FWD 1.5L I-4",
-            "bid_price": "$7,827",
-            "bin_price": "$10,190",
-            "bid_end_date": "9/13/23 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/64f1107b770c5.jpeg",
-            "url": "https://repos.americafirst.com/units/2061",
-            "source": "AFCU"
-        },
-        {
-            "title": "2020 Hyundai ELANTRA SEL",
-            "details": "78,763 Miles CVT FWD 2.0L I-4",
-            "bid_price": "",
-            "bin_price": "$16,425",
-            "bid_end_date": "9/13/23 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/64e7db78bbc3b.jpeg",
-            "url": "https://repos.americafirst.com/units/2055",
-            "source": "AFCU"
-        },
-        {
-            "title": "2019 Mitsubishi Eclipse Cross ES",
-            "details": "61,280 Miles CVT AWD 1.5L I-4",
-            "bid_price": "",
-            "bin_price": "$15,850",
-            "bid_end_date": "9/13/23 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/64f23b1a40a50.jpeg",
-            "url": "https://repos.americafirst.com/units/2063",
-            "source": "AFCU"
-        },
-        {
-            "title": "2019 Nissan Kicks FRONT WHEEL DRIVE S",
-            "details": "50,597 Miles CVT FWD 1.6L I-4",
-            "bid_price": "$13,900",
-            "bin_price": "",
-            "bid_end_date": "9/13/23 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/64f234cf18236.jpeg",
-            "url": "https://repos.americafirst.com/units/2062",
-            "source": "AFCU"
-        },
-        {
-            "title": "2013 Nissan Maxima 3.5 SV",
-            "details": "95,863 Miles CVT FWD 3.5L V-6",
-            "bid_price": "$7,250",
-            "bin_price": "$9,750",
-            "bid_end_date": "9/13/23 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/64f25d0a938f9.jpeg",
-            "url": "https://repos.americafirst.com/units/2066",
-            "source": "AFCU"
-        },
-        {
-            "title": "2016 Nissan Sentra SV",
-            "details": "93,521 Miles CVT FWD 1.8L I-4",
-            "bid_price": "$7,700",
-            "bin_price": "$8,900",
-            "bid_end_date": "9/13/23 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/64f7511ea5006.jpeg",
-            "url": "https://repos.americafirst.com/units/2067",
-            "source": "AFCU"
-        },
-        {
-            "title": "2022 Toyota Tacoma SR V6",
-            "details": "18,444 Miles Automatic 4X4 3.5L V-6",
-            "bid_price": "$30,200",
-            "bin_price": "$32,600",
-            "bid_end_date": "9/13/23 9:00 AM",
-            "image": "https://repos.americafirst.com/storage/images/unit-pictures/64f24e6f654af.jpeg",
-            "url": "https://repos.americafirst.com/units/2064",
-            "source": "AFCU"
-        }
-    ]
+  "last_updated": "2023-11-14 21:57:42 MST",
+  "cars": [
+    {
+      "title": "2015 Ford F-150 Lariat",
+      "details": "119,296 Miles Automatic 4X4 3.5L V-6",
+      "bid_price": "$22,974",
+      "bin_price": "",
+      "bid_end_date": "11/15/23 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6542e66601e9a.jpeg",
+      "url": "https://repos.americafirst.com/units/2127",
+      "source": "AFCU"
+    },
+    {
+      "title": "2019 Ford F-350 Super Duty Lariat",
+      "details": "100,606 Miles Automatic 4X4 6.7L V-8",
+      "bid_price": "$48,758",
+      "bin_price": "$49,900",
+      "bid_end_date": "11/15/23 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/65206bbdb2214.jpeg",
+      "url": "https://repos.americafirst.com/units/2105",
+      "source": "AFCU"
+    },
+    {
+      "title": "2016 Ford Fusion SE",
+      "details": "75,194 Miles Automatic FWD 2.5L I-4",
+      "bid_price": "$8,550",
+      "bin_price": "$10,900",
+      "bid_end_date": "11/15/23 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/654413d274d8c.jpeg",
+      "url": "https://repos.americafirst.com/units/2134",
+      "source": "AFCU"
+    },
+    {
+      "title": "2020 Hyundai ELANTRA SE",
+      "details": "16,321 Miles CVT FWD 2.0L I-4",
+      "bid_price": "$16,300",
+      "bin_price": "$18,450",
+      "bid_end_date": "11/15/23 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/65440bcd7313b.jpeg",
+      "url": "https://repos.americafirst.com/units/2132",
+      "source": "AFCU"
+    },
+    {
+      "title": "2019 Hyundai TUCSON Front Wheel Drive SE",
+      "details": "68,865 Miles Automatic FWD 2.0L I-4",
+      "bid_price": "$15,050",
+      "bin_price": "$17,225",
+      "bid_end_date": "11/15/23 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6542eca23827a.jpeg",
+      "url": "https://repos.americafirst.com/units/2130",
+      "source": "AFCU"
+    },
+    {
+      "title": "2020 INFINITI QX50 Sensory",
+      "details": "53,694 Miles CVT AWD 2.0L I-4",
+      "bid_price": "$27,900",
+      "bin_price": "$30,850",
+      "bid_end_date": "11/15/23 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6543ecfe3dc4b.jpeg",
+      "url": "https://repos.americafirst.com/units/2131",
+      "source": "AFCU"
+    },
+    {
+      "title": "2019 Toyota Highlander XLE",
+      "details": "78,603 Miles Automatic AWD 3.5L V-6",
+      "bid_price": "$27,002",
+      "bin_price": "$29,100",
+      "bid_end_date": "11/15/23 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6542e49e2e1ba.jpeg",
+      "url": "https://repos.americafirst.com/units/2126",
+      "source": "AFCU"
+    },
+    {
+      "title": "2019 Toyota Tacoma Limited",
+      "details": "40,842 Miles Automatic 4X4 3.5L V-6",
+      "bid_price": "$36,999",
+      "bin_price": "$38,790",
+      "bid_end_date": "11/15/23 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6542ead92b402.jpeg",
+      "url": "https://repos.americafirst.com/units/2129",
+      "source": "AFCU"
+    }
+  ]
 }
