@@ -1,5 +1,5 @@
 {
-  "last_updated": "2023-11-13 20:26:47 MST",
+  "last_updated": "2023-11-14 21:54:55 MST",
   "cars": [
     {
       "title": "2015 Ford F-150 Lariat",
@@ -24,7 +24,7 @@
     {
       "title": "2016 Ford Fusion SE",
       "details": "75,194 Miles Automatic FWD 2.5L I-4",
-      "bid_price": "$8,500",
+      "bid_price": "$8,550",
       "bin_price": "$10,900",
       "bid_end_date": "11/15/23 9:00 AM",
       "image": "https://repos.americafirst.com/storage/images/unit-pictures/654413d274d8c.jpeg",
@@ -44,7 +44,7 @@
     {
       "title": "2019 Hyundai TUCSON Front Wheel Drive SE",
       "details": "68,865 Miles Automatic FWD 2.0L I-4",
-      "bid_price": "$15,005",
+      "bid_price": "$15,050",
       "bin_price": "$17,225",
       "bid_end_date": "11/15/23 9:00 AM",
       "image": "https://repos.americafirst.com/storage/images/unit-pictures/6542eca23827a.jpeg",
@@ -64,7 +64,7 @@
     {
       "title": "2019 Toyota Highlander XLE",
       "details": "78,603 Miles Automatic AWD 3.5L V-6",
-      "bid_price": "$27,000",
+      "bid_price": "$27,002",
       "bin_price": "$29,100",
       "bid_end_date": "11/15/23 9:00 AM",
       "image": "https://repos.americafirst.com/storage/images/unit-pictures/6542e49e2e1ba.jpeg",

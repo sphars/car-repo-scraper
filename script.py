@@ -45,7 +45,7 @@ def get_afcu_cars():
         for card in cards:
             # get car title
             car_title = card.find_element(By.CLASS_NAME, "card-title").text
-            print(car_title)
+            print(f"  {car_title}")
 
             # get car details
             details_elements = card.find_elements(By.CLASS_NAME, "list-inline-item")
@@ -127,14 +127,18 @@ def write_data(list_of_cars):
         json.dump(final_data, f, indent=2)
 
 def main():
-    current_cars = []
-    current_cars += get_afcu_cars()
+    list_of_cars = []
+    list_of_cars += get_afcu_cars()
 
-    new_cars = get_new_cars(current_cars)
+    new_cars = get_new_cars(list_of_cars)
     if(new_cars):
-        print(f"Found a total of {len(new_cars)} new cars")
+        print(f"Found {len(new_cars)} new car{'s' if len(new_cars) != 1 else ''}")
         send_notifications(new_cars)
-        write_data(current_cars)
+    else:
+        print("No new cars found since last run")
+    
+    # write the updated data always due to new bids
+    write_data(list_of_cars)
 
 
 if __name__ == '__main__':
