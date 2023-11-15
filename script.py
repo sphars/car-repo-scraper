@@ -129,9 +129,6 @@ def main():
     current_cars = []
     current_cars += get_afcu_cars()
 
-    # close browser when all done
-    driver.quit()
-
     new_cars = get_new_cars(current_cars)
     if(new_cars):
         print(f"Found a total of {len(new_cars)} new cars")
