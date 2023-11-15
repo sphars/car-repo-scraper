@@ -134,11 +134,12 @@ def main():
     if(new_cars):
         print(f"Found {len(new_cars)} new car{'s' if len(new_cars) != 1 else ''}")
         send_notifications(new_cars)
+    
+        # write the updated list of cars
+        write_data(list_of_cars)
     else:
         print("No new cars found since last run")
     
-    # write the updated data always due to new bids
-    write_data(list_of_cars)
 
 
 if __name__ == '__main__':
