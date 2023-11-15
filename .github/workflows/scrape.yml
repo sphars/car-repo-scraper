@@ -26,14 +26,6 @@ jobs:
         run: |
           google-chrome-stable --product-version
           chromedriver --version
-          sudo wget http://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-          sudo dpkg -i google-chrome-stable_current_amd64.deb
-          google-chrome-stable --product-version
-          CHROME_VERSION=$(google-chrome-stable --product-version)
-          curl -Lo chromedriver-linux64.zip "https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/${CHROME_VERSION}/linux64/chromedriver-linux64.zip"
-          mkdir chromedriver
-          unzip -q "chromedriver-linux64.zip" -d "chromedriver"
-          chromedriver --version          
 
       - name: Install dependencies
         run: pip install -r requirements.txt
@@ -41,10 +33,7 @@ jobs:
       - name: Run scraper script
         run: |
           CHROME_VERSION=$(google-chrome --product-version) && echo $CHROME_VERSION
-          echo 'export PATH=$(pwd)/chromedriver:$PATH' >> ~/.bash_profile
-          source ~/.bash_profile
-          env
-          CHROMEWEBDRIVER=$(pwd)/chromedriver python script.py
+          python script.py
 
       - name: Commit and push changes
         id: commit_and_push
