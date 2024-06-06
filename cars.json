@@ -1,64 +1,104 @@
 {
-  "last_updated": "2024-05-29 19:06:59 MDT",
+  "last_updated": "2024-06-05 19:07:10 MDT",
   "cars": [
     {
-      "title": "2023 BIG TEX 14-ET-18'",
-      "details": "",
-      "bid_price": "$6,002",
-      "bin_price": "",
-      "bid_end_date": "6/5/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6626f90fd254b.jpeg",
-      "url": "https://repos.americafirst.com/units/2346",
+      "title": "2014 Chevrolet Camaro SS",
+      "details": "69,531 Miles Automatic RWD 6.2L V-8",
+      "bid_price": "$17,500",
+      "bin_price": "$21,900",
+      "bid_end_date": "6/12/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6658a9c36337f.jpeg",
+      "url": "https://repos.americafirst.com/units/2389",
       "source": "AFCU"
     },
     {
-      "title": "2019 Ford Explorer XLT",
-      "details": "79,000 Miles Automatic AWD 3.5L V-6",
-      "bid_price": "$17,000",
-      "bin_price": "$20,500",
-      "bid_end_date": "6/5/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/664f7e04ec306.jpeg",
-      "url": "https://repos.americafirst.com/units/2383",
-      "source": "AFCU"
-    },
-    {
-      "title": "2020 Ford F-150 Lariat",
-      "details": "81,245 Miles Automatic 4X4 3.5L V-6",
-      "bid_price": "$33,000",
-      "bin_price": "$37,500",
-      "bid_end_date": "6/5/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6626e94eb6cf2.jpeg",
-      "url": "https://repos.americafirst.com/units/2342",
-      "source": "AFCU"
-    },
-    {
-      "title": "2022 Polaris RZR Pro R 4 Ultimate",
-      "details": "343 Miles 1,997cc",
-      "bid_price": "$22,101",
-      "bin_price": "",
-      "bid_end_date": "6/5/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/664fb1a7c36a6.jpeg",
-      "url": "https://repos.americafirst.com/units/2387",
-      "source": "AFCU"
-    },
-    {
-      "title": "2017 Subaru Legacy 2.5i Premium",
-      "details": "138,035 Miles CVT AWD 2.5L H-4",
-      "bid_price": "$7,903",
-      "bin_price": "$11,000",
-      "bid_end_date": "6/5/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/664f87a104b0d.jpeg",
-      "url": "https://repos.americafirst.com/units/2385",
-      "source": "AFCU"
-    },
-    {
-      "title": "2019 Toyota Tundra SR5",
-      "details": "35,635 Miles Automatic 4X4 5.7L V-8",
-      "bid_price": "$34,000",
+      "title": "2020 Ford Mustang GT Premium",
+      "details": "32,763 Miles Automatic RWD 5.0L V-8",
+      "bid_price": "$31,500",
       "bin_price": "$36,900",
-      "bid_end_date": "6/5/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/664f818b1c60a.jpeg",
-      "url": "https://repos.americafirst.com/units/2384",
+      "bid_end_date": "6/12/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/665f9e81e3c23.jpeg",
+      "url": "https://repos.americafirst.com/units/2397",
+      "source": "AFCU"
+    },
+    {
+      "title": "2017 Ford Transit Connect (AFCU FLEET UNIT) XL",
+      "details": "111,587 Miles Automatic FWD 2.5L I-4",
+      "bid_price": "$12,500",
+      "bin_price": "$17,500",
+      "bid_end_date": "6/12/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/665f98afc14b2.jpeg",
+      "url": "https://repos.americafirst.com/units/2396",
+      "source": "AFCU"
+    },
+    {
+      "title": "2018 Ford Transit Connect (AFCU FLEET UNIT) XL",
+      "details": "106,668 Miles Automatic FWD 2.5L I-4",
+      "bid_price": "$13,900",
+      "bin_price": "$18,500",
+      "bid_end_date": "6/12/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/665887f77ad9a.jpeg",
+      "url": "https://repos.americafirst.com/units/2388",
+      "source": "AFCU"
+    },
+    {
+      "title": "2023 GENESIS SUPREME Overnighter toy hauler M-12-14.6k-37'",
+      "details": "",
+      "bid_price": "$16,502",
+      "bin_price": "$24,500",
+      "bid_end_date": "6/12/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/665e38b84b86f.jpeg",
+      "url": "https://repos.americafirst.com/units/2395",
+      "source": "AFCU"
+    },
+    {
+      "title": "2014 GMC Acadia SLE-2",
+      "details": "92,243 Miles Automatic FWD 3.6L V-6",
+      "bid_price": "$8,500",
+      "bin_price": "$11,200",
+      "bid_end_date": "6/12/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/665a04ced8ba9.jpeg",
+      "url": "https://repos.americafirst.com/units/2393",
+      "source": "AFCU"
+    },
+    {
+      "title": "2019 Jeep Wrangler Unlimited Rubicon",
+      "details": "43,503 Miles Automatic 4X4 3.6L V-6",
+      "bid_price": "$36,750",
+      "bin_price": "$41,900",
+      "bid_end_date": "6/12/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6658c05de30b1.jpeg",
+      "url": "https://repos.americafirst.com/units/2391",
+      "source": "AFCU"
+    },
+    {
+      "title": "2020 KEYSTONE VOLTAGE TRITON TOY HAULER (M-3001-34\")",
+      "details": "",
+      "bid_price": "$39,000",
+      "bin_price": "$48,500",
+      "bid_end_date": "6/12/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/665a169864b65.jpeg",
+      "url": "https://repos.americafirst.com/units/2394",
+      "source": "AFCU"
+    },
+    {
+      "title": "2018 Nissan Altima 2.5 SL",
+      "details": "115,649 Miles CVT FWD 2.5L I-4",
+      "bid_price": "$9,000",
+      "bin_price": "$12,500",
+      "bid_end_date": "6/12/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6659e7e48933a.jpeg",
+      "url": "https://repos.americafirst.com/units/2392",
+      "source": "AFCU"
+    },
+    {
+      "title": "2021 Nissan Titan PRO-4X",
+      "details": "22,272 Miles Automatic 4X4 5.6L V-8",
+      "bid_price": "$39,200",
+      "bin_price": "$43,000",
+      "bid_end_date": "6/12/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6658b3ede6801.jpeg",
+      "url": "https://repos.americafirst.com/units/2390",
       "source": "AFCU"
     }
   ]
