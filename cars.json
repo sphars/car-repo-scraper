@@ -1,5 +1,5 @@
 {
-  "last_updated": "2024-07-03 19:09:14 MDT",
+  "last_updated": "2024-07-08 19:10:18 MDT",
   "cars": [
     {
       "title": "2017 CARDINAL by Forest River M-3250RL -35'",
@@ -24,7 +24,7 @@
     {
       "title": "2021 ENTEGRA ODYSSEY M-27U FORD -30'",
       "details": "",
-      "bid_price": "$58,101",
+      "bid_price": "$58,201",
       "bin_price": "$69,900",
       "bid_end_date": "7/10/24 9:00 AM",
       "image": "https://repos.americafirst.com/storage/images/unit-pictures/6671dda774dc7.jpeg",
@@ -34,7 +34,7 @@
     {
       "title": "2018 Ford Explorer XLT",
       "details": "65,241 Miles Automatic AWD 3.5L V-6",
-      "bid_price": "$17,900",
+      "bid_price": "$18,003",
       "bin_price": "$19,500",
       "bid_end_date": "7/10/24 9:00 AM",
       "image": "https://repos.americafirst.com/storage/images/unit-pictures/668338c05fc86.jpeg",
@@ -44,7 +44,7 @@
     {
       "title": "2018 Ford F-150 XLT",
       "details": "101,219 Miles Automatic 4X4 3.5L V-6",
-      "bid_price": "$21,600",
+      "bid_price": "$21,601",
       "bin_price": "$25,200",
       "bid_end_date": "7/10/24 9:00 AM",
       "image": "https://repos.americafirst.com/storage/images/unit-pictures/668317162663c.jpeg",
@@ -62,19 +62,9 @@
       "source": "AFCU"
     },
     {
-      "title": "2015 Ford Fusion SE",
-      "details": "97,376 Miles Automatic FWD 1.5L I-4",
-      "bid_price": "$7,251",
-      "bin_price": "$9,999",
-      "bid_end_date": "7/10/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/66832d956e21a.jpeg",
-      "url": "https://repos.americafirst.com/units/2431",
-      "source": "AFCU"
-    },
-    {
       "title": "2021 Ford Ranger XLT",
       "details": "54,902 Miles Automatic 4X4 2.3L I-4",
-      "bid_price": "$29,000",
+      "bid_price": "$29,100",
       "bin_price": "$32,200",
       "bid_end_date": "7/10/24 9:00 AM",
       "image": "https://repos.americafirst.com/storage/images/unit-pictures/66831a3957eac.jpeg",
@@ -84,11 +74,21 @@
     {
       "title": "2020 Harley-Davidson Road Glide Special",
       "details": "18,178 Miles 1,746cc",
-      "bid_price": "$17,500",
+      "bid_price": "$17,501",
       "bin_price": "$19,900",
       "bid_end_date": "7/10/24 9:00 AM",
       "image": "https://repos.americafirst.com/storage/images/unit-pictures/66830d2fa490a.jpeg",
       "url": "https://repos.americafirst.com/units/2424",
+      "source": "AFCU"
+    },
+    {
+      "title": "2016 Honda Civic LX",
+      "details": "84,742 Miles CVT FWD 2.0L I-4",
+      "bid_price": "$10,000",
+      "bin_price": "$11,500",
+      "bid_end_date": "7/10/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/66833c382163d.jpeg",
+      "url": "https://repos.americafirst.com/units/2434",
       "source": "AFCU"
     },
     {
@@ -102,29 +102,9 @@
       "source": "AFCU"
     },
     {
-      "title": "2015 Nissan Pathfinder SL",
-      "details": "119,285 Miles CVT 4X4 3.5L V-6",
-      "bid_price": "$6,010",
-      "bin_price": "",
-      "bid_end_date": "7/10/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/66831f5d0b48e.jpeg",
-      "url": "https://repos.americafirst.com/units/2428",
-      "source": "AFCU"
-    },
-    {
-      "title": "2021 Nissan Titan PRO-4X",
-      "details": "22,272 Miles Automatic 4X4 5.6L V-8",
-      "bid_price": "$37,900",
-      "bin_price": "$40,800",
-      "bid_end_date": "7/10/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6658b3ede6801.jpeg",
-      "url": "https://repos.americafirst.com/units/2390",
-      "source": "AFCU"
-    },
-    {
       "title": "2020 Ski-Doo Summit SP 850 E-TEC",
       "details": "411 Miles 849cc",
-      "bid_price": "$7,099",
+      "bid_price": "$7,502",
       "bin_price": "$8,900",
       "bid_end_date": "7/10/24 9:00 AM",
       "image": "https://repos.americafirst.com/storage/images/unit-pictures/668311d2ce5b7.jpeg",
