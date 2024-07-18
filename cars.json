@@ -1,104 +1,64 @@
 {
-  "last_updated": "2024-07-10 19:11:01 MDT",
+  "last_updated": "2024-07-17 19:09:46 MDT",
   "cars": [
     {
-      "title": "2016 COACHMAN PURSUIT M-30 FWP FORD",
+      "title": "2004 Chevrolet Corvette Base",
+      "details": "100,844 Miles Automatic RWD 5.7L V-8",
+      "bid_price": "$16,501",
+      "bin_price": "$22,000",
+      "bid_end_date": "7/24/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/668326f4f3cbc.jpeg",
+      "url": "https://repos.americafirst.com/units/2430",
+      "source": "AFCU"
+    },
+    {
+      "title": "2018 Ford Expedition MAX 4x2 XLT",
+      "details": "91,128 Miles Automatic 4X2 3.5L V-6",
+      "bid_price": "$17,900",
+      "bin_price": "$21,900",
+      "bid_end_date": "7/24/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6690479b72163.jpeg",
+      "url": "https://repos.americafirst.com/units/2446",
+      "source": "AFCU"
+    },
+    {
+      "title": "2021 Ford Explorer ST",
+      "details": "44,421 Miles Automatic AWD 3.0L V-6",
+      "bid_price": "$35,200",
+      "bin_price": "$38,400",
+      "bid_end_date": "7/24/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/66957b6d191b1.jpeg",
+      "url": "https://repos.americafirst.com/units/2447",
+      "source": "AFCU"
+    },
+    {
+      "title": "2023 GENESIS SUPREME Overnighter toy hauler M-12-14.6k-37'",
       "details": "",
-      "bid_price": "$41,501",
-      "bin_price": "$50,900",
-      "bid_end_date": "7/17/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/668c5eb858393.jpeg",
-      "url": "https://repos.americafirst.com/units/2443",
+      "bid_price": "$16,205",
+      "bin_price": "$23,000",
+      "bid_end_date": "7/24/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/665e38b84b86f.jpeg",
+      "url": "https://repos.americafirst.com/units/2395",
       "source": "AFCU"
     },
     {
-      "title": "2019 Dodge Charger R/T Scat Pack",
-      "details": "89,089 Miles Automatic RWD 6.4L V-8",
-      "bid_price": "$25,900",
-      "bin_price": "$30,625",
-      "bid_end_date": "7/17/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/66884fc317926.jpeg",
-      "url": "https://repos.americafirst.com/units/2436",
-      "source": "AFCU"
-    },
-    {
-      "title": "2020 Ford Explorer REAR WHEEL DRIVE XLT",
-      "details": "22,424 Miles Automatic RWD 2.3L I-4",
-      "bid_price": "$23,500",
-      "bin_price": "$26,250",
-      "bid_end_date": "7/17/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/668c10b45fcf1.jpeg",
-      "url": "https://repos.americafirst.com/units/2439",
-      "source": "AFCU"
-    },
-    {
-      "title": "2020 Ford F-150 XL",
-      "details": "71,933 Miles Automatic 4X4 2.7L V-6",
-      "bid_price": "$26,300",
-      "bin_price": "$28,500",
-      "bid_end_date": "7/17/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/668836263f77b.jpeg",
-      "url": "https://repos.americafirst.com/units/2435",
-      "source": "AFCU"
-    },
-    {
-      "title": "2018 Ford F-150 XLT",
-      "details": "70,472 Miles Automatic 4X4 3.5L V-6",
-      "bid_price": "$26,500",
-      "bin_price": "$30,875",
-      "bid_end_date": "7/17/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/66885a7ae3963.jpeg",
-      "url": "https://repos.americafirst.com/units/2438",
-      "source": "AFCU"
-    },
-    {
-      "title": "2021 FOREST RIVER EVO M-2800 -35'",
+      "title": "2021 KEYSTONE HIDEOUT LUXURY SERIES M-29 DFSWE",
       "details": "",
-      "bid_price": "$23,000",
-      "bin_price": "$27,450",
-      "bid_end_date": "7/17/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/668c55c14744c.jpeg",
-      "url": "https://repos.americafirst.com/units/2442",
+      "bid_price": "$17,501",
+      "bin_price": "$21,500",
+      "bid_end_date": "7/24/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6671faa9e5df1.jpeg",
+      "url": "https://repos.americafirst.com/units/2417",
       "source": "AFCU"
     },
     {
-      "title": "2022 GRAND DESIGN RV SOLITUDE M-378MBS -40'",
-      "details": "",
-      "bid_price": "$51,000",
-      "bin_price": "$64,500",
-      "bid_end_date": "7/17/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/668c4843af990.jpeg",
-      "url": "https://repos.americafirst.com/units/2441",
-      "source": "AFCU"
-    },
-    {
-      "title": "2020 Mercedes-Benz GLC GLC 300 4MATIC",
-      "details": "82,494 Miles Automatic AWD 2.0L I-4",
-      "bid_price": "$19,050",
-      "bin_price": "",
-      "bid_end_date": "7/17/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/668856996e77f.jpeg",
-      "url": "https://repos.americafirst.com/units/2437",
-      "source": "AFCU"
-    },
-    {
-      "title": "2012 THOR FREEDOM ELITE 26E E450-V10-28'",
-      "details": "",
-      "bid_price": "$32,000",
-      "bin_price": "$44,900",
-      "bid_end_date": "7/17/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/668c62fa4b94d.jpeg",
-      "url": "https://repos.americafirst.com/units/2444",
-      "source": "AFCU"
-    },
-    {
-      "title": "2009 WEEKEND WARRIOR SUPERLITE 2500FS",
-      "details": "",
-      "bid_price": "$8,725",
-      "bin_price": "",
-      "bid_end_date": "7/17/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/668c34ecb7c43.jpeg",
-      "url": "https://repos.americafirst.com/units/2440",
+      "title": "2021 Ram 1500 Laramie",
+      "details": "31,379 Miles Automatic 4X4 5.7L V-8",
+      "bid_price": "$38,999",
+      "bin_price": "$44,500",
+      "bid_end_date": "7/24/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6690317374dc3.jpeg",
+      "url": "https://repos.americafirst.com/units/2445",
       "source": "AFCU"
     }
   ]
