@@ -1,64 +1,74 @@
 {
-  "last_updated": "2024-07-17 19:09:46 MDT",
+  "last_updated": "2024-07-24 19:11:00 MDT",
   "cars": [
     {
-      "title": "2004 Chevrolet Corvette Base",
-      "details": "100,844 Miles Automatic RWD 5.7L V-8",
-      "bid_price": "$16,501",
-      "bin_price": "$22,000",
-      "bid_end_date": "7/24/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/668326f4f3cbc.jpeg",
-      "url": "https://repos.americafirst.com/units/2430",
-      "source": "AFCU"
-    },
-    {
-      "title": "2018 Ford Expedition MAX 4x2 XLT",
-      "details": "91,128 Miles Automatic 4X2 3.5L V-6",
-      "bid_price": "$17,900",
-      "bin_price": "$21,900",
-      "bid_end_date": "7/24/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6690479b72163.jpeg",
-      "url": "https://repos.americafirst.com/units/2446",
-      "source": "AFCU"
-    },
-    {
-      "title": "2021 Ford Explorer ST",
-      "details": "44,421 Miles Automatic AWD 3.0L V-6",
-      "bid_price": "$35,200",
-      "bin_price": "$38,400",
-      "bid_end_date": "7/24/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/66957b6d191b1.jpeg",
-      "url": "https://repos.americafirst.com/units/2447",
-      "source": "AFCU"
-    },
-    {
-      "title": "2023 GENESIS SUPREME Overnighter toy hauler M-12-14.6k-37'",
+      "title": "2019 COLEMAN LANTERN 17FQ",
       "details": "",
-      "bid_price": "$16,205",
-      "bin_price": "$23,000",
-      "bid_end_date": "7/24/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/665e38b84b86f.jpeg",
-      "url": "https://repos.americafirst.com/units/2395",
+      "bid_price": "$11,000",
+      "bin_price": "$11,100",
+      "bid_end_date": "7/31/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/669995cec21cd.jpeg",
+      "url": "https://repos.americafirst.com/units/2451",
       "source": "AFCU"
     },
     {
-      "title": "2021 KEYSTONE HIDEOUT LUXURY SERIES M-29 DFSWE",
+      "title": "2019 Dodge Charger R/T Scat Pack",
+      "details": "89,089 Miles Automatic RWD 6.4L V-8",
+      "bid_price": "$23,900",
+      "bin_price": "$27,900",
+      "bid_end_date": "7/31/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/66884fc317926.jpeg",
+      "url": "https://repos.americafirst.com/units/2436",
+      "source": "AFCU"
+    },
+    {
+      "title": "2021 FOREST RIVER EVO M-2800 -35'",
       "details": "",
-      "bid_price": "$17,501",
-      "bin_price": "$21,500",
-      "bid_end_date": "7/24/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6671faa9e5df1.jpeg",
-      "url": "https://repos.americafirst.com/units/2417",
+      "bid_price": "$21,900",
+      "bin_price": "$25,000",
+      "bid_end_date": "7/31/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/668c55c14744c.jpeg",
+      "url": "https://repos.americafirst.com/units/2442",
       "source": "AFCU"
     },
     {
-      "title": "2021 Ram 1500 Laramie",
-      "details": "31,379 Miles Automatic 4X4 5.7L V-8",
-      "bid_price": "$38,999",
-      "bin_price": "$44,500",
-      "bid_end_date": "7/24/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6690317374dc3.jpeg",
-      "url": "https://repos.americafirst.com/units/2445",
+      "title": "2022 HEARTLAND RV's NORTH TRAIL M-25RBP",
+      "details": "",
+      "bid_price": "$24,000",
+      "bin_price": "$29,900",
+      "bid_end_date": "7/31/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/66998c3907fa5.jpeg",
+      "url": "https://repos.americafirst.com/units/2450",
+      "source": "AFCU"
+    },
+    {
+      "title": "2018 Jeep Compass Sport",
+      "details": "63,441 Miles Automatic 4X4 2.4L I-4",
+      "bid_price": "$13,900",
+      "bin_price": "$15,300",
+      "bid_end_date": "7/31/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/669975687c0a2.jpeg",
+      "url": "https://repos.americafirst.com/units/2449",
+      "source": "AFCU"
+    },
+    {
+      "title": "2016 Mazda CX-5 AFCU FLEET Touring",
+      "details": "99,190 Miles Automatic AWD 2.5L I-4",
+      "bid_price": "$11,012",
+      "bin_price": "$13,200",
+      "bid_end_date": "7/31/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/669ac0559ced1.jpeg",
+      "url": "https://repos.americafirst.com/units/2452",
+      "source": "AFCU"
+    },
+    {
+      "title": "2015 Nissan Altima 2.5 S",
+      "details": "112,454 Miles CVT FWD 2.5L I-4",
+      "bid_price": "$6,600",
+      "bin_price": "$8,200",
+      "bid_end_date": "7/31/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/66996ecfb02b6.jpeg",
+      "url": "https://repos.americafirst.com/units/2448",
       "source": "AFCU"
     }
   ]
