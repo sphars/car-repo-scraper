@@ -1,54 +1,94 @@
 {
-  "last_updated": "2024-10-23 19:20:24 MDT",
+  "last_updated": "2024-10-30 19:21:52 MDT",
   "cars": [
     {
-      "title": "2018 BMW M5 AWD Base",
-      "details": "102,817 Miles Automatic AWD 4.4L V-8",
-      "bid_price": "$34,000",
-      "bin_price": "$42,900",
-      "bid_end_date": "10/30/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67042ab7821db.jpeg",
-      "url": "https://repos.americafirst.com/units/2543",
+      "title": "2017 Audi A3 2.0T quattro Premium Plus",
+      "details": "84,069 Miles Automatic AWD 2.0L I-4",
+      "bid_price": "$12,450",
+      "bin_price": "$16,000",
+      "bid_end_date": "11/6/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/671bbddea9091.jpeg",
+      "url": "https://repos.americafirst.com/units/2568",
       "source": "AFCU"
     },
     {
-      "title": "2021 FOREST RIVER SAND STORM T242GSLC",
-      "details": "",
-      "bid_price": "$28,300",
-      "bin_price": "$36,900",
-      "bid_end_date": "10/30/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6711327ec2ee7.jpeg",
-      "url": "https://repos.americafirst.com/units/2559",
-      "source": "AFCU"
-    },
-    {
-      "title": "2022 FOREST RIVER XLR NITRO 35DK5",
-      "details": "",
-      "bid_price": "$44,000",
-      "bin_price": "$58,750",
-      "bid_end_date": "10/30/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/671049793d2b3.jpeg",
-      "url": "https://repos.americafirst.com/units/2558",
-      "source": "AFCU"
-    },
-    {
-      "title": "2015 HEARTLAND NORTH TRAIL 23RBS",
-      "details": "",
-      "bid_price": "$8,230",
+      "title": "2017 Chevrolet Silverado 1500 LT",
+      "details": "86,327 Miles Automatic 4X4 5.3L V-8",
+      "bid_price": "$24,203",
       "bin_price": "",
-      "bid_end_date": "10/30/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6710450feb6af.jpeg",
-      "url": "https://repos.americafirst.com/units/2557",
+      "bid_end_date": "11/6/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/671a7c050f4dc.jpeg",
+      "url": "https://repos.americafirst.com/units/2562",
       "source": "AFCU"
     },
     {
-      "title": "2007 NEWMAR CANYON STAR M-3201 FORD",
-      "details": "",
-      "bid_price": "$18,001",
-      "bin_price": "$25,000",
-      "bid_end_date": "10/30/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/671160649bac6.jpeg",
-      "url": "https://repos.americafirst.com/units/2560",
+      "title": "2023 Dodge Challenger SXT",
+      "details": "4,194 Miles Automatic RWD 3.6L V-6",
+      "bid_price": "$26,200",
+      "bin_price": "$31,900",
+      "bid_end_date": "11/6/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/671ab17e5ea74.jpeg",
+      "url": "https://repos.americafirst.com/units/2566",
+      "source": "AFCU"
+    },
+    {
+      "title": "2019 Hyundai ELANTRA SEL",
+      "details": "97,225 Miles Automatic FWD 2.0L I-4",
+      "bid_price": "$8,050",
+      "bin_price": "$12,300",
+      "bid_end_date": "11/6/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/671a851a54dec.jpeg",
+      "url": "https://repos.americafirst.com/units/2563",
+      "source": "AFCU"
+    },
+    {
+      "title": "2020 INFINITI Q50 3.0T Luxe",
+      "details": "71,530 Miles Automatic AWD 3.0L V-6",
+      "bid_price": "$16,801",
+      "bin_price": "$22,900",
+      "bid_end_date": "11/6/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/671bc9aac9e31.jpeg",
+      "url": "https://repos.americafirst.com/units/2569",
+      "source": "AFCU"
+    },
+    {
+      "title": "2019 Nissan Maxima 3.5 SL",
+      "details": "40,413 Miles CVT FWD 3.5L V-6",
+      "bid_price": "$19,501",
+      "bin_price": "$24,100",
+      "bid_end_date": "11/6/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/671a99439d58b.jpeg",
+      "url": "https://repos.americafirst.com/units/2564",
+      "source": "AFCU"
+    },
+    {
+      "title": "2016 Nissan Sentra",
+      "details": "83,963 Miles CVT FWD 1.8L I-4",
+      "bid_price": "$7,502",
+      "bin_price": "$8,990",
+      "bid_end_date": "11/6/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/671aacb1c3c1a.jpeg",
+      "url": "https://repos.americafirst.com/units/2565",
+      "source": "AFCU"
+    },
+    {
+      "title": "2022 Nissan Sentra SV",
+      "details": "46,130 Miles CVT FWD 2.0L I-4",
+      "bid_price": "$16,000",
+      "bin_price": "$19,000",
+      "bid_end_date": "11/6/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/671bde0a45cb8.jpeg",
+      "url": "https://repos.americafirst.com/units/2570",
+      "source": "AFCU"
+    },
+    {
+      "title": "2018 Ram 1500 Rebel",
+      "details": "66,207 Miles Automatic 4X4 5.7L V-8",
+      "bid_price": "$26,101",
+      "bin_price": "$30,900",
+      "bid_end_date": "11/6/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/671ab8b61eedc.jpeg",
+      "url": "https://repos.americafirst.com/units/2567",
       "source": "AFCU"
     }
   ]
