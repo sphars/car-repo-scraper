@@ -1,84 +1,84 @@
 {
-  "last_updated": "2024-11-06 18:19:13 MST",
+  "last_updated": "2024-11-13 18:20:02 MST",
   "cars": [
     {
-      "title": "2017 Ford F-350 Super Duty XLT",
-      "details": "159,175 Miles Automatic 4X4 6.7L V-8",
-      "bid_price": "$26,502",
-      "bin_price": "$30,550",
-      "bid_end_date": "11/13/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6722cabe5d64e.jpeg",
-      "url": "https://repos.americafirst.com/units/2576",
-      "source": "AFCU"
-    },
-    {
-      "title": "2019 Honda Civic Type R Touring",
-      "details": "37,736 Miles Manual FWD 2.0L I-4",
-      "bid_price": "$33,502",
-      "bin_price": "$37,950",
-      "bid_end_date": "11/13/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6722b5bbead34.jpeg",
-      "url": "https://repos.americafirst.com/units/2572",
-      "source": "AFCU"
-    },
-    {
-      "title": "2022 Kia Stinger GT-Line",
-      "details": "12,699 Miles Automatic AWD 2.5L I-4",
-      "bid_price": "$29,301",
-      "bin_price": "$35,000",
-      "bid_end_date": "11/13/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6722a9e091f91.jpeg",
-      "url": "https://repos.americafirst.com/units/2571",
-      "source": "AFCU"
-    },
-    {
-      "title": "2020 Land Rover Range Rover P525 HSE",
-      "details": "92,787 Miles Automatic AWD 5.0L V-8",
-      "bid_price": "$48,000",
-      "bin_price": "$53,200",
-      "bid_end_date": "11/13/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6723c2f82402e.jpeg",
-      "url": "https://repos.americafirst.com/units/2577",
-      "source": "AFCU"
-    },
-    {
-      "title": "2019 Nissan Frontier SV",
-      "details": "102,472 Miles Automatic 4X4 4.0L V-6",
-      "bid_price": "$16,901",
-      "bin_price": "$19,500",
-      "bid_end_date": "11/13/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6722bfa3a39c0.jpeg",
-      "url": "https://repos.americafirst.com/units/2574",
-      "source": "AFCU"
-    },
-    {
-      "title": "2018 Ram 1500 Big Horn",
-      "details": "140,502 Miles Automatic 4X4 3.0L V-6",
-      "bid_price": "$14,875",
-      "bin_price": "$22,900",
-      "bid_end_date": "11/13/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6722c4879bc3d.jpeg",
-      "url": "https://repos.americafirst.com/units/2575",
-      "source": "AFCU"
-    },
-    {
-      "title": "2016 SPRINTER 269FWRL",
+      "title": "2021 FOREST RIVER SAND STORM T242GSLC",
       "details": "",
-      "bid_price": "$15,200",
-      "bin_price": "$20,000",
-      "bid_end_date": "11/13/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6723e1e676a85.jpeg",
-      "url": "https://repos.americafirst.com/units/2578",
+      "bid_price": "$26,900",
+      "bin_price": "$34,000",
+      "bid_end_date": "11/20/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6711327ec2ee7.jpeg",
+      "url": "https://repos.americafirst.com/units/2559",
       "source": "AFCU"
     },
     {
-      "title": "2019 Volkswagen Tiguan SE 4Motion",
-      "details": "101,521 Miles Automatic AWD 2.0L I-4",
-      "bid_price": "$9,907",
-      "bin_price": "$12,500",
-      "bid_end_date": "11/13/24 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6722b99db381a.jpeg",
-      "url": "https://repos.americafirst.com/units/2573",
+      "title": "2016 GMC Sierra 1500 SLT",
+      "details": "156,007 Miles Automatic 4X4 5.3L V-8",
+      "bid_price": "$16,005",
+      "bin_price": "",
+      "bid_end_date": "11/20/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/672d196581418.jpeg",
+      "url": "https://repos.americafirst.com/units/2581",
+      "source": "AFCU"
+    },
+    {
+      "title": "2021 KEYSTONE 175BH",
+      "details": "",
+      "bid_price": "$8,500",
+      "bin_price": "$10,900",
+      "bid_end_date": "11/20/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/670ee09229116.jpeg",
+      "url": "https://repos.americafirst.com/units/2556",
+      "source": "AFCU"
+    },
+    {
+      "title": "2019 Nissan Titan PRO-4X",
+      "details": "31,013 Miles Automatic 4X4 5.6L V-8",
+      "bid_price": "$28,000",
+      "bin_price": "$33,000",
+      "bid_end_date": "11/20/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67004cfbcb9d4.jpeg",
+      "url": "https://repos.americafirst.com/units/2539",
+      "source": "AFCU"
+    },
+    {
+      "title": "2021 Nissan Versa SV",
+      "details": "45,413 Miles CVT FWD 1.6L I-4",
+      "bid_price": "$13,900",
+      "bin_price": "$17,400",
+      "bid_end_date": "11/20/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/670ea7832c24e.jpeg",
+      "url": "https://repos.americafirst.com/units/2550",
+      "source": "AFCU"
+    },
+    {
+      "title": "2018 Polaris RZR XP 4 1000 EPS",
+      "details": "5,292 Miles 999cc",
+      "bid_price": "$8,900",
+      "bin_price": "",
+      "bid_end_date": "11/20/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67339499f2659.jpeg",
+      "url": "https://repos.americafirst.com/units/2582",
+      "source": "AFCU"
+    },
+    {
+      "title": "2018 Ram 3500 Laramie",
+      "details": "103,887 Miles Automatic 4X4 6.7L I-6",
+      "bid_price": "$43,500",
+      "bin_price": "$46,250",
+      "bid_end_date": "11/20/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/672d118fbf806.jpeg",
+      "url": "https://repos.americafirst.com/units/2580",
+      "source": "AFCU"
+    },
+    {
+      "title": "2017 Toyota Tacoma TRD Sport",
+      "details": "59,852 Miles Automatic 4X4 3.5L V-6",
+      "bid_price": "$27,950",
+      "bin_price": "$30,500",
+      "bid_end_date": "11/20/24 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/672beedf24cf6.jpeg",
+      "url": "https://repos.americafirst.com/units/2579",
       "source": "AFCU"
     }
   ]
