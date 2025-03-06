@@ -1,114 +1,94 @@
 {
-  "last_updated": "2025-02-26 18:22:45 MST",
+  "last_updated": "2025-03-05 18:24:23 MST",
   "cars": [
     {
-      "title": "2022 Dodge Charger GT",
-      "details": "51,137 Miles Automatic RWD 3.6L V-6",
-      "bid_price": "$21,500",
-      "bin_price": "$28,000",
-      "bid_end_date": "3/5/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67bfa18ca6784.jpeg",
-      "url": "https://repos.americafirst.com/units/2733",
+      "title": "2022 Chevrolet Equinox LT",
+      "details": "38,457 Miles Automatic 4X4 1.5L I-4",
+      "bid_price": "$18,900",
+      "bin_price": "$23,000",
+      "bid_end_date": "3/12/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67c5e063b5fc0.jpeg",
+      "url": "https://repos.americafirst.com/units/2741",
       "source": "AFCU"
     },
     {
-      "title": "2022 Ford Bronco Sport Big Bend",
-      "details": "29,311 Miles Automatic AWD 1.5L I-3",
-      "bid_price": "$23,250",
-      "bin_price": "$28,000",
-      "bid_end_date": "3/5/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67b7b260511e5.jpeg",
-      "url": "https://repos.americafirst.com/units/2732",
-      "source": "AFCU"
-    },
-    {
-      "title": "2022 Ford F-150 Lariat",
-      "details": "27,759 Miles Automatic 4X4 3.5L V-6",
-      "bid_price": "$45,005",
-      "bin_price": "$51,300",
-      "bid_end_date": "3/5/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67b7a8d1e77b2.jpeg",
-      "url": "https://repos.americafirst.com/units/2730",
-      "source": "AFCU"
-    },
-    {
-      "title": "2019 Ford F-250 Super Duty XLT FX4 Off Road",
-      "details": "99,348 Miles Automatic 4X4 6.7L V-8",
-      "bid_price": "$31,001",
-      "bin_price": "$39,250",
-      "bid_end_date": "3/5/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67bcdfb0d556a.jpeg",
-      "url": "https://repos.americafirst.com/units/2740",
-      "source": "AFCU"
-    },
-    {
-      "title": "2019 GMC Yukon XL Denali",
-      "details": "85,217 Miles Automatic 4X4 6.2L V-8",
-      "bid_price": "$32,405",
-      "bin_price": "$39,500",
-      "bid_end_date": "3/5/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67b7adb279596.jpeg",
-      "url": "https://repos.americafirst.com/units/2731",
-      "source": "AFCU"
-    },
-    {
-      "title": "2019 Hyundai TUCSON SE",
-      "details": "132,189 Miles Automatic AWD 2.0L I-4",
-      "bid_price": "$7,500",
-      "bin_price": "$10,500",
-      "bid_end_date": "3/5/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67b8bc4a0885d.jpeg",
-      "url": "https://repos.americafirst.com/units/2734",
-      "source": "AFCU"
-    },
-    {
-      "title": "2024 Indian Scout Rogue SIxty ABS",
-      "details": "4,023 Miles 1,133cc",
-      "bid_price": "$8,000",
-      "bin_price": "$11,500",
-      "bid_end_date": "3/5/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67bcb3ca4983d.jpeg",
-      "url": "https://repos.americafirst.com/units/2739",
-      "source": "AFCU"
-    },
-    {
-      "title": "2023 Indian Springfield Base",
-      "details": "350 Miles 1,811cc",
-      "bid_price": "$15,000",
-      "bin_price": "$17,400",
-      "bid_end_date": "3/5/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67b8c999de6fb.jpeg",
-      "url": "https://repos.americafirst.com/units/2736",
-      "source": "AFCU"
-    },
-    {
-      "title": "2023 PACE UTILITY JV7X14TE2",
+      "title": "2022 FOREST RIVER SALEM HEMISPHERE ELITE 34RL",
       "details": "",
-      "bid_price": "$5,400",
-      "bin_price": "$7,000",
-      "bid_end_date": "3/5/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67b8f36f49467.jpeg",
-      "url": "https://repos.americafirst.com/units/2737",
+      "bid_price": "$36,000",
+      "bin_price": "$41,500",
+      "bid_end_date": "3/12/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67c604108c8ed.jpeg",
+      "url": "https://repos.americafirst.com/units/2745",
       "source": "AFCU"
     },
     {
-      "title": "2021 Toyota Tundra TRD Pro",
-      "details": "30,184 Miles Automatic 4X4 5.7L V-8",
-      "bid_price": "$45,000",
-      "bin_price": "$48,900",
-      "bid_end_date": "3/5/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6793f6a4e13a8.jpeg",
-      "url": "https://repos.americafirst.com/units/2690",
-      "source": "AFCU"
-    },
-    {
-      "title": "2022 Vengeance by Forest river ROGUE M-25V-31'",
+      "title": "2019 FOREST RIVER SHOCKWAVE G-SERIES 28FWG DX",
       "details": "",
-      "bid_price": "$24,000",
-      "bin_price": "$31,000",
-      "bid_end_date": "3/5/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67b91457416e6.jpeg",
-      "url": "https://repos.americafirst.com/units/2738",
+      "bid_price": "$33,500",
+      "bin_price": "$37,000",
+      "bid_end_date": "3/12/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67c5f61fc66f2.jpeg",
+      "url": "https://repos.americafirst.com/units/2744",
+      "source": "AFCU"
+    },
+    {
+      "title": "2016 HEARTLAND TRAIL RUNNER M-320DK",
+      "details": "",
+      "bid_price": "$8,001",
+      "bin_price": "",
+      "bid_end_date": "3/12/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67c6363f4aa5f.jpeg",
+      "url": "https://repos.americafirst.com/units/2748",
+      "source": "AFCU"
+    },
+    {
+      "title": "2019 Hyundai KONA SE",
+      "details": "50,419 Miles Automatic AWD 2.0L I-4",
+      "bid_price": "$12,611",
+      "bin_price": "",
+      "bid_end_date": "3/12/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67c5e45a4bfeb.jpeg",
+      "url": "https://repos.americafirst.com/units/2742",
+      "source": "AFCU"
+    },
+    {
+      "title": "2021 Jeep Grand Cherokee Limited X",
+      "details": "52,567 Miles Automatic 4X4 3.6L V-6",
+      "bid_price": "$25,000",
+      "bin_price": "$27,900",
+      "bid_end_date": "3/12/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67c63cbb7967e.jpeg",
+      "url": "https://repos.americafirst.com/units/2749",
+      "source": "AFCU"
+    },
+    {
+      "title": "2022 KODIAK by DUTCHMAN ULTRA LITE SERIES M-242RBSL-29'",
+      "details": "",
+      "bid_price": "$30,000",
+      "bin_price": "$38,500",
+      "bid_end_date": "3/12/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67c60ec124df8.jpeg",
+      "url": "https://repos.americafirst.com/units/2746",
+      "source": "AFCU"
+    },
+    {
+      "title": "2018 Mazda CX-5 Grand Touring",
+      "details": "72,581 Miles Automatic AWD 2.5L I-4",
+      "bid_price": "$15,100",
+      "bin_price": "$18,250",
+      "bid_end_date": "3/12/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67c61f5576777.jpeg",
+      "url": "https://repos.americafirst.com/units/2747",
+      "source": "AFCU"
+    },
+    {
+      "title": "2023 Tesla Model 3 Base",
+      "details": "51,099 Miles Automatic RWD",
+      "bid_price": "$20,902",
+      "bin_price": "$25,400",
+      "bid_end_date": "3/12/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67c5e87ab44c4.jpeg",
+      "url": "https://repos.americafirst.com/units/2743",
       "source": "AFCU"
     }
   ]
