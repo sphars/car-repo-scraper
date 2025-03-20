@@ -1,34 +1,114 @@
 {
-  "last_updated": "2025-03-12 19:25:21 MDT",
+  "last_updated": "2025-03-19 19:24:23 MDT",
   "cars": [
     {
-      "title": "2023 Ford Bronco Big Bend",
-      "details": "22,931 Miles Automatic 4X4 2.7L V-6",
-      "bid_price": "$35,100",
-      "bin_price": "$39,600",
-      "bid_end_date": "3/19/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67cf16d204683.jpeg",
-      "url": "https://repos.americafirst.com/units/2752",
+      "title": "2018 Audi RS 3 2.5T quattro",
+      "details": "55,030 Miles Automatic AWD 2.5L I-5",
+      "bid_price": "$30,002",
+      "bin_price": "$36,000",
+      "bid_end_date": "3/26/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67cf1ef15ee5a.jpeg",
+      "url": "https://repos.americafirst.com/units/2754",
       "source": "AFCU"
     },
     {
-      "title": "2021 HEARTLAND WILDERNESS ULTRA LITE ID2725BH",
+      "title": "2019 Chevrolet Silverado 3500HD LTZ",
+      "details": "74,939 Miles Automatic 4X4 6.6L V-8",
+      "bid_price": "$43,501",
+      "bin_price": "$50,900",
+      "bid_end_date": "3/26/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67d9a1a95278d.jpeg",
+      "url": "https://repos.americafirst.com/units/2757",
+      "source": "AFCU"
+    },
+    {
+      "title": "2019 Chrysler Pacifica Limited",
+      "details": "107,501 Miles Automatic FWD 3.6L V-6",
+      "bid_price": "$13,900",
+      "bin_price": "$18,000",
+      "bid_end_date": "3/26/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67d9c32ca0c3d.jpeg",
+      "url": "https://repos.americafirst.com/units/2759",
+      "source": "AFCU"
+    },
+    {
+      "title": "2016 GMC Sierra 2500HD Denali",
+      "details": "54,174 Miles Automatic 4X4 6.6L V-8",
+      "bid_price": "$40,115",
+      "bin_price": "",
+      "bid_end_date": "3/26/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67d9d0c143ac1.jpeg",
+      "url": "https://repos.americafirst.com/units/2762",
+      "source": "AFCU"
+    },
+    {
+      "title": "2021 Hyundai ELANTRA SEL",
+      "details": "48,484 Miles CVT FWD 2.0L I-4",
+      "bid_price": "$14,001",
+      "bin_price": "$18,225",
+      "bid_end_date": "3/26/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67d9d5ef7882f.jpeg",
+      "url": "https://repos.americafirst.com/units/2763",
+      "source": "AFCU"
+    },
+    {
+      "title": "2018 KEYSTONE VOLTAGE M-3805-43'",
       "details": "",
-      "bid_price": "$18,600",
-      "bin_price": "$23,900",
-      "bid_end_date": "3/19/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67c6479cb6896.jpeg",
-      "url": "https://repos.americafirst.com/units/2750",
+      "bid_price": "$48,000",
+      "bin_price": "$64,000",
+      "bid_end_date": "3/26/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67d9e113dd0b8.jpeg",
+      "url": "https://repos.americafirst.com/units/2765",
       "source": "AFCU"
     },
     {
-      "title": "2023 Nissan Pathfinder SL",
-      "details": "20,563 Miles Automatic AWD 3.5L V-6",
-      "bid_price": "$34,000",
-      "bin_price": "$38,000",
-      "bid_end_date": "3/19/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67cf18a26afb8.jpeg",
-      "url": "https://repos.americafirst.com/units/2753",
+      "title": "2020 Mitsubishi Outlander SEL",
+      "details": "53,451 Miles CVT AWD 2.4L I-4",
+      "bid_price": "$13,901",
+      "bin_price": "$19,850",
+      "bid_end_date": "3/26/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67cf21d8a8cae.jpeg",
+      "url": "https://repos.americafirst.com/units/2756",
+      "source": "AFCU"
+    },
+    {
+      "title": "2021 Nissan Rogue SV",
+      "details": "32,519 Miles CVT AWD 2.5L I-4",
+      "bid_price": "$20,000",
+      "bin_price": "$25,400",
+      "bid_end_date": "3/26/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67d9ad64b1465.jpeg",
+      "url": "https://repos.americafirst.com/units/2758",
+      "source": "AFCU"
+    },
+    {
+      "title": "2021 Nissan Rogue SV",
+      "details": "61,759 Miles CVT AWD 2.5L I-4",
+      "bid_price": "$17,500",
+      "bin_price": "$22,000",
+      "bid_end_date": "3/26/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67d9c98bb26a0.jpeg",
+      "url": "https://repos.americafirst.com/units/2760",
+      "source": "AFCU"
+    },
+    {
+      "title": "2022 Polaris RZR Pro XP 4 Ultimate",
+      "details": "1,916 Miles 925cc",
+      "bid_price": "$21,999",
+      "bin_price": "",
+      "bid_end_date": "3/26/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67d9cd09ea5dc.jpeg",
+      "url": "https://repos.americafirst.com/units/2761",
+      "source": "AFCU"
+    },
+    {
+      "title": "2020 STARCRAFT M-242RL-29'",
+      "details": "",
+      "bid_price": "$14,025",
+      "bin_price": "$17,000",
+      "bid_end_date": "3/26/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67d9ddce5c9db.jpeg",
+      "url": "https://repos.americafirst.com/units/2764",
       "source": "AFCU"
     }
   ]
