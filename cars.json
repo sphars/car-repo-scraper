@@ -1,54 +1,74 @@
 {
-  "last_updated": "2025-03-26 19:26:07 MDT",
+  "last_updated": "2025-04-02 19:26:43 MDT",
   "cars": [
     {
-      "title": "2018 Harley-Davidson Softail Fat Boy",
-      "details": "6,798 Miles 1,868cc",
-      "bid_price": "$9,552",
-      "bin_price": "$13,250",
-      "bid_end_date": "4/2/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67ddac553af47.jpeg",
-      "url": "https://repos.americafirst.com/units/2769",
+      "title": "2021 Dodge Durango GT Plus",
+      "details": "92,610 Miles Automatic AWD 3.6L V-6",
+      "bid_price": "$21,501",
+      "bin_price": "$26,550",
+      "bid_end_date": "4/9/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67eaef80c745f.jpeg",
+      "url": "https://repos.americafirst.com/units/2775",
+      "source": "AFCU"
+    },
+    {
+      "title": "2020 FOREST RIVER CARDINAL 345 RLX",
+      "details": "",
+      "bid_price": "$46,000",
+      "bin_price": "$53,000",
+      "bid_end_date": "4/9/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67eaf1e6d7558.jpeg",
+      "url": "https://repos.americafirst.com/units/2776",
+      "source": "AFCU"
+    },
+    {
+      "title": "2020 Honda Pilot EX-L",
+      "details": "38,985 Miles Automatic AWD 3.5L V-6",
+      "bid_price": "$24,550",
+      "bin_price": "",
+      "bid_end_date": "4/9/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67ead5cb80433.jpeg",
+      "url": "https://repos.americafirst.com/units/2771",
+      "source": "AFCU"
+    },
+    {
+      "title": "2018 KEYSTONE VOLTAGE M-3805-43'",
+      "details": "",
+      "bid_price": "$46,000",
+      "bin_price": "$61,000",
+      "bid_end_date": "4/9/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67d9e113dd0b8.jpeg",
+      "url": "https://repos.americafirst.com/units/2765",
+      "source": "AFCU"
+    },
+    {
+      "title": "2021 Nissan Rogue Sport",
+      "details": "91,243 Miles CVT AWD 2.0L I-4",
+      "bid_price": "$11,005",
+      "bin_price": "",
+      "bid_end_date": "4/9/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67eae34323291.jpeg",
+      "url": "https://repos.americafirst.com/units/2772",
       "source": "AFCU"
     },
     {
       "title": "2023 Nissan Sentra SR",
-      "details": "8,197 Miles CVT FWD 2.0L I-4",
-      "bid_price": "$21,900",
-      "bin_price": "$27,000",
-      "bid_end_date": "4/2/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67dc8f0ba436b.jpeg",
-      "url": "https://repos.americafirst.com/units/2766",
+      "details": "25,919 Miles CVT FWD 2.0L I-4",
+      "bid_price": "$18,990",
+      "bin_price": "$24,000",
+      "bid_end_date": "4/9/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67eaed2070a0c.jpeg",
+      "url": "https://repos.americafirst.com/units/2774",
       "source": "AFCU"
     },
     {
-      "title": "2019 Nissan Sentra SV",
-      "details": "47,641 Miles CVT FWD 1.8L I-4",
-      "bid_price": "$9,501",
-      "bin_price": "$14,900",
-      "bid_end_date": "4/2/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67dc961811bc1.jpeg",
-      "url": "https://repos.americafirst.com/units/2767",
-      "source": "AFCU"
-    },
-    {
-      "title": "2021 ROCKWOOD by Forest River MINI LITE M-2516S-26'",
-      "details": "",
-      "bid_price": "$17,200",
-      "bin_price": "$21,000",
-      "bid_end_date": "4/2/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67ddb1497df60.jpeg",
-      "url": "https://repos.americafirst.com/units/2770",
-      "source": "AFCU"
-    },
-    {
-      "title": "2018 Toyota Corolla SE",
-      "details": "87,708 Miles CVT FWD 1.8L I-4",
-      "bid_price": "$12,002",
-      "bin_price": "",
-      "bid_end_date": "4/2/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67dda77d1ee84.jpeg",
-      "url": "https://repos.americafirst.com/units/2768",
+      "title": "2022 Toyota Camry SE",
+      "details": "93,633 Miles Automatic AWD 2.5L I-4",
+      "bid_price": "$18,000",
+      "bin_price": "$23,250",
+      "bid_end_date": "4/9/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67eae556e1489.jpeg",
+      "url": "https://repos.americafirst.com/units/2773",
       "source": "AFCU"
     }
   ]
