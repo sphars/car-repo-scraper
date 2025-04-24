@@ -1,74 +1,74 @@
 {
-  "last_updated": "2025-04-16 19:36:17 MDT",
+  "last_updated": "2025-04-23 19:37:26 MDT",
   "cars": [
     {
-      "title": "2021 Chrysler Pacifica Touring L",
-      "details": "92,289 Miles Automatic FWD 3.6L V-6",
-      "bid_price": "$15,000",
-      "bin_price": "$18,750",
-      "bid_end_date": "4/23/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67fd570d5275a.jpeg",
-      "url": "https://repos.americafirst.com/units/2785",
+      "title": "2019 Mazda CX-3 Front Wheel Drive Touring",
+      "details": "114,090 Miles Automatic FWD 2.0L I-4",
+      "bid_price": "$10,325",
+      "bin_price": "$14,700",
+      "bid_end_date": "4/30/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/68069ad93aeab.jpeg",
+      "url": "https://repos.americafirst.com/units/2796",
       "source": "AFCU"
     },
     {
-      "title": "2019 Hyundai SANTA FE SE 2.4L",
-      "details": "110,781 Miles Automatic FWD 2.4L I-4",
-      "bid_price": "$9,976",
-      "bin_price": "$12,900",
-      "bid_end_date": "4/23/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67fd67982d888.jpeg",
-      "url": "https://repos.americafirst.com/units/2786",
+      "title": "2023 MINI Clubman Cooper S ALL4",
+      "details": "41,236 Miles Automatic AWD 2.0L I-4",
+      "bid_price": "$23,776",
+      "bin_price": "$30,675",
+      "bid_end_date": "4/30/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/680692e1a9c1e.jpeg",
+      "url": "https://repos.americafirst.com/units/2794",
       "source": "AFCU"
     },
     {
-      "title": "2024 Kia Seltos",
-      "details": "7,215 Miles CVT FWD 2.0L I-4",
-      "bid_price": "$21,700",
+      "title": "2021 Nissan Rogue SV",
+      "details": "34,113 Miles CVT AWD 2.5L I-4",
+      "bid_price": "$18,700",
+      "bin_price": "$24,250",
+      "bid_end_date": "4/30/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/680696d5a2ef7.jpeg",
+      "url": "https://repos.americafirst.com/units/2795",
+      "source": "AFCU"
+    },
+    {
+      "title": "2022 Tesla Model 3 Long Range",
+      "details": "61,887 Miles Automatic AWD",
+      "bid_price": "$21,355",
+      "bin_price": "$28,500",
+      "bid_end_date": "4/30/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/68068df34d4ba.jpeg",
+      "url": "https://repos.americafirst.com/units/2793",
+      "source": "AFCU"
+    },
+    {
+      "title": "2020 Tesla Model Y Long Range",
+      "details": "54,870 Miles Automatic AWD",
+      "bid_price": "$23,653",
+      "bin_price": "$28,125",
+      "bid_end_date": "4/30/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/68068a7430785.jpeg",
+      "url": "https://repos.americafirst.com/units/2792",
+      "source": "AFCU"
+    },
+    {
+      "title": "2022 Toyota Camry LE",
+      "details": "15,287 Miles Automatic FWD 2.5L I-4",
+      "bid_price": "$22,901",
+      "bin_price": "$24,100",
+      "bid_end_date": "4/30/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6802c6203f680.jpeg",
+      "url": "https://repos.americafirst.com/units/2791",
+      "source": "AFCU"
+    },
+    {
+      "title": "2021 Toyota Tacoma TRD Off-Road",
+      "details": "30,496 Miles Automatic 4X4 3.5L V-6",
+      "bid_price": "$37,000",
       "bin_price": "",
-      "bid_end_date": "4/23/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67fd7aae6621f.jpeg",
-      "url": "https://repos.americafirst.com/units/2789",
-      "source": "AFCU"
-    },
-    {
-      "title": "2023 Mercedes-Benz GLC GLC 300 4MATIC",
-      "details": "24,070 Miles Automatic AWD 2.0L I-4",
-      "bid_price": "$42,100",
-      "bin_price": "$45,800",
-      "bid_end_date": "4/23/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67f9953ab7512.jpeg",
-      "url": "https://repos.americafirst.com/units/2783",
-      "source": "AFCU"
-    },
-    {
-      "title": "2019 Tesla Model 3 Standard Range Plus",
-      "details": "103,529 Miles Automatic RWD",
-      "bid_price": "$15,800",
-      "bin_price": "$22,875",
-      "bid_end_date": "4/23/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67fd782a1f839.jpeg",
-      "url": "https://repos.americafirst.com/units/2788",
-      "source": "AFCU"
-    },
-    {
-      "title": "2022 Toyota 4Runner Trail Special Edition",
-      "details": "22,154 Miles Automatic 4X4 4.0L V-6",
-      "bid_price": "$39,200",
-      "bin_price": "$42,000",
-      "bid_end_date": "4/23/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67fd4b4ca617b.jpeg",
-      "url": "https://repos.americafirst.com/units/2784",
-      "source": "AFCU"
-    },
-    {
-      "title": "2020 Toyota Tacoma SR5 V6",
-      "details": "32,049 Miles Automatic 4X4 3.5L V-6",
-      "bid_price": "$31,000",
-      "bin_price": "",
-      "bid_end_date": "4/23/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67fd726c47855.jpeg",
-      "url": "https://repos.americafirst.com/units/2787",
+      "bid_end_date": "4/30/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6802b672b2077.jpeg",
+      "url": "https://repos.americafirst.com/units/2790",
       "source": "AFCU"
     }
   ]
