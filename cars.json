@@ -1,34 +1,84 @@
 {
-  "last_updated": "2025-04-30 19:46:31 MDT",
+  "last_updated": "2025-05-07 19:40:30 MDT",
   "cars": [
     {
-      "title": "2024 AMERICAN NH61SC",
-      "details": "",
-      "bid_price": "$3,852",
-      "bin_price": "$5,000",
-      "bid_end_date": "5/7/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/680a740c4724e.jpeg",
-      "url": "https://repos.americafirst.com/units/2799",
+      "title": "2022 Dodge Durango Citadel",
+      "details": "41,881 Miles Automatic AWD 3.6L V-6",
+      "bid_price": "$31,000",
+      "bin_price": "$35,850",
+      "bid_end_date": "5/14/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/68152fa682976.jpeg",
+      "url": "https://repos.americafirst.com/units/2801",
       "source": "AFCU"
     },
     {
-      "title": "2022 KEYSTONE AVALANCHE 322RL",
-      "details": "",
-      "bid_price": "$35,000",
-      "bin_price": "$47,000",
-      "bid_end_date": "5/7/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/680a65df80b8a.jpeg",
-      "url": "https://repos.americafirst.com/units/2798",
+      "title": "2022 Hyundai TUCSON SEL",
+      "details": "39,178 Miles Automatic AWD 2.5L I-4",
+      "bid_price": "$19,500",
+      "bin_price": "$23,400",
+      "bid_end_date": "5/14/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/68152b2fa228e.jpeg",
+      "url": "https://repos.americafirst.com/units/2800",
       "source": "AFCU"
     },
     {
-      "title": "2019 Nissan Sentra SV",
-      "details": "47,641 Miles CVT FWD 1.8L I-4",
-      "bid_price": "$9,127",
-      "bin_price": "",
-      "bid_end_date": "5/7/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67dc961811bc1.jpeg",
-      "url": "https://repos.americafirst.com/units/2767",
+      "title": "2024 Kawasaki Ninja ZX-10R ABS",
+      "details": "3,475 Miles 998cc",
+      "bid_price": "$14,500",
+      "bin_price": "$18,000",
+      "bid_end_date": "5/14/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/681542521fab5.jpeg",
+      "url": "https://repos.americafirst.com/units/2803",
+      "source": "AFCU"
+    },
+    {
+      "title": "2019 Kia Optima LX",
+      "details": "97,822 Miles Automatic FWD 2.4L I-4",
+      "bid_price": "$6,990",
+      "bin_price": "$12,125",
+      "bid_end_date": "5/14/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6818ed33a191c.jpeg",
+      "url": "https://repos.americafirst.com/units/2806",
+      "source": "AFCU"
+    },
+    {
+      "title": "2022 Kia Sorento LX",
+      "details": "70,029 Miles Automatic AWD 2.5L I-4",
+      "bid_price": "$18,200",
+      "bin_price": "$21,500",
+      "bid_end_date": "5/14/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6818dfb475835.jpeg",
+      "url": "https://repos.americafirst.com/units/2804",
+      "source": "AFCU"
+    },
+    {
+      "title": "2022 Mercedes-Benz GLC AMG GLC 43",
+      "details": "53,630 Miles Automatic AWD 3.0L V-6",
+      "bid_price": "$36,900",
+      "bin_price": "$41,900",
+      "bid_end_date": "5/14/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6818e5f14be84.jpeg",
+      "url": "https://repos.americafirst.com/units/2805",
+      "source": "AFCU"
+    },
+    {
+      "title": "2019 Toyota Camry SE",
+      "details": "86,733 Miles Automatic FWD 2.5L I-4",
+      "bid_price": "$14,602",
+      "bin_price": "$17,900",
+      "bid_end_date": "5/14/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/681533dd1342e.jpeg",
+      "url": "https://repos.americafirst.com/units/2802",
+      "source": "AFCU"
+    },
+    {
+      "title": "2022 Toyota Tacoma TRD Sport",
+      "details": "55,961 Miles Automatic 4X4 3.5L V-6",
+      "bid_price": "$34,000",
+      "bin_price": "$37,500",
+      "bid_end_date": "5/14/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6818f75c1c72e.jpeg",
+      "url": "https://repos.americafirst.com/units/2807",
       "source": "AFCU"
     }
   ]
