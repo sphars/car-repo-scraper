@@ -1,34 +1,44 @@
 {
-  "last_updated": "2025-05-28 19:41:52 MDT",
+  "last_updated": "2025-06-04 19:42:17 MDT",
   "cars": [
     {
-      "title": "2022 Dodge Durango Citadel",
-      "details": "41,881 Miles Automatic AWD 3.6L V-6",
-      "bid_price": "$29,900",
-      "bin_price": "$34,000",
-      "bid_end_date": "6/4/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/68152fa682976.jpeg",
-      "url": "https://repos.americafirst.com/units/2801",
+      "title": "2022 Ford Ranger Lariat",
+      "details": "47,945 Miles Automatic 4X4 2.3L I-4",
+      "bid_price": "$28,000",
+      "bin_price": "$32,500",
+      "bid_end_date": "6/11/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/683773e25d612.jpeg",
+      "url": "https://repos.americafirst.com/units/2822",
       "source": "AFCU"
     },
     {
-      "title": "2022 Harley-Davidson Softail Street Bob 114",
-      "details": "43 Miles 1,868cc",
-      "bid_price": "$8,021",
-      "bin_price": "$10,900",
-      "bid_end_date": "6/4/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/682f54b9ac29c.jpeg",
-      "url": "https://repos.americafirst.com/units/2819",
+      "title": "2024 Nissan Altima 2.5 SR",
+      "details": "13,606 Miles CVT FWD 2.5L I-4",
+      "bid_price": "$21,000",
+      "bin_price": "$26,499",
+      "bid_end_date": "6/11/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/68376b82c2228.jpeg",
+      "url": "https://repos.americafirst.com/units/2821",
       "source": "AFCU"
     },
     {
-      "title": "2019 Mercedes-Benz CLA CLA 250",
-      "details": "67,874 Miles Automatic FWD 2.0L I-4",
-      "bid_price": "$13,001",
-      "bin_price": "$16,850",
-      "bid_end_date": "6/4/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/682f4aac65c20.jpeg",
-      "url": "https://repos.americafirst.com/units/2818",
+      "title": "2021 Nissan Sentra SV",
+      "details": "60,917 Miles CVT FWD 2.0L I-4",
+      "bid_price": "$12,602",
+      "bin_price": "$18,900",
+      "bid_end_date": "6/11/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/683750aed8e27.jpeg",
+      "url": "https://repos.americafirst.com/units/2820",
+      "source": "AFCU"
+    },
+    {
+      "title": "2021 Subaru Legacy Limited",
+      "details": "72,912 Miles CVT AWD 2.5L H-4",
+      "bid_price": "$17,000",
+      "bin_price": "$22,000",
+      "bid_end_date": "6/11/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/68377a4d28c67.jpeg",
+      "url": "https://repos.americafirst.com/units/2823",
       "source": "AFCU"
     }
   ]
