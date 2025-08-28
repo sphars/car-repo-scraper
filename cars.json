@@ -1,104 +1,114 @@
 {
-  "last_updated": "2025-08-20 19:38:13 MDT",
+  "last_updated": "2025-08-27 19:27:27 MDT",
   "cars": [
     {
-      "title": "2019 Chevrolet Silverado 1500 LT",
-      "details": "77,234 Miles Automatic 4X4 5.3L V-8",
-      "bid_price": "$26,000",
-      "bin_price": "$30,900",
-      "bid_end_date": "8/27/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/68a35df0aeb20.jpeg",
-      "url": "https://repos.americafirst.com/units/2899",
+      "title": "2022 Can-Am Maverick X3 MAX X rs TURBO RR With SMART-SHOX",
+      "details": "1,974 Miles 900cc",
+      "bid_price": "$16,225",
+      "bin_price": "",
+      "bid_end_date": "9/3/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/68a4b2babd324.jpeg",
+      "url": "https://repos.americafirst.com/units/2908",
       "source": "AFCU"
     },
     {
-      "title": "2018 Ford Explorer XLT",
-      "details": "56,679 Miles Automatic AWD 3.5L V-6",
-      "bid_price": "$17,006",
-      "bin_price": "$21,000",
-      "bid_end_date": "8/27/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/68a3758f93b5b.jpeg",
-      "url": "https://repos.americafirst.com/units/2902",
+      "title": "2016 Dodge Charger SXT",
+      "details": "69,788 Miles Automatic AWD 3.6L V-6",
+      "bid_price": "$12,900",
+      "bin_price": "$16,500",
+      "bid_end_date": "9/3/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/68a8a88c8f48a.jpeg",
+      "url": "https://repos.americafirst.com/units/2914",
       "source": "AFCU"
     },
     {
-      "title": "2021 FOREST RIVER VIKING 2308 LS",
+      "title": "2014 Honda Ridgeline SE",
+      "details": "36,398 Miles Automatic 4X4 3.5L V-6",
+      "bid_price": "$18,901",
+      "bin_price": "$20,850",
+      "bid_end_date": "9/3/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/68a88bb9228ce.jpeg",
+      "url": "https://repos.americafirst.com/units/2909",
+      "source": "AFCU"
+    },
+    {
+      "title": "2021 Hyundai PALISADE SEL",
+      "details": "45,111 Miles Automatic AWD 3.8L V-6",
+      "bid_price": "$24,202",
+      "bin_price": "$29,000",
+      "bid_end_date": "9/3/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/68ac78746f522.jpeg",
+      "url": "https://repos.americafirst.com/units/2915",
+      "source": "AFCU"
+    },
+    {
+      "title": "2019 Jeep Cherokee Latitude Plus",
+      "details": "107,787 Miles Automatic 4X4 3.2L V-6",
+      "bid_price": "$10,000",
+      "bin_price": "$14,900",
+      "bid_end_date": "9/3/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/68a892d34bde1.jpeg",
+      "url": "https://repos.americafirst.com/units/2910",
+      "source": "AFCU"
+    },
+    {
+      "title": "2021 Jeep Compass Limited",
+      "details": "103,560 Miles Automatic 4X4 2.4L I-4",
+      "bid_price": "$13,050",
+      "bin_price": "$18,750",
+      "bid_end_date": "9/3/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/68a89c70e6f35.jpeg",
+      "url": "https://repos.americafirst.com/units/2912",
+      "source": "AFCU"
+    },
+    {
+      "title": "2024 Mazda CX-30 2.5 S Carbon Edition",
+      "details": "23,276 Miles Automatic AWD 2.5L I-4",
+      "bid_price": "$23,400",
+      "bin_price": "$28,000",
+      "bid_end_date": "9/3/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/68a8a0ac73f9a.jpeg",
+      "url": "https://repos.americafirst.com/units/2913",
+      "source": "AFCU"
+    },
+    {
+      "title": "2016 Mazda CX-5 AFCU FLEET UNIT Touring",
+      "details": "94,668 Miles Automatic AWD 2.5L I-4",
+      "bid_price": "$9,977",
+      "bin_price": "$12,750",
+      "bid_end_date": "9/3/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/68a8f20032bad.jpeg",
+      "url": "https://repos.americafirst.com/units/2916",
+      "source": "AFCU"
+    },
+    {
+      "title": "2021 Polaris GENERAL 4 XP 1000 Factory Custom Edition",
+      "details": "9,269 Miles 999cc",
+      "bid_price": "$13,705",
+      "bin_price": "$16,900",
+      "bid_end_date": "9/3/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/68aca78eca5b7.jpeg",
+      "url": "https://repos.americafirst.com/units/2918",
+      "source": "AFCU"
+    },
+    {
+      "title": "2023 Subaru Legacy Premium",
+      "details": "31,444 Miles CVT AWD 2.5L H-4",
+      "bid_price": "$21,001",
+      "bin_price": "$25,200",
+      "bid_end_date": "9/3/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/68a8987cdcd1a.jpeg",
+      "url": "https://repos.americafirst.com/units/2911",
+      "source": "AFCU"
+    },
+    {
+      "title": "2022 WELLS CARGO FT7162T2D 0",
       "details": "",
-      "bid_price": "$8,601",
-      "bin_price": "$11,400",
-      "bid_end_date": "8/27/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/67cf161a5522a.jpeg",
-      "url": "https://repos.americafirst.com/units/2751",
-      "source": "AFCU"
-    },
-    {
-      "title": "2022 GRAND DESIGN REFLECTION 150M 226RK",
-      "details": "",
-      "bid_price": "$27,000",
-      "bin_price": "$36,000",
-      "bid_end_date": "8/27/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6871827d5a866.jpeg",
-      "url": "https://repos.americafirst.com/units/2861",
-      "source": "AFCU"
-    },
-    {
-      "title": "2016 Honda Pilot EX-L",
-      "details": "151,068 Miles Automatic AWD 3.5L V-6",
-      "bid_price": "$9,102",
-      "bin_price": "",
-      "bid_end_date": "8/27/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/68a3a480eb74c.jpeg",
-      "url": "https://repos.americafirst.com/units/2904",
-      "source": "AFCU"
-    },
-    {
-      "title": "2023 Kawasaki KLR 650 Traveler",
-      "details": "1,926 Miles 652cc",
-      "bid_price": "$4,250",
-      "bin_price": "$5,200",
-      "bid_end_date": "8/27/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/68a493e76c7b9.jpeg",
-      "url": "https://repos.americafirst.com/units/2905",
-      "source": "AFCU"
-    },
-    {
-      "title": "2022 Kawasaki KLX 300",
-      "details": "561 Miles 292cc",
-      "bid_price": "$3,200",
-      "bin_price": "$3,650",
-      "bid_end_date": "8/27/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/68a49852e947a.jpeg",
-      "url": "https://repos.americafirst.com/units/2906",
-      "source": "AFCU"
-    },
-    {
-      "title": "2016 Mercedes-Benz GLA GLA 250 4MATIC",
-      "details": "67,581 Miles Automatic AWD 2.0L I-4",
-      "bid_price": "$9,243",
-      "bin_price": "",
-      "bid_end_date": "8/27/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/68a3666f3c16a.jpeg",
-      "url": "https://repos.americafirst.com/units/2901",
-      "source": "AFCU"
-    },
-    {
-      "title": "2022 Nissan Sentra SR",
-      "details": "44,146 Miles CVT FWD 2.0L I-4",
-      "bid_price": "$16,501",
-      "bin_price": "$21,000",
-      "bid_end_date": "8/27/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/68a39ce8a104f.jpeg",
-      "url": "https://repos.americafirst.com/units/2903",
-      "source": "AFCU"
-    },
-    {
-      "title": "2019 Polaris RZR XP 4 Turbo LE",
-      "details": "940 Miles 925cc",
-      "bid_price": "$11,200",
-      "bin_price": "",
-      "bid_end_date": "8/27/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/68a4a6660ac12.jpeg",
-      "url": "https://repos.americafirst.com/units/2907",
+      "bid_price": "$6,905",
+      "bin_price": "$8,800",
+      "bid_end_date": "9/3/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/68aca360b393d.jpeg",
+      "url": "https://repos.americafirst.com/units/2917",
       "source": "AFCU"
     }
   ]
