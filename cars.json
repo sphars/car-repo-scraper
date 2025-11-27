@@ -1,84 +1,124 @@
 {
-  "last_updated": "2025-11-19 18:39:31 MST",
+  "last_updated": "2025-11-26 18:40:04 MST",
   "cars": [
     {
-      "title": "2020 Audi A4 quattro Premium Plus 45 TFSI",
-      "details": "75,942 Miles Automatic AWD 2.0L I-4",
-      "bid_price": "$17,010",
-      "bin_price": "$20,250",
-      "bid_end_date": "11/26/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6917aa97cacd0.jpeg",
-      "url": "https://repos.americafirst.com/units/3022",
-      "source": "AFCU"
-    },
-    {
-      "title": "2014 Bentley Flying Spur Base",
-      "details": "67,659 Miles Automatic AWD 6.0L W-12",
-      "bid_price": "$73,001",
-      "bin_price": "$84,000",
-      "bid_end_date": "11/26/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/691b672307cfc.jpeg",
-      "url": "https://repos.americafirst.com/units/3025",
-      "source": "AFCU"
-    },
-    {
-      "title": "2020 Chevrolet Equinox Premier",
-      "details": "84,422 Miles Automatic 4X4 1.5L I-4",
-      "bid_price": "$14,502",
-      "bin_price": "$18,900",
-      "bid_end_date": "11/26/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/691b60b9abf2f.jpeg",
-      "url": "https://repos.americafirst.com/units/3024",
-      "source": "AFCU"
-    },
-    {
-      "title": "2025 Chevrolet Tahoe LS",
-      "details": "9,629 Miles Automatic 4X4 5.3L V-8",
-      "bid_price": "$56,850",
-      "bin_price": "$65,000",
-      "bid_end_date": "11/26/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/69167d5173740.jpeg",
-      "url": "https://repos.americafirst.com/units/3021",
-      "source": "AFCU"
-    },
-    {
-      "title": "2022 Chevrolet Trailblazer RS",
-      "details": "57,419 Miles CVT FWD 1.3L I-3",
-      "bid_price": "$16,001",
-      "bin_price": "$20,700",
-      "bid_end_date": "11/26/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/69167be4dc9bf.jpeg",
-      "url": "https://repos.americafirst.com/units/3020",
-      "source": "AFCU"
-    },
-    {
-      "title": "2021 JAYCO JAYFLIGHT SLX BAJA M-RB21",
+      "title": "2023 AIRSTREAM BASE CAMP 20X",
       "details": "",
-      "bid_price": "$7,600",
-      "bin_price": "$9,000",
-      "bid_end_date": "11/26/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/691b77422893e.jpeg",
-      "url": "https://repos.americafirst.com/units/3027",
-      "source": "AFCU"
-    },
-    {
-      "title": "2022 Kia Seltos FRONT WHEEL DRIVE",
-      "details": "102,748 Miles CVT FWD 2.0L I-4",
-      "bid_price": "$10,000",
-      "bin_price": "$14,700",
-      "bid_end_date": "11/26/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6917afe5d8592.jpeg",
-      "url": "https://repos.americafirst.com/units/3023",
-      "source": "AFCU"
-    },
-    {
-      "title": "2022 ROCKWOOD by FOREST RIVER ULTRA LITEM-2892RB-27'",
-      "details": "",
-      "bid_price": "$28,000",
+      "bid_price": "$33,000",
       "bin_price": "$39,000",
-      "bid_end_date": "11/26/25 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/691b75280210e.jpeg",
-      "url": "https://repos.americafirst.com/units/3026",
+      "bid_end_date": "12/3/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/69123524840cd.jpeg",
+      "url": "https://repos.americafirst.com/units/3018",
+      "source": "AFCU"
+    },
+    {
+      "title": "2017 Audi A3 2.0T Premium",
+      "details": "57,746 Miles Automatic FWD 2.0L I-4",
+      "bid_price": "$10,501",
+      "bin_price": "$14,800",
+      "bid_end_date": "12/3/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6924f566ca0fb.jpeg",
+      "url": "https://repos.americafirst.com/units/3035",
+      "source": "AFCU"
+    },
+    {
+      "title": "2018 Chevrolet Camaro LT",
+      "details": "30,522 Miles Automatic RWD 2.0L I-4",
+      "bid_price": "$15,800",
+      "bin_price": "$22,000",
+      "bid_end_date": "12/3/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6925dd4c30804.jpeg",
+      "url": "https://repos.americafirst.com/units/3039",
+      "source": "AFCU"
+    },
+    {
+      "title": "2020 Ford F-150 XLT",
+      "details": "64,522 Miles Automatic 4X4 3.5L V-6",
+      "bid_price": "$26,666",
+      "bin_price": "$31,500",
+      "bid_end_date": "12/3/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6924f96e3e12e.jpeg",
+      "url": "https://repos.americafirst.com/units/3036",
+      "source": "AFCU"
+    },
+    {
+      "title": "2022 Kia Forte GT",
+      "details": "88,211 Miles Automatic FWD 1.6L I-4",
+      "bid_price": "$11,900",
+      "bin_price": "$16,750",
+      "bid_end_date": "12/3/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6925daac6588f.jpeg",
+      "url": "https://repos.americafirst.com/units/3038",
+      "source": "AFCU"
+    },
+    {
+      "title": "2024 Lexus TX 500h F SPORT Performance Premium",
+      "details": "28,814 Miles Automatic AWD 2.4L I-4",
+      "bid_price": "$58,000",
+      "bin_price": "$68,000",
+      "bid_end_date": "12/3/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6924e726b6e21.jpeg",
+      "url": "https://repos.americafirst.com/units/3033",
+      "source": "AFCU"
+    },
+    {
+      "title": "2019 Nissan Altima 2.5 S",
+      "details": "146,288 Miles CVT AWD 2.5L I-4",
+      "bid_price": "$4,506",
+      "bin_price": "$7,500",
+      "bid_end_date": "12/3/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6925e76c97eab.jpeg",
+      "url": "https://repos.americafirst.com/units/3042",
+      "source": "AFCU"
+    },
+    {
+      "title": "2024 Nissan Rogue SV",
+      "details": "23,678 Miles CVT AWD 1.5L I-3",
+      "bid_price": "$18,951",
+      "bin_price": "$25,000",
+      "bid_end_date": "12/3/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6925e5cb2d75d.jpeg",
+      "url": "https://repos.americafirst.com/units/3041",
+      "source": "AFCU"
+    },
+    {
+      "title": "2021 Ram 2500 Laramie",
+      "details": "26,663 Miles Automatic 4X4 6.7L I-6",
+      "bid_price": "$47,000",
+      "bin_price": "$53,000",
+      "bid_end_date": "12/3/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6924dbfebcf4a.jpeg",
+      "url": "https://repos.americafirst.com/units/3031",
+      "source": "AFCU"
+    },
+    {
+      "title": "2019 Toyota RAV4 XLE",
+      "details": "84,451 Miles Automatic FWD 2.5L I-4",
+      "bid_price": "$18,000",
+      "bin_price": "$21,000",
+      "bid_end_date": "12/3/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6924e28fd61e7.jpeg",
+      "url": "https://repos.americafirst.com/units/3032",
+      "source": "AFCU"
+    },
+    {
+      "title": "2022 Volkswagen Taos SE 4Motion",
+      "details": "22,737 Miles Automatic AWD 1.5L I-4",
+      "bid_price": "$20,000",
+      "bin_price": "$21,900",
+      "bid_end_date": "12/3/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6924ecc665593.jpeg",
+      "url": "https://repos.americafirst.com/units/3034",
+      "source": "AFCU"
+    },
+    {
+      "title": "2025 Yamaha MT 07",
+      "details": "1,047 Miles 689cc",
+      "bid_price": "$4,902",
+      "bin_price": "$8,000",
+      "bid_end_date": "12/3/25 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6925e49983c9b.jpeg",
+      "url": "https://repos.americafirst.com/units/3040",
       "source": "AFCU"
     }
   ]
