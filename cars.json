@@ -1,104 +1,74 @@
 {
-  "last_updated": "2026-02-25 19:10:15 MST",
+  "last_updated": "2026-03-04 19:10:49 MST",
   "cars": [
     {
-      "title": "2018 Chevrolet Equinox Premier",
-      "details": "84,685 Miles Automatic 4X4 1.5L I-4",
-      "bid_price": "$11,000",
+      "title": "2021 Ford F-150 Limited",
+      "details": "84,527 Miles Automatic 4X4 3.5L V-6",
+      "bid_price": "$47,500",
+      "bin_price": "$55,000",
+      "bid_end_date": "3/11/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/69a610ed0436d.jpeg",
+      "url": "https://repos.americafirst.com/units/3148",
+      "source": "AFCU"
+    },
+    {
+      "title": "2020 Hyundai SANTA FE SEL 2.0T",
+      "details": "23,950 Miles Automatic AWD 2.0L I-4",
+      "bid_price": "$20,020",
       "bin_price": "",
-      "bid_end_date": "3/4/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/699dd35d08839.jpeg",
-      "url": "https://repos.americafirst.com/units/3141",
+      "bid_end_date": "3/11/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/69a5ee527a7af.jpeg",
+      "url": "https://repos.americafirst.com/units/3147",
       "source": "AFCU"
     },
     {
-      "title": "2020 Chevrolet Equinox Premier",
-      "details": "75,031 Miles Automatic 4X4 2.0L I-4",
-      "bid_price": "$14,000",
+      "title": "2018 Jeep Grand Cherokee Laredo",
+      "details": "76,626 Miles Automatic 4X4 3.6L V-6",
+      "bid_price": "$11,500",
+      "bin_price": "$13,200",
+      "bid_end_date": "3/11/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/69a5e927c7ed1.jpeg",
+      "url": "https://repos.americafirst.com/units/3145",
+      "source": "AFCU"
+    },
+    {
+      "title": "2023 Kia Forte LXS",
+      "details": "30,186 Miles CVT FWD 2.0L I-4",
+      "bid_price": "$14,901",
+      "bin_price": "$16,500",
+      "bid_end_date": "3/11/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/69a5eb2bde2df.jpeg",
+      "url": "https://repos.americafirst.com/units/3146",
+      "source": "AFCU"
+    },
+    {
+      "title": "2020 Nissan Rogue S",
+      "details": "74,618 Miles CVT AWD 2.5L I-4",
+      "bid_price": "$10,500",
+      "bin_price": "$14,200",
+      "bid_end_date": "3/11/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/69a22528493d5.jpeg",
+      "url": "https://repos.americafirst.com/units/3144",
+      "source": "AFCU"
+    },
+    {
+      "title": "2023 Polaris RZR Pro R 4 Ultimate",
+      "details": "293 Miles 1,997cc",
+      "bid_price": "$22,000",
       "bin_price": "",
-      "bid_end_date": "3/4/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/699cb80b20e17.jpeg",
-      "url": "https://repos.americafirst.com/units/3135",
+      "bid_end_date": "3/11/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/69a632eaefc04.jpeg",
+      "url": "https://repos.americafirst.com/units/3149",
       "source": "AFCU"
     },
     {
-      "title": "2021 Ford Mustang Mach-E GT",
-      "details": "55,173 Miles Automatic AWD",
-      "bid_price": "$21,600",
-      "bin_price": "$27,000",
-      "bid_end_date": "3/4/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/699cb3d73769c.jpeg",
-      "url": "https://repos.americafirst.com/units/3134",
-      "source": "AFCU"
-    },
-    {
-      "title": "2022 Honda Accord Hybrid Sport",
-      "details": "86,375 Miles Automatic FWD 2.0L I-4",
-      "bid_price": "$18,011",
-      "bin_price": "$20,500",
-      "bid_end_date": "3/4/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/699cf48b8b0b8.jpeg",
-      "url": "https://repos.americafirst.com/units/3139",
-      "source": "AFCU"
-    },
-    {
-      "title": "2022 Hyundai SONATA SE",
-      "details": "81,565 Miles Automatic FWD 2.5L I-4",
-      "bid_price": "$11,503",
-      "bin_price": "$15,000",
-      "bid_end_date": "3/4/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/699cd55b6703d.jpeg",
-      "url": "https://repos.americafirst.com/units/3136",
-      "source": "AFCU"
-    },
-    {
-      "title": "2022 Jeep Compass Trailhawk",
-      "details": "43,452 Miles Automatic 4X4 2.4L I-4",
-      "bid_price": "$19,901",
-      "bin_price": "$24,000",
-      "bid_end_date": "3/4/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/699cf1534c788.jpeg",
-      "url": "https://repos.americafirst.com/units/3138",
-      "source": "AFCU"
-    },
-    {
-      "title": "2020 Kia Telluride S",
-      "details": "120,777 Miles Automatic AWD 3.8L V-6",
-      "bid_price": "$12,202",
-      "bin_price": "$14,900",
-      "bid_end_date": "3/4/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/699dd643618f0.jpeg",
-      "url": "https://repos.americafirst.com/units/3142",
-      "source": "AFCU"
-    },
-    {
-      "title": "2022 Toyota Corolla SE",
-      "details": "58,821 Miles CVT FWD 2.0L I-4",
-      "bid_price": "$15,555",
-      "bin_price": "$18,000",
-      "bid_end_date": "3/4/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/699ce0c61a3a0.jpeg",
-      "url": "https://repos.americafirst.com/units/3137",
-      "source": "AFCU"
-    },
-    {
-      "title": "2023 Toyota RAV4 XLE",
-      "details": "44,598 Miles Automatic AWD 2.5L I-4",
-      "bid_price": "$26,502",
-      "bin_price": "$30,750",
-      "bid_end_date": "3/4/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/699cf8c59a977.jpeg",
-      "url": "https://repos.americafirst.com/units/3140",
-      "source": "AFCU"
-    },
-    {
-      "title": "2024 Toyota RAV4 Hybrid LE",
-      "details": "17,598 Miles CVT AWD 2.5L I-4",
-      "bid_price": "$27,501",
-      "bin_price": "$32,500",
-      "bid_end_date": "3/4/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/699dd9fb4adaa.jpeg",
-      "url": "https://repos.americafirst.com/units/3143",
+      "title": "2021 Ram 2500 Big Horn",
+      "details": "86,308 Miles Automatic 4X4 6.4L V-8",
+      "bid_price": "$25,000",
+      "bin_price": "$31,900",
+      "bid_end_date": "3/11/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/69a6ffa26eb2f.jpeg",
+      "url": "https://repos.americafirst.com/units/3150",
       "source": "AFCU"
     }
   ]
