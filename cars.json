@@ -1,94 +1,64 @@
 {
-  "last_updated": "2026-03-25 20:30:21 MDT",
+  "last_updated": "2026-04-01 20:28:42 MDT",
   "cars": [
     {
-      "title": "2017 Ford F-250 Super Duty Lariat",
-      "details": "133,557 Miles Automatic 4X4 6.7L V-8",
-      "bid_price": "$32,500",
-      "bin_price": "$35,000",
-      "bid_end_date": "4/1/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/69c2aec683093.jpeg",
-      "url": "https://repos.americafirst.com/units/3179",
-      "source": "AFCU"
-    },
-    {
-      "title": "2018 Ford Taurus SHO",
-      "details": "107,323 Miles Automatic AWD 3.5L V-6",
-      "bid_price": "$11,903",
-      "bin_price": "$17,500",
-      "bid_end_date": "4/1/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/69bdd127b7180.jpeg",
-      "url": "https://repos.americafirst.com/units/3177",
-      "source": "AFCU"
-    },
-    {
-      "title": "2021 Hyundai IONIQ Electric Limited",
-      "details": "32,006 Miles Automatic FWD",
-      "bid_price": "$11,005",
-      "bin_price": "$13,000",
-      "bid_end_date": "4/1/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/69bdc6e7290a5.jpeg",
-      "url": "https://repos.americafirst.com/units/3175",
-      "source": "AFCU"
-    },
-    {
-      "title": "2020 KEYSTONE REDWOOD 4001LK",
-      "details": "",
-      "bid_price": "$45,000",
-      "bin_price": "$58,000",
-      "bid_end_date": "4/1/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/69c2b3250589c.jpeg",
-      "url": "https://repos.americafirst.com/units/3180",
-      "source": "AFCU"
-    },
-    {
-      "title": "2020 Kia Optima SX Turbo",
-      "details": "76,140 Miles Automatic FWD 2.0L I-4",
-      "bid_price": "$12,702",
-      "bin_price": "$16,000",
-      "bid_end_date": "4/1/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/69bdb9f427b63.jpeg",
-      "url": "https://repos.americafirst.com/units/3173",
-      "source": "AFCU"
-    },
-    {
-      "title": "2015 Mercedes-Benz Sprinter 2500",
-      "details": "173,077 Miles Automatic 4X2 2.1L I-4",
-      "bid_price": "$19,003",
-      "bin_price": "$22,000",
-      "bid_end_date": "4/1/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/69c2a876d7e32.jpeg",
-      "url": "https://repos.americafirst.com/units/3178",
-      "source": "AFCU"
-    },
-    {
-      "title": "2024 Mitsubishi Mirage LE",
-      "details": "50,739 Miles CVT FWD 1.2L I-3",
-      "bid_price": "$8,500",
-      "bin_price": "$10,850",
-      "bid_end_date": "4/1/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/69bdc1095dd18.jpeg",
-      "url": "https://repos.americafirst.com/units/3174",
-      "source": "AFCU"
-    },
-    {
-      "title": "2022 Toyota Camry TRD",
-      "details": "55,829 Miles Automatic FWD 3.5L V-6",
-      "bid_price": "$26,704",
+      "title": "2018 Dodge Durango SXT",
+      "details": "132,215 Miles Automatic AWD 3.6L V-6",
+      "bid_price": "$8,000",
       "bin_price": "",
-      "bid_end_date": "4/1/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/69bdb6ae46322.jpeg",
-      "url": "https://repos.americafirst.com/units/3172",
+      "bid_end_date": "4/8/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/69c443598de00.jpeg",
+      "url": "https://repos.americafirst.com/units/3183",
       "source": "AFCU"
     },
     {
-      "title": "2019 Volkswagen Jetta S",
-      "details": "63,224 Miles Manual FWD 1.4L I-4",
-      "bid_price": "$9,953",
-      "bin_price": "$13,000",
-      "bid_end_date": "4/1/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/69bdcc6f993f1.jpeg",
-      "url": "https://repos.americafirst.com/units/3176",
+      "title": "2018 Ford Mustang GT",
+      "details": "88,800 Miles Automatic RWD 5.0L V-8",
+      "bid_price": "$15,008",
+      "bin_price": "$22,000",
+      "bid_end_date": "4/8/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6904ff2080e6d.jpeg",
+      "url": "https://repos.americafirst.com/units/3007",
+      "source": "AFCU"
+    },
+    {
+      "title": "2024 FOREST RIVER CHEROKEE ALPHA WOLF 280QBS-L",
+      "details": "",
+      "bid_price": "$23,000",
+      "bin_price": "$31,000",
+      "bid_end_date": "4/8/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/69c44ad2f21f9.jpeg",
+      "url": "https://repos.americafirst.com/units/3187",
+      "source": "AFCU"
+    },
+    {
+      "title": "2021 FOREST RIVER IMPRESSION 320FL",
+      "details": "",
+      "bid_price": "$22,000",
+      "bin_price": "$29,000",
+      "bid_end_date": "4/8/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/69c4470fc8010.jpeg",
+      "url": "https://repos.americafirst.com/units/3185",
+      "source": "AFCU"
+    },
+    {
+      "title": "2023 FOREST RIVER r-pod RPT 180",
+      "details": "",
+      "bid_price": "$16,000",
+      "bin_price": "$22,000",
+      "bid_end_date": "4/8/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/69c4497178513.jpeg",
+      "url": "https://repos.americafirst.com/units/3186",
+      "source": "AFCU"
+    },
+    {
+      "title": "2021 Honda Civic Sport",
+      "details": "88,313 Miles CVT FWD 1.5L I-4",
+      "bid_price": "$14,108",
+      "bin_price": "$18,000",
+      "bid_end_date": "4/8/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/69c4446c8eee5.jpeg",
+      "url": "https://repos.americafirst.com/units/3184",
       "source": "AFCU"
     }
   ]
