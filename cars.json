@@ -1,74 +1,84 @@
 {
-  "last_updated": "2026-05-27 21:44:00 MDT",
+  "last_updated": "2026-06-03 22:08:41 MDT",
   "cars": [
     {
-      "title": "2024 BMW X4 AFCU Fleet M40i",
-      "details": "29,621 Miles Automatic AWD 3.0L I-6",
-      "bid_price": "$51,004",
-      "bin_price": "$56,000",
-      "bid_end_date": "6/3/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a15c6cf2b636.jpeg",
-      "url": "https://repos.americafirst.com/units/3250",
+      "title": "2018 Audi SQ5 3.0T quattro Prestige",
+      "details": "89,822 Miles Automatic AWD 3.0L V-6",
+      "bid_price": "$15,010",
+      "bin_price": "",
+      "bid_end_date": "6/10/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a1dbe1361dd9.jpeg",
+      "url": "https://repos.americafirst.com/units/3254",
       "source": "AFCU"
     },
     {
-      "title": "2021 FOREST RIVER 27QB XLR BOOST",
+      "title": "2023 Can-Am Maverick Sport Max DPS 1000R",
+      "details": "590 Miles 976cc",
+      "bid_price": "$14,101",
+      "bin_price": "$14,200",
+      "bid_end_date": "6/10/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a1dd6063ed57.jpeg",
+      "url": "https://repos.americafirst.com/units/3256",
+      "source": "AFCU"
+    },
+    {
+      "title": "2022 Chevrolet Equinox LT",
+      "details": "70,115 Miles Automatic 4X4 1.5L I-4",
+      "bid_price": "$15,000",
+      "bin_price": "$18,500",
+      "bid_end_date": "6/10/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a1db68a28c95.jpeg",
+      "url": "https://repos.americafirst.com/units/3253",
+      "source": "AFCU"
+    },
+    {
+      "title": "2021 Chevrolet Suburban LT",
+      "details": "121,478 Miles Automatic 4X4 5.3L V-8",
+      "bid_price": "$29,950",
+      "bin_price": "",
+      "bid_end_date": "6/10/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a1dde589d5b5.jpeg",
+      "url": "https://repos.americafirst.com/units/3258",
+      "source": "AFCU"
+    },
+    {
+      "title": "2021 Ford Explorer Limited",
+      "details": "70,115 Miles Automatic AWD 2.3L I-4",
+      "bid_price": "$18,501",
+      "bin_price": "$22,000",
+      "bid_end_date": "6/10/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a1daf279f4e3.jpeg",
+      "url": "https://repos.americafirst.com/units/3252",
+      "source": "AFCU"
+    },
+    {
+      "title": "2019 Ford F-150 AFCU FLEET Unit XLT",
+      "details": "144,224 Miles Automatic 4X4 3.5L V-6",
+      "bid_price": "$13,899",
+      "bin_price": "$17,900",
+      "bid_end_date": "6/10/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a1dda966f7cb.jpeg",
+      "url": "https://repos.americafirst.com/units/3257",
+      "source": "AFCU"
+    },
+    {
+      "title": "2023 HAULMARK PASSPORT 8.5X20",
       "details": "",
-      "bid_price": "$19,503",
-      "bin_price": "$24,000",
-      "bid_end_date": "6/3/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a15f246e09fc.jpeg",
-      "url": "https://repos.americafirst.com/units/3251",
+      "bid_price": "$8,102",
+      "bin_price": "$9,300",
+      "bid_end_date": "6/10/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a1dfeeeae769.jpeg",
+      "url": "https://repos.americafirst.com/units/3259",
       "source": "AFCU"
     },
     {
-      "title": "2021 Harley-Davidson Sportster Iron 1200",
-      "details": "11,390 Miles 1,200cc",
-      "bid_price": "$5,000",
-      "bin_price": "$6,500",
-      "bid_end_date": "6/3/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a15b6c134f41.jpeg",
-      "url": "https://repos.americafirst.com/units/3248",
-      "source": "AFCU"
-    },
-    {
-      "title": "2014 Harley-Davidson Street Glide Base",
-      "details": "24,818 Miles 1,800cc",
-      "bid_price": "$8,900",
-      "bin_price": "$13,000",
-      "bid_end_date": "6/3/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a15b8a42e6b1.jpeg",
-      "url": "https://repos.americafirst.com/units/3249",
-      "source": "AFCU"
-    },
-    {
-      "title": "2023 Hyundai KONA Electric SE",
-      "details": "27,729 Miles Automatic FWD",
-      "bid_price": "$14,600",
-      "bin_price": "$17,000",
-      "bid_end_date": "6/3/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a15b46f1f084.jpeg",
-      "url": "https://repos.americafirst.com/units/3247",
-      "source": "AFCU"
-    },
-    {
-      "title": "2019 Toyota RAV4 Hybrid Limited",
-      "details": "107,871 Miles CVT AWD 2.5L I-4",
-      "bid_price": "$20,577",
-      "bin_price": "$25,000",
-      "bid_end_date": "6/3/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a15b33816900.jpeg",
-      "url": "https://repos.americafirst.com/units/3246",
-      "source": "AFCU"
-    },
-    {
-      "title": "2021 Volkswagen Atlas SEL Premium 4Motion",
-      "details": "73,436 Miles Automatic AWD 2.0L I-4",
-      "bid_price": "$20,100",
-      "bin_price": "$25,000",
-      "bid_end_date": "6/3/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a15b17436d9c.jpeg",
-      "url": "https://repos.americafirst.com/units/3245",
+      "title": "2023 Husqvarna FC 450 Rockstar Edition",
+      "details": "0 Miles 449cc",
+      "bid_price": "$5,500",
+      "bin_price": "$7,800",
+      "bid_end_date": "6/10/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a1dc40010f49.jpeg",
+      "url": "https://repos.americafirst.com/units/3255",
       "source": "AFCU"
     }
   ]
