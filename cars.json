@@ -1,94 +1,34 @@
 {
-  "last_updated": "2026-08-12 20:01:29 MDT",
+  "last_updated": "2026-08-19 19:15:27 MDT",
   "cars": [
     {
-      "title": "2018 Chevrolet Silverado 1500 LTZ Z71",
-      "details": "127,658 Miles Automatic 4X4 5.3L V-8",
-      "bid_price": "$20,001",
-      "bin_price": "$24,300",
-      "bid_end_date": "8/19/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a79fe28b0841.jpeg",
-      "url": "https://repos.americafirst.com/units/3329",
-      "source": "AFCU"
-    },
-    {
-      "title": "2018 Honda CR-V Touring",
-      "details": "91,116 Miles CVT AWD 1.5L I-4",
-      "bid_price": "$17,001",
-      "bin_price": "$19,000",
-      "bid_end_date": "8/19/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a7a44085451d.jpeg",
-      "url": "https://repos.americafirst.com/units/3333",
-      "source": "AFCU"
-    },
-    {
-      "title": "2026 Hyundai SANTA CRUZ SEL Activity",
-      "details": "1,000 Miles Automatic AWD 2.5L I-4",
-      "bid_price": "$32,500",
-      "bin_price": "$35,000",
-      "bid_end_date": "8/19/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a7a03619b285.jpeg",
-      "url": "https://repos.americafirst.com/units/3330",
-      "source": "AFCU"
-    },
-    {
-      "title": "2017 Hyundai TUCSON Value",
-      "details": "61,113 Miles Automatic AWD 1.6L I-4",
-      "bid_price": "$11,200",
-      "bin_price": "$14,825",
-      "bid_end_date": "8/19/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a7b3f1c30360.jpeg",
-      "url": "https://repos.americafirst.com/units/3334",
-      "source": "AFCU"
-    },
-    {
-      "title": "2025 Kawasaki Z500 SE ABS",
-      "details": "3,158 Miles 451cc",
-      "bid_price": "$4,200",
-      "bin_price": "$6,500",
-      "bid_end_date": "8/19/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a79f2b202f3c.jpeg",
-      "url": "https://repos.americafirst.com/units/3327",
-      "source": "AFCU"
-    },
-    {
-      "title": "2024 Nissan Sentra SV",
-      "details": "48,159 Miles CVT FWD 2.0L I-4",
-      "bid_price": "$14,900",
-      "bin_price": "$18,000",
-      "bid_end_date": "8/19/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a7a3c33629c7.jpeg",
-      "url": "https://repos.americafirst.com/units/3332",
-      "source": "AFCU"
-    },
-    {
-      "title": "2024 Polaris RZR Pro XP 4 Sport",
-      "details": "2,876 Miles 925cc",
-      "bid_price": "$16,000",
-      "bin_price": "$21,000",
-      "bid_end_date": "8/19/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a7b46106fcde.jpeg",
-      "url": "https://repos.americafirst.com/units/3335",
-      "source": "AFCU"
-    },
-    {
-      "title": "2022 R-Pod M-22-25'",
+      "title": "2024 COLEMAN by DUTCHMAN M-17R-21'",
       "details": "",
-      "bid_price": "$17,000",
-      "bin_price": "$22,000",
-      "bid_end_date": "8/19/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a79f73434497.jpeg",
-      "url": "https://repos.americafirst.com/units/3328",
+      "bid_price": "$10,900",
+      "bin_price": "$13,500",
+      "bid_end_date": "8/26/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a7e0713884d8.jpeg",
+      "url": "https://repos.americafirst.com/units/3338",
       "source": "AFCU"
     },
     {
-      "title": "2015 Ram 1500 Tradesman",
-      "details": "120,075 Miles Automatic 4X4 3.0L V-6",
-      "bid_price": "$11,500",
-      "bin_price": "$15,400",
-      "bid_end_date": "8/19/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a7a304fcd19a.jpeg",
-      "url": "https://repos.americafirst.com/units/3331",
+      "title": "2009 Harley-Davidson Tri Glide Ultra Classic",
+      "details": "42,826 Miles 1,584cc",
+      "bid_price": "$5,000",
+      "bin_price": "$7,800",
+      "bid_end_date": "8/26/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a7e029d5ace5.jpeg",
+      "url": "https://repos.americafirst.com/units/3337",
+      "source": "AFCU"
+    },
+    {
+      "title": "2022 Honda PCX 150 ABS",
+      "details": "12 Miles 157cc",
+      "bid_price": "$2,885",
+      "bin_price": "$3,450",
+      "bid_end_date": "8/26/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a7df49596276.jpeg",
+      "url": "https://repos.americafirst.com/units/3336",
       "source": "AFCU"
     }
   ]
