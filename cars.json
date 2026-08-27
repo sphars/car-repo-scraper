@@ -1,34 +1,104 @@
 {
-  "last_updated": "2026-08-19 19:15:27 MDT",
+  "last_updated": "2026-08-27 01:58:16 MDT",
   "cars": [
     {
-      "title": "2024 COLEMAN by DUTCHMAN M-17R-21'",
+      "title": "2022 Chevrolet Equinox RS",
+      "details": "47,136 Miles Automatic 4X4 1.5L I-4",
+      "bid_price": "$20,500",
+      "bin_price": "$24,250",
+      "bid_end_date": "9/2/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a88c840563c7.jpeg",
+      "url": "https://repos.americafirst.com/units/3344",
+      "source": "AFCU"
+    },
+    {
+      "title": "2023 Chrysler Pacifica ALLWHEEL DRIVE Touring L",
+      "details": "14,677 Miles Automatic AWD 3.6L V-6",
+      "bid_price": "$27,202",
+      "bin_price": "$30,000",
+      "bid_end_date": "9/2/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a8771933ea92.jpeg",
+      "url": "https://repos.americafirst.com/units/3339",
+      "source": "AFCU"
+    },
+    {
+      "title": "2022 Ford EcoSport SE",
+      "details": "10,663 Miles Automatic AWD 2.0L I-4",
+      "bid_price": "$16,010",
+      "bin_price": "$18,900",
+      "bid_end_date": "9/2/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a88990cd226c.jpeg",
+      "url": "https://repos.americafirst.com/units/3342",
+      "source": "AFCU"
+    },
+    {
+      "title": "2020 Ford Edge SE",
+      "details": "118,456 Miles Automatic FWD 2.0L I-4",
+      "bid_price": "$7,001",
+      "bin_price": "$10,000",
+      "bid_end_date": "9/2/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a8caff35d8a4.jpeg",
+      "url": "https://repos.americafirst.com/units/3347",
+      "source": "AFCU"
+    },
+    {
+      "title": "2020 Ford F-150 XL",
+      "details": "124,618 Miles Automatic 4X4 3.5L V-6",
+      "bid_price": "$17,000",
+      "bin_price": "$22,800",
+      "bid_end_date": "9/2/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a8c7acf77c28.jpeg",
+      "url": "https://repos.americafirst.com/units/3346",
+      "source": "AFCU"
+    },
+    {
+      "title": "2019 HEARTLAND TRAIL RUNNER 25RL",
       "details": "",
-      "bid_price": "$10,900",
-      "bin_price": "$13,500",
-      "bid_end_date": "8/26/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a7e0713884d8.jpeg",
-      "url": "https://repos.americafirst.com/units/3338",
+      "bid_price": "$10,001",
+      "bin_price": "$14,000",
+      "bid_end_date": "9/2/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a8da747b0ad2.jpeg",
+      "url": "https://repos.americafirst.com/units/3348",
       "source": "AFCU"
     },
     {
-      "title": "2009 Harley-Davidson Tri Glide Ultra Classic",
-      "details": "42,826 Miles 1,584cc",
-      "bid_price": "$5,000",
-      "bin_price": "$7,800",
-      "bid_end_date": "8/26/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a7e029d5ace5.jpeg",
-      "url": "https://repos.americafirst.com/units/3337",
+      "title": "2020 Hyundai KONA SE",
+      "details": "93,052 Miles Automatic FWD 2.0L I-4",
+      "bid_price": "$8,100",
+      "bin_price": "$11,000",
+      "bid_end_date": "9/2/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a87761fdab8e.jpeg",
+      "url": "https://repos.americafirst.com/units/3340",
       "source": "AFCU"
     },
     {
-      "title": "2022 Honda PCX 150 ABS",
-      "details": "12 Miles 157cc",
-      "bid_price": "$2,885",
-      "bin_price": "$3,450",
-      "bid_end_date": "8/26/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a7df49596276.jpeg",
-      "url": "https://repos.americafirst.com/units/3336",
+      "title": "2023 Hyundai SANTA FE SEL",
+      "details": "57,698 Miles Automatic AWD 2.5L I-4",
+      "bid_price": "$19,000",
+      "bin_price": "$23,500",
+      "bid_end_date": "9/2/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a88c38deb9c5.jpeg",
+      "url": "https://repos.americafirst.com/units/3343",
+      "source": "AFCU"
+    },
+    {
+      "title": "2022 Toyota 4Runner SR5 Premium",
+      "details": "53,392 Miles Automatic 4X4 4.0L V-6",
+      "bid_price": "$33,601",
+      "bin_price": "$38,000",
+      "bid_end_date": "9/2/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a877e1c75b0a.jpeg",
+      "url": "https://repos.americafirst.com/units/3341",
+      "source": "AFCU"
+    },
+    {
+      "title": "2024 Toyota Corolla LE",
+      "details": "32,360 Miles CVT FWD 2.0L I-4",
+      "bid_price": "$20,506",
+      "bin_price": "$22,000",
+      "bid_end_date": "9/2/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6a88d2b97400f.jpeg",
+      "url": "https://repos.americafirst.com/units/3345",
       "source": "AFCU"
     }
   ]
