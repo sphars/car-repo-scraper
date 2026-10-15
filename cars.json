@@ -1,64 +1,34 @@
 {
-  "last_updated": "2026-10-07 22:56:04 MDT",
+  "last_updated": "2026-10-14 21:34:20 MDT",
   "cars": [
     {
-      "title": "2022 Chevrolet Trailblazer LT",
-      "details": "74,426 Miles Automatic 4X4 1.3L I-3",
-      "bid_price": "$13,886",
-      "bin_price": "$16,000",
-      "bid_end_date": "10/14/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6ac41ec147b76.jpeg",
-      "url": "https://repos.americafirst.com/units/3390",
+      "title": "2026 Chevrolet Colorado Work Truck",
+      "details": "5,635 Miles Automatic 4X4 2.7L I-4",
+      "bid_price": "$28,502",
+      "bin_price": "$33,900",
+      "bid_end_date": "10/21/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6ac7b08f3c769.jpeg",
+      "url": "https://repos.americafirst.com/units/3397",
       "source": "AFCU"
     },
     {
-      "title": "2017 Ford F-150 Platinum",
-      "details": "108,789 Miles Automatic 4X4 3.5L V-6",
-      "bid_price": "$18,950",
-      "bin_price": "$24,000",
-      "bid_end_date": "10/14/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6ac4076c5b086.jpeg",
-      "url": "https://repos.americafirst.com/units/3389",
+      "title": "2019 Nissan Altima 2.5 SR",
+      "details": "118,393 Miles CVT AWD 2.5L I-4",
+      "bid_price": "$8,001",
+      "bin_price": "$11,000",
+      "bid_end_date": "10/21/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6ac7af6103d5f.jpeg",
+      "url": "https://repos.americafirst.com/units/3396",
       "source": "AFCU"
     },
     {
-      "title": "2025 Ford F-250 Super Duty Lariat",
-      "details": "10,287 Miles Automatic 4X4 6.7L V-8",
-      "bid_price": "$70,000",
-      "bin_price": "$76,000",
-      "bid_end_date": "10/14/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6ac50cc1d142a.jpeg",
-      "url": "https://repos.americafirst.com/units/3394",
-      "source": "AFCU"
-    },
-    {
-      "title": "2023 Hyundai PALISADE Limited",
-      "details": "46,303 Miles Automatic AWD 3.8L V-6",
-      "bid_price": "$27,500",
-      "bin_price": "$31,500",
-      "bid_end_date": "10/14/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6ac42df854c9a.jpeg",
-      "url": "https://repos.americafirst.com/units/3393",
-      "source": "AFCU"
-    },
-    {
-      "title": "2022 Kawasaki KLR 650 Adventure",
-      "details": "8,706 Miles 652cc",
-      "bid_price": "$3,502",
-      "bin_price": "$4,800",
-      "bid_end_date": "10/14/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6ac42323c37ac.jpeg",
-      "url": "https://repos.americafirst.com/units/3391",
-      "source": "AFCU"
-    },
-    {
-      "title": "2021 Volkswagen Tiguan SE 4Motion",
-      "details": "55,372 Miles Automatic AWD 2.0L I-4",
-      "bid_price": "$14,550",
-      "bin_price": "",
-      "bid_end_date": "10/14/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6ac428d7a3567.jpeg",
-      "url": "https://repos.americafirst.com/units/3392",
+      "title": "2022 SANIBEL by FOREST RIVER PRIME TIME 3802",
+      "details": "",
+      "bid_price": "$28,500",
+      "bin_price": "$35,000",
+      "bid_end_date": "10/21/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6ac7ae80698c6.jpeg",
+      "url": "https://repos.americafirst.com/units/3395",
       "source": "AFCU"
     }
   ]
