@@ -1,34 +1,74 @@
 {
-  "last_updated": "2026-10-14 21:34:20 MDT",
+  "last_updated": "2026-10-21 21:38:38 MDT",
   "cars": [
     {
-      "title": "2026 Chevrolet Colorado Work Truck",
-      "details": "5,635 Miles Automatic 4X4 2.7L I-4",
-      "bid_price": "$28,502",
-      "bin_price": "$33,900",
-      "bid_end_date": "10/21/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6ac7b08f3c769.jpeg",
-      "url": "https://repos.americafirst.com/units/3397",
+      "title": "2021 Chevrolet Camaro LT",
+      "details": "38,111 Miles Automatic RWD 2.0L I-4",
+      "bid_price": "$25,000",
+      "bin_price": "$28,500",
+      "bid_end_date": "10/28/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6ad29f8366ff2.jpeg",
+      "url": "https://repos.americafirst.com/units/3399",
       "source": "AFCU"
     },
     {
-      "title": "2019 Nissan Altima 2.5 SR",
-      "details": "118,393 Miles CVT AWD 2.5L I-4",
-      "bid_price": "$8,001",
-      "bin_price": "$11,000",
-      "bid_end_date": "10/21/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6ac7af6103d5f.jpeg",
-      "url": "https://repos.americafirst.com/units/3396",
+      "title": "2022 Chevrolet Silverado 1500 RST",
+      "details": "86,681 Miles Automatic 4X4 5.3L V-8",
+      "bid_price": "$25,900",
+      "bin_price": "$32,900",
+      "bid_end_date": "10/28/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6ad2a8b563328.jpeg",
+      "url": "https://repos.americafirst.com/units/3400",
       "source": "AFCU"
     },
     {
-      "title": "2022 SANIBEL by FOREST RIVER PRIME TIME 3802",
+      "title": "2018 Dutchman TRITON M-3551- 39'",
       "details": "",
-      "bid_price": "$28,500",
-      "bin_price": "$35,000",
-      "bid_end_date": "10/21/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6ac7ae80698c6.jpeg",
-      "url": "https://repos.americafirst.com/units/3395",
+      "bid_price": "$25,500",
+      "bin_price": "$32,000",
+      "bid_end_date": "10/28/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6ad69f76de066.jpeg",
+      "url": "https://repos.americafirst.com/units/3403",
+      "source": "AFCU"
+    },
+    {
+      "title": "2017 FOREST RIVER SANDSTORM M-271SLR",
+      "details": "",
+      "bid_price": "$17,000",
+      "bin_price": "$21,000",
+      "bid_end_date": "10/28/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6ad6967159ed9.jpeg",
+      "url": "https://repos.americafirst.com/units/3402",
+      "source": "AFCU"
+    },
+    {
+      "title": "2022 FORESTRIVER EVO M-2550- 30'",
+      "details": "",
+      "bid_price": "$17,000",
+      "bin_price": "$21,000",
+      "bid_end_date": "10/28/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6ad6a2ec9de81.jpeg",
+      "url": "https://repos.americafirst.com/units/3404",
+      "source": "AFCU"
+    },
+    {
+      "title": "2023 Nissan Rogue SV",
+      "details": "31,573 Miles CVT FWD 1.5L I-3",
+      "bid_price": "$15,903",
+      "bin_price": "",
+      "bid_end_date": "10/28/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6ad293c501ef7.jpeg",
+      "url": "https://repos.americafirst.com/units/3398",
+      "source": "AFCU"
+    },
+    {
+      "title": "2022 RAPTOR M-423-44'",
+      "details": "",
+      "bid_price": "$41,000",
+      "bin_price": "$52,000",
+      "bid_end_date": "10/28/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6ad6853bcf7c5.jpeg",
+      "url": "https://repos.americafirst.com/units/3401",
       "source": "AFCU"
     }
   ]
