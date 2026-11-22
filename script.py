@@ -118,7 +118,7 @@ def send_notifications(new_cars):
 
 
 def write_data(list_of_cars):    
-    current_datetime = datetime.now(ZoneInfo("US/Mountain")).strftime("%Y-%m-%d %H:%M:%S %Z")
+    current_datetime = datetime.now(ZoneInfo("America/Denver")).strftime("%Y-%m-%d %H:%M:%S %Z")
     final_data = {
         "last_updated": current_datetime,
         "cars": list_of_cars
