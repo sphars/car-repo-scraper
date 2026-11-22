@@ -1,94 +1,64 @@
 {
-  "last_updated": "2026-11-04 22:31:51 MST",
+  "last_updated": "2026-11-22 15:28:35 MST",
   "cars": [
     {
-      "title": "2021 Audi SQ5 3.0T quattro Premium Plus",
-      "details": "84,929 Miles Automatic AWD 3.0L V-6",
-      "bid_price": "$18,801",
-      "bin_price": "$22,000",
-      "bid_end_date": "11/11/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6ae8eca13ab83.jpeg",
-      "url": "https://repos.americafirst.com/units/3421",
-      "source": "AFCU"
-    },
-    {
-      "title": "2021 Chevrolet Silverado 3500HD Z71 LT",
-      "details": "120,548 Miles Automatic 4X4 6.6L V-8",
-      "bid_price": "$29,060",
-      "bin_price": "$38,000",
-      "bid_end_date": "11/11/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6ae8df56af3b3.jpeg",
-      "url": "https://repos.americafirst.com/units/3420",
-      "source": "AFCU"
-    },
-    {
-      "title": "2023 FORESTRIVER VIBE M-26RK35'",
-      "details": "",
-      "bid_price": "$20,000",
+      "title": "2023 Dodge Charger GT",
+      "details": "32,889 Miles Automatic RWD 3.6L V-6",
+      "bid_price": "$24,501",
       "bin_price": "$28,000",
-      "bid_end_date": "11/11/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6ae91060c98b9.jpeg",
-      "url": "https://repos.americafirst.com/units/3422",
+      "bid_end_date": "11/25/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6afb6ef61477d.jpeg",
+      "url": "https://repos.americafirst.com/units/3435",
       "source": "AFCU"
     },
     {
-      "title": "2015 GMC AFCU Fleet Unit Sierra 3500HD CC Base",
-      "details": "91,021 Miles Automatic 4X4 6.6L V-8",
-      "bid_price": "$22,000",
+      "title": "2021 GMC Sierra 1500 SLT",
+      "details": "79,481 Miles Automatic 4X4 5.3L V-8",
+      "bid_price": "$29,500",
+      "bin_price": "$37,000",
+      "bid_end_date": "11/25/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6afb8abf08611.jpeg",
+      "url": "https://repos.americafirst.com/units/3440",
+      "source": "AFCU"
+    },
+    {
+      "title": "2022 Honda Pilot SE",
+      "details": "73,638 Miles Automatic AWD 3.5L V-6",
+      "bid_price": "$24,001",
+      "bin_price": "$26,000",
+      "bid_end_date": "11/25/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6afb7ebaa5afc.jpeg",
+      "url": "https://repos.americafirst.com/units/3438",
+      "source": "AFCU"
+    },
+    {
+      "title": "2017 Hyundai ELANTRA MANUAL TRANSMISSION SE",
+      "details": "143,591 Miles Manual FWD 2.0L I-4",
+      "bid_price": "$4,603",
+      "bin_price": "$5,000",
+      "bid_end_date": "11/25/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6afb7ab4625da.jpeg",
+      "url": "https://repos.americafirst.com/units/3437",
+      "source": "AFCU"
+    },
+    {
+      "title": "2019 Hyundai KONA SEL",
+      "details": "87,097 Miles Automatic AWD 2.0L I-4",
+      "bid_price": "$9,751",
       "bin_price": "",
-      "bid_end_date": "11/11/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6ae518aa19bf1.jpeg",
-      "url": "https://repos.americafirst.com/units/3418",
+      "bid_end_date": "11/25/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6afb81e0319c2.jpeg",
+      "url": "https://repos.americafirst.com/units/3439",
       "source": "AFCU"
     },
     {
-      "title": "2022 Kia K5 LXS",
-      "details": "76,808 Miles Automatic FWD 1.6L I-4",
-      "bid_price": "$11,911",
-      "bin_price": "$14,850",
-      "bid_end_date": "11/11/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6ae4e3c62b2a8.jpeg",
-      "url": "https://repos.americafirst.com/units/3416",
-      "source": "AFCU"
-    },
-    {
-      "title": "2021 KODIAK BY DUTCHMAN mm-17rb-21'",
-      "details": "",
-      "bid_price": "$9,900",
-      "bin_price": "$12,000",
-      "bid_end_date": "11/11/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6ae91b0a130f9.jpeg",
-      "url": "https://repos.americafirst.com/units/3423",
-      "source": "AFCU"
-    },
-    {
-      "title": "2015 Toyota Sequoia AFCU FLEET SR5",
-      "details": "114,917 Miles Automatic 4X4 5.7L V-8",
-      "bid_price": "$16,650",
-      "bin_price": "",
-      "bid_end_date": "11/11/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6ae4db6b096c6.jpeg",
-      "url": "https://repos.americafirst.com/units/3415",
-      "source": "AFCU"
-    },
-    {
-      "title": "2023 Toyota Sienna Platinum 7-Passenger",
-      "details": "21,206 Miles CVT AWD 2.5L I-4",
-      "bid_price": "$46,010",
-      "bin_price": "$52,000",
-      "bid_end_date": "11/11/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6ae50af7ed0dd.jpeg",
-      "url": "https://repos.americafirst.com/units/3417",
-      "source": "AFCU"
-    },
-    {
-      "title": "2021 YAMAHA RAPTOR 700",
-      "details": "0 Miles 686cc",
-      "bid_price": "$4,400",
-      "bin_price": "$6,000",
-      "bid_end_date": "11/11/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6ae8d9f4673fe.jpeg",
-      "url": "https://repos.americafirst.com/units/3419",
+      "title": "2024 KTM SX 450 F",
+      "details": "0 Miles 450cc",
+      "bid_price": "$5,750",
+      "bin_price": "$7,800",
+      "bid_end_date": "11/25/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6af3a6ed7b952.jpeg",
+      "url": "https://repos.americafirst.com/units/3434",
       "source": "AFCU"
     }
   ]
