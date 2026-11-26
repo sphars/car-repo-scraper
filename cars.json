@@ -1,64 +1,64 @@
 {
-  "last_updated": "2026-11-22 15:28:35 MST",
+  "last_updated": "2026-11-26 00:11:24 MST",
   "cars": [
     {
-      "title": "2023 Dodge Charger GT",
-      "details": "32,889 Miles Automatic RWD 3.6L V-6",
-      "bid_price": "$24,501",
+      "title": "2023 Jeep Grand Cherokee Limited",
+      "details": "70,376 Miles Automatic 4X4 3.6L V-6",
+      "bid_price": "$19,900",
+      "bin_price": "$25,000",
+      "bid_end_date": "12/2/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6aff839b40632.jpeg",
+      "url": "https://repos.americafirst.com/units/3445",
+      "source": "AFCU"
+    },
+    {
+      "title": "2025 Kawasaki Ninja ZX-10R Base",
+      "details": "5,026 Miles 998cc",
+      "bid_price": "$12,000",
+      "bin_price": "$17,000",
+      "bid_end_date": "12/2/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6afcd469cf55f.jpeg",
+      "url": "https://repos.americafirst.com/units/3444",
+      "source": "AFCU"
+    },
+    {
+      "title": "2020 Kia Optima Special Edition",
+      "details": "120,274 Miles Automatic FWD 2.4L I-4",
+      "bid_price": "$6,756",
+      "bin_price": "$10,500",
+      "bid_end_date": "12/2/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6afccb8f3a86f.jpeg",
+      "url": "https://repos.americafirst.com/units/3441",
+      "source": "AFCU"
+    },
+    {
+      "title": "2024 Polaris RZR XP 4 1000 Sport",
+      "details": "3,987 Miles 999cc",
+      "bid_price": "$14,450",
+      "bin_price": "$17,000",
+      "bid_end_date": "12/2/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6afccdbcef007.jpeg",
+      "url": "https://repos.americafirst.com/units/3442",
+      "source": "AFCU"
+    },
+    {
+      "title": "2019 Subaru Impreza 2.0i",
+      "details": "103,533 Miles Manual AWD 2.0L H-4",
+      "bid_price": "$5,200",
+      "bin_price": "$8,500",
+      "bid_end_date": "12/2/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6b00754e41a4f.jpeg",
+      "url": "https://repos.americafirst.com/units/3446",
+      "source": "AFCU"
+    },
+    {
+      "title": "2022 VENGEANCE by FOREST RIVER ROGUE 26VKS",
+      "details": "",
+      "bid_price": "$23,000",
       "bin_price": "$28,000",
-      "bid_end_date": "11/25/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6afb6ef61477d.jpeg",
-      "url": "https://repos.americafirst.com/units/3435",
-      "source": "AFCU"
-    },
-    {
-      "title": "2021 GMC Sierra 1500 SLT",
-      "details": "79,481 Miles Automatic 4X4 5.3L V-8",
-      "bid_price": "$29,500",
-      "bin_price": "$37,000",
-      "bid_end_date": "11/25/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6afb8abf08611.jpeg",
-      "url": "https://repos.americafirst.com/units/3440",
-      "source": "AFCU"
-    },
-    {
-      "title": "2022 Honda Pilot SE",
-      "details": "73,638 Miles Automatic AWD 3.5L V-6",
-      "bid_price": "$24,001",
-      "bin_price": "$26,000",
-      "bid_end_date": "11/25/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6afb7ebaa5afc.jpeg",
-      "url": "https://repos.americafirst.com/units/3438",
-      "source": "AFCU"
-    },
-    {
-      "title": "2017 Hyundai ELANTRA MANUAL TRANSMISSION SE",
-      "details": "143,591 Miles Manual FWD 2.0L I-4",
-      "bid_price": "$4,603",
-      "bin_price": "$5,000",
-      "bid_end_date": "11/25/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6afb7ab4625da.jpeg",
-      "url": "https://repos.americafirst.com/units/3437",
-      "source": "AFCU"
-    },
-    {
-      "title": "2019 Hyundai KONA SEL",
-      "details": "87,097 Miles Automatic AWD 2.0L I-4",
-      "bid_price": "$9,751",
-      "bin_price": "",
-      "bid_end_date": "11/25/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6afb81e0319c2.jpeg",
-      "url": "https://repos.americafirst.com/units/3439",
-      "source": "AFCU"
-    },
-    {
-      "title": "2024 KTM SX 450 F",
-      "details": "0 Miles 450cc",
-      "bid_price": "$5,750",
-      "bin_price": "$7,800",
-      "bid_end_date": "11/25/26 9:00 AM",
-      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6af3a6ed7b952.jpeg",
-      "url": "https://repos.americafirst.com/units/3434",
+      "bid_end_date": "12/2/26 9:00 AM",
+      "image": "https://repos.americafirst.com/storage/images/unit-pictures/6afcd0d5baa9c.jpeg",
+      "url": "https://repos.americafirst.com/units/3443",
       "source": "AFCU"
     }
   ]
